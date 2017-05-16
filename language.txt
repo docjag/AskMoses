@@ -1,0 +1,77 @@
+English    EN          EN                         
+English                  EN          EN          30           enEN
+English                  EN          MT_EN 60           enMT
+
+German              AT           AT           11           deAT
+German              DE           DE           12           deDE
+German              DE           CH_DE        20           deCH
+German              DE           LU_DE        42           deLU
+
+Swedish             SE           SE           13           seSE
+
+Dutch               NL           NL           14           nlNL
+
+Spanish             ES           ES           15           esES
+
+Italian             IT            IT            16           itIT
+Italian                   IT            CH_IT    22           itCH
+
+French              FR           FR           17           frFR
+French                 FR           CH_FR   21           frCH
+French                 FR           BE_FR   23           frBE
+
+Danish                 DK          DK          18           dkDK
+
+Greek                  GR          GR          19           grGR
+
+Flemish               NL           BE_NL   24           nlBE
+
+Hebrew               HE           IL_HE     25           heIL
+
+Arabic                  AR          IL_AR    26           arIL
+
+Russian                RU          IL_RU    27           ruIL
+
+Czech                   CZ           CZ           28           czCZ
+
+Polish                   PL           PL           29           plPL
+
+Hungarian           HU          HU          32           huHU
+
+Portuguese       PT           PT           33           ptPT
+
+Slovenian           SI            SI            34           siSI
+
+Estonian              EE           EE_EE    36           eeEE
+
+Russian                RU          EE_RU   37           ruEE
+
+Catalan                 EG          EG_EG  39           egEG
+
+Spanish               ES           EG_ES   40           esEG
+
+French                  FR           LU_FR   41           frLU
+
+Portuguese       PT           LU_PT   43           ptLU
+
+Croatian               HR          HR          47           hrHR
+
+Lithuanian           LT            LT            48           ltLT
+
+Bulgarian             BG          BG          51           bgBG
+
+Greek                   GR          GR_CY  53           grCY
+
+Finnish                  FI            FI_FI      55           fiFI
+
+Swedish               SE           FI_SE     56           seFI
+
+Latvian                  LV           LV_LV   57           lvLV
+
+Russian                 RU          LV_RU  58           ruLV
+
+Maltese               MT         MT_MT                59           mtMT
+
+Romanian            RO          RO          61           roRO
+
+Slovak                   SK           SK           63           skSK
