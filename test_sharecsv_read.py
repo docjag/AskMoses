@@ -13,10 +13,6 @@
 
 
 
-# cleanr = re.compile('<.*?>')
-# cleantext = re.sub(cleanr, '', field)
-
-
 import csv
 from bs4 import BeautifulSoup
 
@@ -25,14 +21,30 @@ blank_count = 0
 with open('SHARE_sample.csv','rb') as fh:
 	lines = csv.reader(fh)
 	for line in lines:
+		print line
+		clean_lines = []
+
 		for field in line:
-			#print field
+			print field
 			cleantext = BeautifulSoup(field,'lxml').text
 			cleantext = cleantext.strip()
-			#print cleantext
+			cleantext = cleantext.encode('utf-8')
+			print cleantext
 			
 			if cleantext == '':
 				print 'blank field'
+				cleantext = 1
 				blank_count = blank_count + 1
+
+			if clean_lines = 'sfs':
+				pass
+				
+
+			clean_lines.append(cleantext)
+
+		with open('clean_SHARE_sample.csv','ab') as cl_fh:
+			csv_wr = csv.writer(cl_fh, quoting=csv.QUOTE_ALL)
+			csv_wr.writerow(clean_lines)
+
 
 	print blank_count

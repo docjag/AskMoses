@@ -1,0 +1,138 @@
+ID,Name,Module,QText,Iwer_instruction,Answer,QbyQ,QText SOURCE - English (Generic),Iwer_instruction SOURCE - English (Generic),Answer SOURCE - English (Generic),QbyQ SOURCE - English (Generic),QText German (Austria),Iwer_instruction German (Austria),Answer German (Austria),QbyQ German (Austria),QText German (Germany),Iwer_instruction German (Germany),Answer German (Germany),QbyQ German (Germany)
+5468,CM003_RespFin,Section_CM(),"Later in this interview, we will be asking questions about household and family finances, for example about your savings for old-age and financial support to children and other relatives. We only need to ask these questions of one of you. Which of you would be the one most able to answer questions about your finances? <br />
+<br />
+",Code one only financial respondent," 1. ^MN002_Person[1].Name  
+2. ^MN002_Person[2].Name ",,"Later in this interview, we will be asking questions about household and family finances, for example about your savings for old-age and financial support to children and other relatives. We only need to ask these questions of one of you. Which of you would be the one most able to answer questions about your finances? <br />
+<br />
+",Code one only financial respondent," 1. ^MN002_Person[1].Name  
+2. ^MN002_Person[2].Name ",,"Später in diesem Interview werden wir Fragen über die Haushalts- und Familienfinanzen stellen, z.B. über Ihre Altersvorsorge und finanzielle Unterstützung für Kinder oder andere Verwandte. Diese Fragen müssen wir nur einem von Ihnen stellen. Wer von Ihnen ist am besten in der Lage, Fragen über finanzielle Angelegenheiten zu beantworten?",Nur eine Person als Auskunftgeber für Finanzen angeben," 1. Name von Person 1  
+2. Name von Person 2 ",,"Später während des Interviews werde ich einige Fragen über finanzielle Angelegenheiten des Haushalts und der Familie stellen, z.B. über Ersparnisse für das Alter und finanzielle Unterstützung für Kinder und andere Verwandte. Wir brauchen diese Fragen nur einem von Ihnen zu stellen. Wer von Ihnen ist am besten in der Lage, Fragen über finanzielle Angelegenheiten zu beantworten?","Nur einen Informanten zum Thema ""Finanzen"" auswählen"," 1. Name von Person 1  
+2. Name von Person 2 ",
+5129,DN001_Intro,Section_DN1(),"Let me just repeat that this interview is confidential. Your answers will be used only for research purposes. If we should come to any question you don't want to answer, just let me know and I will go on to the next question. Now I would like to begin by asking some questions about your background.",, 1. Continue ,,"Let me just repeat that this interview is confidential. Your answers will be used only for research purposes. If we should come to any question you don't want to answer, just let me know and I will go on to the next question. Now I would like to begin by asking some questions about your background.",, 1. Continue ,,"Ich möchte nochmals betonen, dass dieses Interview streng vertraulich behandelt wird. Ihre Antworten werden nur in anonymisierter Form für gemeinnützige Forschungszwecke verwendet. Falls Sie eine Frage nicht beantworten wollen, gehen wir zur nächsten Frage. Zu Beginn möchte ich Ihnen einige Fragen zu Ihrem persönlichen und familiären Hintergrund stellen.",, 1. Weiter ,,"Lassen Sie mich noch einmal wiederholen, dass die Teilnahme an diesem Interview freiwillig ist und alle Informationen vertraulich behandelt werden. Ihre Antworten werden ausschließlich für Forschungszwecke verwendet. Sollten Sie eine Frage nicht beantworten wollen, sagen Sie es mir, und wir werden mit der nächsten Frage weitermachen. <br />
+<br />
+Jetzt möchte ich gerne mit einigen Fragen zu Ihrem persönlichen und familiären Hintergrund beginnen.<br />
+<br />
+",, 1. Weiter ,
+4848,DN756_Proxy,Section_DN1(),"<br />
+<br />
+","<br />
+Please check. Who answers the questionnaire?"," 1. Respondent only  
+2. Respondent and proxy  
+3. Proxy only ",,"<br />
+<br />
+","<br />
+Please check. Who answers the questionnaire?"," 1. Respondent only  
+2. Respondent and proxy  
+3. Proxy only ",,,Bitte überprüfen: Wer beantwortet den Fragebogen?," 1. Nur der/die Befragte  
+2. Der/die Befragte und ein/e Stellvertreter/in  
+3. Nur ein/e Stellvertreter/in ",,,Bitte prüfen. Wer beantwortet den Fragebogen? ," 1. Nur Zielperson  
+2. Zielperson und Stellvertreter  
+3. Nur Stellvertreter ",
+3751,DN038_IntCheck,Section_DN1(),"<br />
+<br />
+","<br />
+CHECK: Who answered the questions in this section?"," 1. Respondent only  
+2. Respondent and proxy  
+3. Proxy only ",,"<br />
+<br />
+","<br />
+CHECK: Who answered the questions in this section?"," 1. Respondent only  
+2. Respondent and proxy  
+3. Proxy only ",,,KONTROLLE: Wer hat die Fragen in diesem Abschnitt beantwortet?," 1. Nur der/die Befragte  
+2. Der/die Befragte und ein/e Stellvertreter/in  
+3. Nur ein/e Stellvertreter/in ",,,CHECK: Wer hat die Fragen in diesem Modul beantwortet?," 1. Nur Zielperson  
+2. Zielperson und Stellvertreter  
+3. Nur Stellvertreter ",
+4849,DN755_introcal,Section_DN1(),"Now I am going to ask you questions about things that have happened during your life. <br />
+Some of your answers will appear on the calendar on the screen. <br />
+This may help you remember when other events in your life happened. <br />
+<br />
+","<br />
+Show calendar to the respondent.", 1. Continue ,,"Now I am going to ask you questions about things that have happened during your life. <br />
+Some of your answers will appear on the calendar on the screen. <br />
+This may help you remember when other events in your life happened. <br />
+<br />
+","<br />
+Show calendar to the respondent.", 1. Continue ,,"Ich werde Ihnen nun Fragen zu Ereignissen in Ihrem Leben stellen. 
+Einige Ihrer Antworten werden im Kalender auf dem Bildschirm aufscheinen. 
+Dies kann Ihnen dabei helfen, sich an den Zeitpunkt weiterer Ereignisse in Ihrem Leben zu erinnern. ",Der befragten Person den Kalender zeigen. , 1. Weiter ,,"Ich werde Ihnen nun Fragen stellen über Dinge, die während Ihres Lebens passiert sind. Einige Ihrer Antworten werden in 
+diesem Kalender auf dem Bildschirm sichtbar sein. Dies hilft Ihnen vielleicht dabei sich zu erinnern, wann sich andere Ereignisse in Ihrem Leben ereignet haben.",Zeigen Sie der Zielperson den Kalender. , 1. Weiter ,
+3719,DN042_Gender,BDN_Demographics(),"OBSERVATION <br />
+","<br />
+Note sex of respondent from observation (ask if unsure)"," 1. Male  
+2. Female ",,"OBSERVATION <br />
+","<br />
+Note sex of respondent from observation (ask if unsure)"," 1. Male  
+2. Female ",,"BEOBACHTUNG<br />
+",Notieren Sie das Geschlecht der befragten Person aus Ihrer Beobachtung (bei Unsicherheit nachfragen)," 1. Männlich  
+2. Weiblich ",,BEOBACHTUNG,"Geben Sie das Geschlecht der Zielperson an (nachfragen, falls unsicher)."," 1. Männlich  
+2. Weiblich ",
+3720,DN043_BirthConf,BDN_Demographics(),"Can I just confirm? You were born in  <font color=""red"">[FLDefault[11]<br />/FLDefault[12]<br />/FLDefault[13]<br />/FLDefault[14]<br />/FLDefault[15]<br />/FLDefault[16]<br />/FLDefault[17]<br />/FLDefault[18]<br />/FLDefault[19]<br />/FLDefault[20]<br />/FLDefault[21]]</font>   <font color=""red"">[<i>FLYearFill</i>]</font> ?",," 1. Yes  
+5. No ",,"Can I just confirm? You were born in  <font color=""red"">[FLDefault[11]<br />/FLDefault[12]<br />/FLDefault[13]<br />/FLDefault[14]<br />/FLDefault[15]<br />/FLDefault[16]<br />/FLDefault[17]<br />/FLDefault[18]<br />/FLDefault[19]<br />/FLDefault[20]<br />/FLDefault[21]]</font>   <font color=""red"">[<i>FLYearFill</i>]</font> ?",," 1. Yes  
+5. No ",,"Können Sie mir bitte bestätigen: Sie wurden im  <font color=""red"">[{Geburtsmonat der befragten Person}]</font>   <font color=""red"">[{Geburtsjahr der befragten Person}]</font>  geboren?",," 1. Ja  
+5. Nein ",,"Nur nochmal zur Bestätigung: Sie wurden im  <font color=""red"">[{Geburtsmonat der Zielperson}]</font>   <font color=""red"">[{Geburtsjahr der Zielperson}]</font>  geboren?",," 1. Ja  
+5. Nein ",
+3721,DN002_MoBirth,BDN_Demographics(),"In which <b>month</b> and year were you born? <br />
+<br />
+<b>MONTH</b>: <br />
+YEAR:",," 1. January  
+2. February  
+3. March  
+4. April  
+5. May  
+6. June  
+7. July  
+8. August  
+9. September  
+10. October  
+11. November  
+12. December ",,"In which <b>month</b> and year were you born? <br />
+<br />
+<b>MONTH</b>: <br />
+YEAR:",," 1. January  
+2. February  
+3. March  
+4. April  
+5. May  
+6. June  
+7. July  
+8. August  
+9. September  
+10. October  
+11. November  
+12. December ",,"In welchem <b>Monat</b> und Jahr wurden Sie geboren? <br />
+<br />
+<b>MONAT</b>:<br />
+JAHR:",," 1. Jänner  
+2. Februar  
+3. März  
+4. April  
+5. Mai  
+6. Juni  
+7. Juli  
+8. August  
+9. September  
+10. Oktober  
+11. November  
+12. Dezember ",,In welchem <b>Monat</b> und Jahr wurden Sie geboren? <br /><br /><b>MONAT</b>: <br />JAHR:,," 1. Januar  
+2. Februar  
+3. März  
+4. April  
+5. Mai  
+6. Juni  
+7. Juli  
+8. August  
+9. September  
+10. Oktober  
+11. November  
+12. Dezember ",
+3722,DN003_YearBirth,BDN_Demographics(),"In which month and <b>year</b> were you born? <br />
+<br />
+MONTH:  <font color=""red"">[DN002_MoBirth]</font>  <br />
+<b>YEAR</b>:",, (1900..2017) ,,"In which month and <b>year</b> were you born? <br />
+<br />
+MONTH:  <font color=""red"">[DN002_MoBirth]</font>  <br />
+<b>YEAR</b>:",, (1900..2017) ,,"In welchem Monat und <b>Jahr</b> wurden Sie geboren?<br />
+<br />
+MONAT:  <font color=""red"">[DN002_MoBirth]</font>  <br />
+<b>JAHR:</b>",, (1900..2017) ,,"In welchem Monat und <b>Jahr</b> wurden Sie geboren? <br /><br />MONAT:  <font color=""red"">[DN002_MoBirth]</font>  <br /><b>JAHR</b>:",, (1900..2017) ,
