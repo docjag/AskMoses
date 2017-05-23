@@ -1,20 +1,21 @@
+#!/home/sohel/anaconda2/bin/python
+# -*- coding: utf-8 -*-
+
+# @Author: Sohel Mahmud
+# @Date: 15.05.17
+# @Description: Read the csv file of SHARE-EU and 
+#               execute the Sanity checks.
+# The sanity checks are as follows:
+# 					1. Empty cells
+# 					2. Duplicates
+#					3. Numbering
+#					4. Translation
+
+
+
+
 import csv
 
-# with open('SHARE_sample.csv','rb') as fh:
-# 	reader = csv.DictReader(fh)
-
-# 	for line in reader:
-# 		headers = line.keys()
-# 		break;
-
-# 	for item in headers:
-# 	    if item.startswith('QbyQ'):
-# 	    	headers.remove(item)
-	    
-# 	    elif item == 'Name' or item == 'ID':
-# 	    	headers.remove(item)
-
-# 	header_size = len(headers)
 
 
 suffix = ['QText','IWER','','']

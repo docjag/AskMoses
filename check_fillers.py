@@ -4,38 +4,39 @@
 # @Author: Sohel Mahmud
 # @Date: 15.05.17
 # @Description: Read the csv file of SHARE-EU and 
-#               execute the Sanity checks.
-# The sanity checks are as follows:
-# 					1. Empty cells
-# 					2. Duplicates
-#					3. Numbering
+#               check the fillers
+# The fillers are as follows:
+# 1. /FLDefault[12]
+# 2. [{--FLDefault[94]--}]
+# 3. [{--FLLastInterviewMonthYear--}]
+# 4. [{--FLChildName--}]
+# 5. [{--FLCurr--}]
+# 6. [{--FLLastYear--}]
+# 7. [{--FLLastMonthYear--}]
+# 8. [FL_HH001_1] 
+# 9. [Thinking of the first of these relationships, what/What/Thinking of your'+FLNumber+' marriage, what] was your partner's first name?
 
 
 
 import csv
+import re
 
-
-fitness = u'Fitness(\u03C3)'.encode('utf-8')
-distance = u'Distance(\u03B4)'.encode('utf-8')
-col_titles = ['ITEM','Mod','Lang','Source Text','Sanity Check1','Sanity Check2','Sanity Check3','Moses Check1','Back Translation',fitness, distance,'Flag']
-
-
-with open('Report.csv','wb') as cl_fh:
-			csv_wr = csv.writer(cl_fh, quoting=csv.QUOTE_ALL)
-			csv_wr.writerow(col_titles)
-
-
-header = []
-flag = False
-
-with open('SHARE_sample.csv','rb') as fh:
+with open('clean_SHARE_sample.csv','rb') as fh:
 	lines = csv.reader(fh)
+	lines.next()
+
 	for line in lines:
-		if flag == False:
-			header = line
-			flag = True
+		# qtext = line[3]
+		for cols in line:
 
-		item = line[1].split('_')[0]
-		mod = item[:2]
-		print type(item)
+			# For String having -FL- substring
+			fl_words = re.findall('\S+FL\S+',cols)
+			print fl_words
 
+			# for [{String}] format regular expression
+			test1 = re.findall('.*[{[^ ]*}]',cols)
+			print test1
+
+			# for [{String}] format regular expression
+			test2 = re.findall('.*[[^ ]*]',cols)
+			print test2
