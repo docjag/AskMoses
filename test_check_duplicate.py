@@ -7,7 +7,6 @@
 #     			Split multiple answers
 
 
-
 import csv
 from collections import OrderedDict
 
@@ -18,6 +17,7 @@ with open('clean_SHARE_sample.csv','rb') as fh:
 	lines.next()
 
 	for line in lines:
+		sanity_check2 = 0
 
 		share_id = line[0].strip()
 		item = line[1].strip().split('_')[0] + '_' + 'resp' + '_a'
@@ -29,14 +29,12 @@ with open('clean_SHARE_sample.csv','rb') as fh:
 			ans[i] = ans[i].strip()
 			item_resp =  item + str(i + 1)
 
-			print item_resp, ans[i]
+			if resp_dict.has_key(ans[i]):
+				sanity_check2 = 1
 
-			if resp_dict.has_key(item_resp):
-				ref = resp_dict[item_resp]
-				print item_resp, resp_dict[item_resp]
-				print ref
+				print 'dulicate found'
 
-
-        	else:
-        		resp_dict[item_resp] = ans[i]
-        		print item_resp, resp_dict[item_resp]
+			else:
+				resp_dict[ans[i]] = item_resp
+			
+			print item_resp, ans[i], sanity_check2
