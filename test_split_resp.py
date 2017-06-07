@@ -18,6 +18,7 @@ with open('clean_SHARE_sample.csv','rb') as fh:
 	lines.next()
 
 	for line in lines:
+		print len(line)
 		item = line[1].strip().split('_')[0] + '_' + 'resp' + '_a'
 		qtext = line[5].strip()
 
@@ -31,8 +32,8 @@ with open('clean_SHARE_sample.csv','rb') as fh:
 			resp_dict[item_resp] = ans[i]
 
 
-for key, value in resp_dict.items():
-	print key+' : '+ value
+# for key, value in resp_dict.items():
+# 	print key+' : '+ value
 
 
-print resp_dict
+# print resp_dict

@@ -1,0 +1,26 @@
+Item: Name
+
+
+LANG: enEn
+
+_QText
+_Iwer
+_resp_a1
+_resp_a2
+_resp_a3
+
+Lang: deAT
+
+_QText
+_Iwer
+_resp_a1
+_resp_a2
+_resp_a3
+
+Lang: deDE
+
+_QText
+_Iwer
+_resp_a1
+_resp_a2
+_resp_a3
