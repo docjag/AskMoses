@@ -62,7 +62,7 @@ def write_report_header():
 
 	fitness = u'Fitness(\u03C3)'.encode('utf-8')
 	distance = u'Distance(\u03B4)'.encode('utf-8')
-	col_titles = ['ITEM','Mod','Lang','Source Text','Sanity Check1','Sanity Check2','Sanity Check3','Moses Check1','Back Translation',fitness, distance,'Flag']
+	col_titles = ['ITEM','Lang','Generic English','Source Text','Sanity Check1','Sanity Check2','Sanity Check3','Sanity Check4','Moses Check1','Back Translation',fitness, distance,'Flag']
 
 
 	with open('Report.csv','wb') as cl_fh:
