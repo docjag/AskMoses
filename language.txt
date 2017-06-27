@@ -1,4 +1,3 @@
-English    EN          EN                         
 English                  EN          EN          30           enEN
 English                  EN          MT_EN 60           enMT
 

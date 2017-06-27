@@ -8,7 +8,7 @@
 
 import csv
 
-header = ['Language', 'Country','Data Release','Code']
+header = ['Language', 'Country Name', 'Country Code','Data Release1','Data Release2','language Code']
 
 with open('language_code.csv','ab') as fh_csv:
 				csv_wr = csv.writer(fh_csv, quoting=csv.QUOTE_ALL)
