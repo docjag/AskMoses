@@ -26,7 +26,21 @@ lang_dict = {
 		'English': 'enMT',
 		'Maltese': 'mtMT'
 	},
-	'France': 'frFR'
+	'France': 'frFR',
+	'Switzerland':{
+		'French': 'frCH',
+		'German':'deCH',
+		'Italian':'itCH'
+	},
+	'Belgium': {
+		'French': 'frBE',
+		'Dutch': 'nlBE'
+	},
+	'Luxembourg': {
+		'French':'frLU',
+		'German':'deLU'
+	}
+
 }
 
 
@@ -104,14 +118,14 @@ def check_numbering(text):
 	# text2 = 'We need $455 for the enrollment'
 	# text3 = '(1900..2017)'
 
-	if re.findall('^[0-9]+\.\s.*',text)
+	test1 = re.findall('^[0-9]+\.\s.*',text)
 	print test1
 
-	test2 = re.findall('^\([0-9\.]+\)$',text3)
+	test2 = re.findall('^\([0-9\.]+\)$',text)
 	print test2
 
 	text4 = 'a'
-	test3 = re.findall('ab*',text4)
+	test3 = re.findall('ab*',text)
 	print test3
 
 # check the fillers: 
@@ -174,8 +188,7 @@ def qtext():
 		name = line[1].split('_')[0] + '_'
 		item = name + 'Qtext'
 		generic_english = line[7]
-		#source_text = line[7+4]
-		source_text = ""
+		source_text = line[7+4]
 
 		print item
 		print lang_id
@@ -193,7 +206,7 @@ def qtext():
 ########################################################################################
 
 # Writing the header in the csv file
-#writerow_report_header()
+write_report_header()
 
 # Getting the QText
 qtext()
