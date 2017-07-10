@@ -147,6 +147,8 @@ with open('clean_SHARE_sample.csv','rb') as fh:
 			# For Response
 			item = name + first_line[fl + 2].split(' ')[0] + '_' + 'resp' + '_a'
 
+			print type(line[fl + 2])
+
 			if line[fl + 2] in ans_list:
 				sanity_check2 = '1'
 
@@ -156,8 +158,8 @@ with open('clean_SHARE_sample.csv','rb') as fh:
 
 			test_dict = split_resp(item, line[eng + 2], line[fl + 2])
 
-			for key, val in test_dict.items():
-				report_write(key, lang_id, val[0], val[1], sanity_check2)
+			# for key, val in test_dict.items():
+			# 	report_write(key, lang_id, val[0], val[1], sanity_check2)
 
 	print ans_list
 	print len(ans_list)

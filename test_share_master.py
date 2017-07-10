@@ -14,6 +14,7 @@
 
 import re
 import csv
+from bs4 import BeautifulSoup
 from collections import OrderedDict
 
 # Language-Country map dictionary
@@ -45,7 +46,7 @@ lang_dict = {
 ## Cleaning the HTML tags and other symbols from the data filefrom the string with BeautifulSoup
 def clean_file(file_name):
 
-	with open('SHARE_sample.csv','rb') as fh:
+	with open(file_name,'rb') as fh:
 		lines = csv.reader(fh)
 		for line in lines:
 			print line
@@ -54,13 +55,14 @@ def clean_file(file_name):
 			for field in line:
 				print field
 				cleantext = BeautifulSoup(field,'lxml').text
-				cleantext = cleantext.strip()
+				#cleantext = cleantext.strip()
+				cleantext =  re.sub(' +',' ', cleantext).strip()
 				cleantext = cleantext.encode('utf-8')
 				print cleantext
 				
 				clean_lines.append(cleantext)
 
-			with open('clean_SHARE_sample.csv','ab') as cl_fh:
+			with open('clean_SHARE_all.csv','ab') as cl_fh:
 				csv_wr = csv.writer(cl_fh, quoting=csv.QUOTE_ALL)
 				csv_wr.writerow(clean_lines)
 
@@ -133,7 +135,8 @@ def write_report_header():
 
 	fitness = u'Fitness(\u03C3)'.encode('utf-8')
 	distance = u'Distance(\u03B4)'.encode('utf-8')
-	col_titles = ['ITEM','Lang','Generic English','Source Text','Sanity Check1','Sanity Check2','Sanity Check3','Sanity Check4','Moses Check1','Back Translation',fitness, distance,'Flag']
+	# col_titles = ['ITEM','Lang','Generic English','Source Text','Sanity Check1','Sanity Check2','Sanity Check3','Sanity Check4','Moses Check1','Back Translation',fitness, distance,'Flag']
+	col_titles = ['ITEM','Lang','Generic English','Source Text','Sanity Check1','Sanity Check2','Sanity Check3','Sanity Check4']
 
 
 	with open('Report.csv','wb') as cl_fh:
@@ -174,7 +177,10 @@ def split_resp(item, resp_eng, resp_fl):
 ############ Main body of the program: ##########
 #################################################
 
-with open('clean_SHARE_sample.csv','rb') as fh:
+clean_file('SHARE_all.csv')
+write_report_header()
+
+with open('clean_SHARE_all.csv','rb') as fh:
 	lines = csv.reader(fh)
 	first_line = next(lines)
 

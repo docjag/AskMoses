@@ -1,0 +1,64 @@
+CM003_QText,deAT,Später in diesem Interview werden wir Fragen über die Haushalts- und Familienfinanzen stellen, z.B. über Ihre Altersvorsorge und finanzielle Unterstützung für Kinder oder andere Verwandte. Diese Fragen müssen wir nur einem von Ihnen stellen. Wer von Ihnen ist am besten in der Lage, Fragen über finanzielle Angelegenheiten zu beantworten?
+CM003_Iwer,deAT,Nur eine Person als Auskunftgeber fĂźr Finanzen angeben
+CM003_QText,deDE,Später während des Interviews werde ich einige Fragen über finanzielle Angelegenheiten des Haushalts und der Familie stellen, z.B. über Ersparnisse für das Alter und finanzielle Unterstützung für Kinder und andere Verwandte. Wir brauchen diese Fragen nur einem von Ihnen zu stellen. Wer von Ihnen ist am besten in der Lage, Fragen über finanzielle Angelegenheiten zu beantworten?
+CM003_Iwer,deDE,Nur einen Informanten zum Thema Finanzen auswĂ¤hlen
+DN001_QText,deAT,Ich möchte nochmals betonen, dass dieses Interview streng vertraulich behandelt wird. Ihre Antworten werden nur in anonymisierter Form für gemeinnützige Forschungszwecke verwendet. Falls Sie eine Frage nicht beantworten wollen, gehen wir zur nächsten Frage. Zu Beginn möchte ich Ihnen einige Fragen zu Ihrem persönlichen und familiären Hintergrund stellen.
+DN001_Answer_resp_a1,deAT,1. Weiter
+DN001_QText,deDE,Lassen Sie mich noch einmal wiederholen, dass die Teilnahme an diesem Interview freiwillig ist und alle Informationen vertraulich behandelt werden. Ihre Antworten werden ausschließlich für Forschungszwecke verwendet. Sollten Sie eine Frage nicht beantworten wollen, sagen Sie es mir, und wir werden mit der nächsten Frage weitermachen. 
+
+Jetzt möchte ich gerne mit einigen Fragen zu Ihrem persönlichen und familiären Hintergrund beginnen.
+DN756_Iwer,deAT,Bitte ĂźberprĂźfen: Wer beantwortet den Fragebogen?
+DN756_Answer_resp_a1,deAT,1. Nur der/die Befragte
+DN756_Answer_resp_a2,deAT,2. Der/die Befragte und ein/e Stellvertreter/in
+DN756_Answer_resp_a3,deAT,3. Nur ein/e Stellvertreter/in
+DN756_Iwer,deDE,Bitte prĂźfen. Wer beantwortet den Fragebogen?
+DN756_Answer_resp_a1,deDE,1. Nur Zielperson
+DN756_Answer_resp_a2,deDE,2. Zielperson und Stellvertreter
+DN756_Answer_resp_a3,deDE,3. Nur Stellvertreter
+DN038_Iwer,deAT,KONTROLLE: Wer hat die Fragen in diesem Abschnitt beantwortet?
+DN038_Iwer,deDE,CHECK: Wer hat die Fragen in diesem Modul beantwortet?
+DN755_QText,deAT,Ich werde Ihnen nun Fragen zu Ereignissen in Ihrem Leben stellen. 
+Einige Ihrer Antworten werden im Kalender auf dem Bildschirm aufscheinen. 
+Dies kann Ihnen dabei helfen, sich an den Zeitpunkt weiterer Ereignisse in Ihrem Leben zu erinnern.
+DN755_Iwer,deAT,Der befragten Person den Kalender zeigen.
+DN755_QText,deDE,Ich werde Ihnen nun Fragen stellen Ăźber Dinge, die wĂ¤hrend Ihres Lebens passiert sind. Einige Ihrer Antworten werden in 
+diesem Kalender auf dem Bildschirm sichtbar sein. Dies hilft Ihnen vielleicht dabei sich zu erinnern, wann sich andere Ereignisse in Ihrem Leben ereignet haben.
+DN755_Iwer,deDE,Zeigen Sie der Zielperson den Kalender.
+DN042_QText,deAT,BEOBACHTUNG
+DN042_Iwer,deAT,Notieren Sie das Geschlecht der befragten Person aus Ihrer Beobachtung (bei Unsicherheit nachfragen)
+DN042_Answer_resp_a1,deAT,1. MÃ¤nnlich
+DN042_Answer_resp_a2,deAT,2. Weiblich
+DN042_QText,deDE,BEOBACHTUNG
+DN042_Iwer,deDE,Geben Sie das Geschlecht der Zielperson an (nachfragen, falls unsicher).
+DN043_Answer_resp_a1,deAT,1. Ja
+DN043_Answer_resp_a2,deAT,5. Nein
+DN002_QText,deAT,In welchem Monat und Jahr wurden Sie geboren? 
+
+MONAT:
+JAHR:
+DN002_Answer_resp_a1,deAT,1. JĂ¤nner
+DN002_Answer_resp_a2,deAT,2. Februar
+DN002_Answer_resp_a3,deAT,3. MĂ¤rz
+DN002_Answer_resp_a4,deAT,4. April
+DN002_Answer_resp_a5,deAT,5. Mai
+DN002_Answer_resp_a6,deAT,6. Juni
+DN002_Answer_resp_a7,deAT,7. Juli
+DN002_Answer_resp_a8,deAT,8. August
+DN002_Answer_resp_a9,deAT,9. September
+DN002_Answer_resp_a10,deAT,10. Oktober
+DN002_Answer_resp_a11,deAT,11. November
+DN002_Answer_resp_a12,deAT,12. Dezember
+DN002_QText,deDE,In welchem Monat und Jahr wurden Sie geboren? MONAT: JAHR:
+DN002_Answer_resp_a1,deDE,1. Januar
+DN002_Answer_resp_a2,deDE,2. Februar
+DN002_Answer_resp_a3,deDE,3. MĂ¤rz
+DN002_Answer_resp_a4,deDE,4. April
+DN002_Answer_resp_a5,deDE,5. Mai
+DN002_Answer_resp_a6,deDE,6. Juni
+DN002_Answer_resp_a7,deDE,7. Juli
+DN002_Answer_resp_a8,deDE,8. August
+DN002_Answer_resp_a9,deDE,9. September
+DN002_Answer_resp_a10,deDE,10. Oktober
+DN002_Answer_resp_a11,deDE,11. November
+DN002_Answer_resp_a12,deDE,12. Dezember
+DN003_Answer_resp_a1,deAT,(1900..2017)
