@@ -165,10 +165,11 @@ def write_report_header():
 				csv_wr.writerow(col_titles)
 
 
-def report_write(item, lang, text_en, text_fl, check1, check2, check3, check4):
+#def report_write(item, lang, text_en, text_fl, check1, check2, check3, check4):
+def report_write(write_list):
 	with open('Report.csv','ab') as cl_fh:
 			csv_wr = csv.writer(cl_fh, delimiter=',', quoting=csv.QUOTE_ALL)
-			csv_wr.writerow([item, lang, text_en, text_fl, check1, check2, check3, check4])
+			csv_wr.writerow(write_list)
 
 
 def split_resp(item, resp_eng, resp_fl):
@@ -180,11 +181,11 @@ def split_resp(item, resp_eng, resp_fl):
 	ans_eng = resp_eng.split('\n')
 	ans_fl = resp_fl.split('\n')
 			
-	for i in range(len(ans_fl)):
+	for i in range(len(ans_eng)):
 		en_fl_list = []
 		item_resp =  item + str(i + 1)
 
-		#ans_eng[i] = ans_eng[i].strip()
+		ans_eng[i] = ans_eng[i].strip()
 		ans_fl[i] = ans_fl[i].strip()
 
 		en_fl_list.extend([ans_eng[i],ans_fl[i]]) 
@@ -193,6 +194,20 @@ def split_resp(item, resp_eng, resp_fl):
 
 	return resp_dict
 
+
+# Check the text wheter it is blank or not before performing the sanity check
+def check_text(text):
+	if blank_check(text) == "1":
+		sanity_check1 = '1'
+		sanity_check3 = ''
+		sanity_check4 = ''
+
+	else:
+		sanity_check1 = ''
+		sanity_check3 = check_numbering(text)
+		sanity_check4 = check_fillers(text)
+
+	return [sanity_check1, sanity_check2, sanity_check3, sanity_check4]
 
 #################################################
 ############ Main body of the program: ##########
@@ -217,6 +232,10 @@ with open('clean_SHARE_all.csv','rb') as fh:
 	for line in lines:
 
 		name = line[1].split('_')[0] + '_'
+
+		# start = 11
+		# end = len(first_line)
+		#for fl in range(start,end,4):
 		
 		for fl in fl_list:
 			country = first_line[fl].split(' ')[2].strip('()')
@@ -229,12 +248,13 @@ with open('clean_SHARE_all.csv','rb') as fh:
 			print 'QTEXT: ',item
 			print line[fl]
 
-			if blank_check(line[fl]) == '1':
-				report_write(item, lang_id, line[eng], line[fl], "1", "","", "")
+			write_list = []
+			write_list = [item, lang_id, line[eng], line[fl]]
+			write_list.extend(check_text(line[fl]))
 
-			else:
-				report_write(item, lang_id, line[eng], line[fl], "", "", check_numbering(line[fl]), check_fillers(line[fl]))
-
+			#report_write(item, lang_id, line[eng], line[fl], blank_check(line[eng]), "","", check_fillers(line[eng]))
+			#report_write(item, lang_id, line[eng], line[fl], sanity_check1, sanity_check2, sanity_check3, sanity_check4)
+			report_write(write_list)
 			
 			# for IWER
 			item = name + first_line[fl + 1].split(' ')[0].split('_')[0]
@@ -242,43 +262,35 @@ with open('clean_SHARE_all.csv','rb') as fh:
 			print line[eng + 1] == ''
 			print blank_check(line[eng + 1])
 
-			if blank_check(line[fl+1]) == '1':
-				report_write(item, lang_id, line[eng + 1], line[fl + 1], "1", "","", "")
-
-			else:
-				report_write(item, lang_id, line[eng + 1], line[fl + 1], "", "", check_numbering(line[fl]), check_fillers(line[fl]))
-
+			write_list = []
+			write_list = [item, lang_id, line[eng + 1], line[fl + 1]]
+			write_list.extend(check_text(line[fl]))
 
 			#report_write(item, lang_id, line[eng + 1], line[fl + 1], blank_check(line[eng + 1]), "", "", check_fillers(line[eng + 1]))
+			report_write(write_list)
 
 			# For Response
 			item = name + first_line[fl + 2].split(' ')[0] + '_' + 'resp' + '_a'
 
-			if blank_check(line[fl + 2]) == '1':
-				report_write(item, lang_id, val[0], val[1], "1", "","", "")
+			## Duplicate Answer check
+			if line[fl + 2] in ans_list:
+				sanity_check2 = '1'
 
 			else:
-				
-				## Duplicate Answer check
-				# if line[fl + 2] in ans_list:
-				# 	sanity_check2 = '1'
+				ans_list.append(line[fl + 2])
+				sanity_check2 = ''
 
-				# else:
-				# 	ans_list.append(line[fl + 2])
-				# 	sanity_check2 = ''
+			test_dict = split_resp(item, line[eng + 2], line[fl + 2])
 
-				print len(line[fl + 2])
-				print type(line[fl + 2])
-				print line[fl + 2]
+			for key, val in test_dict.items():
+				print key, val[1]
+				write_list = []
+				write_list = [item, lang_id, line[eng + 1], line[fl + 1]]
+				write_list.extend(check_text(line[fl]))
+				report_write(write_list)
+				#report_write(key, lang_id, val[0], val[1], blank_check(val[0]), sanity_check2, check_numbering(val[0]), check_fillers(val[0]))
 
-				test_dict = split_resp(item, line[eng + 2], line[fl + 2])
-
-				for key, val in test_dict.items():
-					print key, val[1]
-					report_write(item, lang_id, val[0], val[1], "", "", check_numbering(line[fl]), check_fillers(line[fl]))	
-					#report_write(key, lang_id, val[0], val[1], blank_check(val[0]), sanity_check2, check_numbering(val[0]), check_fillers(val[0]))
-
-				print '\n'
+			print '\n'
 
 
 print ans_list
