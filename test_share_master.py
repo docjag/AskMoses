@@ -14,40 +14,76 @@
 
 import re
 import csv
-from bs4 import BeautifulSoup
 from collections import OrderedDict
 
-# Language-Country map dictionary
-lang_dict = {
-	'Generic': 'enEN',
-	'Germany': 'deDE',
-	'Austria': 'deAT',
-	'Malta': {
-		'English': 'enMT',
-		'Maltese': 'mtMT'
-	},
-	'France': 'frFR',
-	'Switzerland':{
-		'French': 'frCH',
-		'German':'deCH',
-		'Italian':'itCH'
-	},
-	'Belgium': {
-		'French': 'frBE',
-		'Dutch': 'nlBE'
-	},
-	'Luxembourg': {
-		'French':'frLU',
-		'German':'deLU'
-	}
+## Country-Language map dictionary
+# lang_dict = {
+# 	'Generic': 'enEN',
+# 	'Germany': 'deDE',
+# 	'Austria': 'deAT',
+# 	'Malta': {
+# 		'English': 'enMT',
+# 		'Maltese': 'mtMT'
+# 	},
+# 	'France': 'frFR',
+# 	'Switzerland':{
+# 		'French': 'frCH',
+# 		'German':'deCH',
+# 		'Italian':'itCH'
+# 	},
+# 	'Belgium': {
+# 		'French': 'frBE',
+# 		'Dutch': 'nlBE'
+# 	},
+# 	'Luxembourg': {
+# 		'French':'frLU',
+# 		'German':'deLU'
+# 	}
 
+# }
+
+# Language-Country map dictionary
+# ? languages an ?? countries
+lang_dict = {
+	'German':
+	{
+		'Germany':'deDE',
+		'Austria':'deAT',
+		'Switzerlang':'deCH',
+		'Luxembourg':'deLU'
+	},
+	'French':
+	{
+		'France':'frFR',
+		'Switzerland':'frCH',
+		'Luxembourg':'frLU',
+		'Belgium': 'frBE'	
+	},
+	'Maltese':
+	{
+		'Malta': 'mtMT'
+	}
 }
+
+
 
 ## Cleaning the HTML tags and other symbols from the data file from the string with BeautifulSoup
 def clean_file(file_name):
 
 	with open(file_name,'rb') as fh:
+		
 		lines = csv.reader(fh)
+
+		first_line = next(lines)
+		first_line[7] = 'QText English (Generic)'
+		first_line[8] = 'Iwer_instruction English (Generic)'
+		first_line[9] = 'Answer English (Generic)'
+		first_line[10] = 'QbyQ English (Generic)'
+
+		with open('clean_SHARE_all.csv','ab') as cl_fh:
+			csv_wr = csv.writer(cl_fh, delimiter=',', quoting=csv.QUOTE_ALL)
+			csv_wr.writerow(first_line)
+
 		for line in lines:
 			clean_lines = []
 
@@ -71,9 +107,9 @@ def language_picker(file_name):
 
 	lang_list = []
 
-	language = raw_input('Enter the name of the language: ',)
-	print language.title()
-	language = 'QText ' + language.title()
+	fl_lang = raw_input('Enter the name of the language: ',).title()
+	print fl_lang
+	language = 'QText ' + fl_lang
 
 	with open(file_name,'rb') as fh:
 		lines = csv.reader(fh)
@@ -83,7 +119,7 @@ def language_picker(file_name):
 				lang_list.append(first_line.index(i))
 
 	print lang_list
-	return lang_list
+	return lang_list, fl_lang
 
 
 
@@ -183,8 +219,9 @@ def split_resp(item, resp_eng, resp_fl):
 	for i in range(len(ans_fl)):
 		en_fl_list = []
 		item_resp =  item + str(i + 1)
+		print item_resp
 
-		#ans_eng[i] = ans_eng[i].strip()
+		ans_eng[i] = ans_eng[i].strip()
 		ans_fl[i] = ans_fl[i].strip()
 
 		en_fl_list.extend([ans_eng[i],ans_fl[i]]) 
@@ -205,8 +242,9 @@ write_report_header()
 
 # Generic Engish start from index 7 (QText English (Generic))
 eng = 7
-fl_list = [eng] 
-fl_list.extend(language_picker(file_name))
+#fl_list = [eng]
+fl_list, flang = language_picker(file_name)
+#fl_list.extend(lpicker_list)
 
 with open('clean_SHARE_all.csv','rb') as fh:
 	lines = csv.reader(fh)
@@ -220,9 +258,11 @@ with open('clean_SHARE_all.csv','rb') as fh:
 		
 		for fl in fl_list:
 			country = first_line[fl].split(' ')[2].strip('()')
-			lang_id = lang_dict[country]
+			print flang
 
-			print 'lang: ',lang_id
+			lang_id = lang_dict[flang][country]
+
+			print 'language ID: ',lang_id
 
 			# For QTEXT
 			item = name + first_line[fl].split(' ')[0]
@@ -275,7 +315,7 @@ with open('clean_SHARE_all.csv','rb') as fh:
 
 				for key, val in test_dict.items():
 					print key, val[1]
-					report_write(item, lang_id, val[0], val[1], "", "", check_numbering(line[fl]), check_fillers(line[fl]))	
+					report_write(key, lang_id, val[0], val[1], "", "", check_numbering(line[fl]), check_fillers(line[fl]))	
 					#report_write(key, lang_id, val[0], val[1], blank_check(val[0]), sanity_check2, check_numbering(val[0]), check_fillers(val[0]))
 
 				print '\n'
