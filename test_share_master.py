@@ -131,6 +131,10 @@ def blank_check(text):
 		print 'blank field'
 		return "1"
 
+	elif text.startswith('_'):
+		print 'blank field'
+		return "1"
+
 	else:
 		return ""
 
@@ -142,14 +146,16 @@ def check_numbering(text):
 	if text == "":
 		return ""
 
-	if re.findall('^[0-9]+\.\s.*',text):
-		return ""
+	if text[0].isdigit():
+		
+		if re.findall('^[0-9]+\.\s.*',text):
+			return ""
 
-	elif re.findall('^\([0-9\.]+\)$',text):
-		return ""
+		elif re.findall('^\([0-9\.]+\)$',text):
+			return ""
 
-	else:
-		return "1"
+		else:
+			return "1"
 
 
 # check the fillers: -- Sanity Check4
@@ -177,10 +183,6 @@ def check_fillers(text):
 
 	# for [{String}] format regular expression
 	elif re.findall('.*[{[^ ]*}]',text): 
-		return "1"
-
-	# for [{String}] format regular expression
-	elif re.findall('.*[[^ ]*]',text):
 		return "1"
 
 	else:
@@ -279,17 +281,13 @@ with open('clean_SHARE_all.csv','rb') as fh:
 			# for IWER
 			item = name + first_line[fl + 1].split(' ')[0].split('_')[0]
 			print item, line[fl + 1]
-			print line[eng + 1] == ''
-			print blank_check(line[eng + 1])
 
 			if blank_check(line[fl+1]) == '1':
 				report_write(item, lang_id, line[eng + 1], line[fl + 1], "1", "","", "")
 
 			else:
-				report_write(item, lang_id, line[eng + 1], line[fl + 1], "", "", check_numbering(line[fl]), check_fillers(line[fl]))
+				report_write(item, lang_id, line[eng + 1], line[fl + 1], "", "", check_numbering(line[fl + 1]), check_fillers(line[fl+1]))
 
-
-			#report_write(item, lang_id, line[eng + 1], line[fl + 1], blank_check(line[eng + 1]), "", "", check_fillers(line[eng + 1]))
 
 			# For Response
 			item = name + first_line[fl + 2].split(' ')[0] + '_' + 'resp' + '_a'
@@ -315,8 +313,7 @@ with open('clean_SHARE_all.csv','rb') as fh:
 
 				for key, val in test_dict.items():
 					print key, val[1]
-					report_write(key, lang_id, val[0], val[1], "", "", check_numbering(line[fl]), check_fillers(line[fl]))	
-					#report_write(key, lang_id, val[0], val[1], blank_check(val[0]), sanity_check2, check_numbering(val[0]), check_fillers(val[0]))
+					report_write(key, lang_id, val[0], val[1], "", "", check_numbering(val[1]), check_fillers(val[1]))	
 
 				print '\n'
 
