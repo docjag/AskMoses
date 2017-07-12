@@ -1,0 +1,1822 @@
+CM003_QText , frFR , and later the repercussions of this meeting , we we intéresserons the Council of your Presidency , for example to your savings to the social , financial support for Taiwan to your . ) we continuously put these questions , only once . Lequel d'entre you would the producers to respond to the questions d'ordre instrument ? 
+CM003_Iwer , frFR , Retenir « only a single fiscal » 
+CM003_Answer_resp_a1 , frFR , 1 of the parent 1 Nom . 
+CM003_Answer_resp_a2 , frFR , material Nom of the parent 2 
+CM003_QText , frCH , and later the repercussions of this meeting , we when you are one of your Presidency and of your family , for example on your savings to the Scandinavian and on the financial support his your children or to d'autres . Taiwan ) we continuously put these questions one parent . Lequel d'entre you would the producers to respond to the questions d'ordre instrument ? 
+CM003_Iwer , frCH Retenir , only a no to the aspect 
+CM003_Answer_resp_a1 , frCH , 1 of the parent 1 Nom . 
+CM003_Answer_resp_a2 , frCH , material Nom of the parent 2 
+CM003_QText , frBE , and later the repercussions of this meeting , we when you are one of your Presidency and of your family , for example on your savings to the Scandinavian and on the financial support his your children or to d'autres . Taiwan ) we continuously put these questions one parent . Qui d'entre you would the producers to respond to the questions d'ordre instrument ? 
+CM003_Iwer , frBE , RETENIR UNE SEULE PERSONNE POUR LES QUESTIONS FINANCIÈRES 
+CM003_Answer_resp_a1 , frBE , 1 of the parent 1 Nom . 
+CM003_Answer_resp_a2 , frBE , material Nom of the parent 2 
+CM003_QText , frLU , company of this meeting , we when you are one of your Presidency and of your family , for example on your savings to the Scandinavian and on the financial support his your children or to Taiwan d'autres . we voted only need to ask these questions to you l'un d'entre . Lequel d'entre you would the producers to respond to the matters your fiscal ? 
+CM003_Iwer , frLU Retenez , only a single fiscal 
+CM003_Answer_resp_a1 , frLU , 1 of the parent 1 Nom . 
+CM003_Answer_resp_a2 , frLU , material Nom of the parent 2 
+DN001_QText , frFR , if you remember that this meeting is voluntary and good . Vos responses cannot establish qu'à purposes d'études and of research . I forgive you do not respond to a question , spread , and I will of the codified IIIA . now , j'aimerais begin with questions to you . 
+DN001_Answer_resp_a1 , frFR , 1 Continuer . 
+DN001_QText , frCH , if you remember that this meeting is voluntary and good . Vos responses to establish the heat of the future . I forgive you do not respond to a question , I do , and I will of the ombudsman . J'aimerais begin with questions to you . 
+DN001_Answer_resp_a1 , frCH , 1 Continuer . 
+DN001_QText , frBE , if you remember that this meeting is voluntary and good . Vos responses to establish the heat of the rightholder . am we ask a question to which you do something to the President , I , and I will of the ombudsman . J'aimerais by you in a comparisons with you . 
+DN001_Answer_resp_a1 , frBE , 1 Continuer . 
+DN001_QText , frLU , if you remember that this meeting is good . Vos responses cannot establish qu'à purposes d'études and of research . I forgive you do not respond to a question , spread , and I will of the ombudsman academy . now , j'aimerais by you , have you with . 
+DN001_Answer_resp_a1 , frLU , 1 Continuez . 
+DN756_Iwer , frFR , Vérifiez s'il you please . Qui reflects the Blak ? 
+DN756_Answer_resp_a1 , frFR Unit , which only 
+DN756_Answer_resp_a2 , frFR , The criteria and a proxi 
+DN756_Answer_resp_a3 , frFR , Uniquement a proxi 
+DN756_Iwer , frCH IIIA , please , l'enquêteur: Qui reflects the Blak ? 
+DN756_Answer_resp_a1 , frCH , 1 Seulement the criteria . 
+DN756_Answer_resp_a2 , frCH , 2 700 criteria and its proxy . 
+DN756_Answer_resp_a3 , frCH , 3 Seulement its proxy . 
+DN756_Iwer , frBE , Veuillez . please Qui reflects the Blak ? 
+DN756_Answer_resp_a1 , frBE Unit , which only 
+DN756_Answer_resp_a2 , frBE , The criteria and its budgetary 
+DN756_Answer_resp_a3 , frBE Star , through the 
+DN756_Iwer , frLU , Veuillez functions . Qui reflects the Blak ? 
+DN756_Answer_resp_a1 , frLU , Uniquement the interview 
+DN756_Answer_resp_a2 , frLU , The criteria and the proxy 
+DN756_Answer_resp_a3 , frLU , Uniquement the proxy 
+DN038_Iwer , frFR , VERIFIER: Qui has responded to the questions of this ? 
+DN038_Answer_resp_a1 , frFR , 1 L'enquêté(e) . 
+DN038_Answer_resp_a2 , frFR , 2 and a proxy L'enquêté(e) . 
+DN038_Answer_resp_a3 , frFR , 3 proxy only &quot; . 
+DN038_Iwer , frCH IIIA , please , l'enquêteur: Qui has responded to the questions of this ? 
+DN038_Answer_resp_a1 , frCH , 1 Seulement the criteria . 
+DN038_Answer_resp_a2 , frCH , 2 700 criteria and its proxy . 
+DN038_Answer_resp_a3 , frCH , 3 Seulement its proxy . 
+DN038_Iwer , frBE , VÉRIFIER : Qui has responded to the questions of this ? 
+DN038_Answer_resp_a1 , frBE , 1 Seulement the criteria . 
+DN038_Answer_resp_a2 , frBE , 2 700 criteria and its solution . 
+DN038_Answer_resp_a3 , frBE , provided through its Seulement 
+DN038_Iwer , frLU , Contrôle: Qui has responded to the questions of this ? 
+DN038_Answer_resp_a1 , frLU , 1 Seulement the criteria . 
+DN038_Answer_resp_a2 , frLU , 2 700 criteria and a proxy . 
+DN038_Answer_resp_a3 , frLU , provided a proxy Seulement 
+DN755_QText , frFR , Maintenant , I shall ask the questions arising d'événements weekend , during your life . Certaines of thank apparaîtront on the timetable to l'écran Ceci . can you help to you remémorer d'autres event during your life . 
+DN755_Iwer , frFR , Montrez timetable , the criteria . 
+DN755_Answer_resp_a1 , frFR , 1 Continuer . 
+DN755_QText , frCH , I would ask you a course of events occurred during your life . Certaines of thank apparaîtront on this timetable to l'écran . it would help to you and the Peace some of your life . 
+DN755_Iwer , frCH , Montrer timetable , the criteria . 
+DN755_Answer_resp_a1 , frCH , 1 Continuer . 
+DN755_QText , frBE , I shall now ask you a series of questions on some discussions , during your life . ) , to thank the discrepancy to l'écran on the timetable . it can help you to you and to some other event , but the d'autres . 
+DN755_Iwer , frBE Veuillez , that the timetable , criteria . 
+DN755_Answer_resp_a1 , frBE , 1 Continuer . 
+DN755_QText , frLU , I shall now you President-in-Office of the event of incidents of your life . BSE to thank the conference on the timetable (grille chronologique) . Celles-ci you people to remind you d'autres events . 
+DN755_Iwer , frLU , Montrez the timetable , only (grille chronologique) . 
+DN755_Answer_resp_a1 , frLU , 1 Continuez . 
+DN042_QText , frFR , OBSERVATION 
+DN042_Iwer , frFR Noter , the ministers of those (demander in case of doute) . 
+DN042_Answer_resp_a1 , frFR , 1 Sexe leading . 
+DN042_Answer_resp_a2 , frFR , 2 Sexe up . 
+DN042_QText , frCH , OBSERVATION 
+DN042_Iwer , frCH Noter , moreover , the criteria according observation (demander in case of doute) . 
+DN042_Answer_resp_a1 , frCH , 1 , &quot; . 
+DN042_Answer_resp_a2 , frCH , 2 ) Women . 
+DN042_QText , frBE , Observation 
+DN042_Iwer , frBE , NOTER LE SEXE DU REPONDANT SELON OBSERVATION (DEMANDER all CAS infants DOUTE) . 
+DN042_Answer_resp_a1 , frBE , 1 Masculin . 
+DN042_Answer_resp_a2 , frBE , Féminin 2 . 
+DN042_QText , frLU , OBSERVATION 
+DN042_Iwer , frLU Notez , the ministers of the single market of your remarks (demandez if nécessaire) . 
+DN042_Answer_resp_a1 , frLU , 1 Masculin . 
+DN042_Answer_resp_a2 , frLU , Féminin 2 . 
+DN043_QText , frFR , Juste confirm to you , you although néeen months to meet the criteria , to meet the criteria ? 
+DN043_Answer_resp_a1 , frFR , 1 Oui . 
+DN043_Answer_resp_a2 , frFR , Non 5 . 
+DN043_Answer_resp_a1 , frCH , 1 Oui . 
+DN043_Answer_resp_a2 , frCH , Non 5 . 
+DN043_Answer_resp_a1 , frBE , 1 Oui . 
+DN043_Answer_resp_a2 , frBE , Non 5 . 
+DN043_QText , frLU , Juste confirm to you , although you library in months to meet the criteria , to meet the criteria ? 
+DN043_Answer_resp_a1 , frLU , 1 Oui . 
+DN043_Answer_resp_a2 , frLU , Non 5 . 
+DN002_QText , frFR Boyne , month and what are the library ? MOIS : ANNEE : 
+DN002_Answer_resp_a1 , frFR , 1 Janvier . 
+DN002_Answer_resp_a2 , frFR , Février 2 . 
+DN002_Answer_resp_a3 , frFR , 3 Mars . 
+DN002_Answer_resp_a4 , frFR , Avril 4 . 
+DN002_Answer_resp_a5 , frFR , Mai 5 . 
+DN002_Answer_resp_a6 , frFR , 6 Juin . 
+DN002_Answer_resp_a7 , frFR 6 Juillet . 
+DN002_Answer_resp_a8 , frFR , 8 Août . 
+DN002_Answer_resp_a9 , frFR , 9 Septembre . 
+DN002_Answer_resp_a10 , frFR , 10 Octobre . 
+DN002_Answer_resp_a11 , frFR , 11 Novembre . 
+DN002_Answer_resp_a12 , frFR , 12 Décembre . 
+DN002_QText , frCH Boyne , month and what are the library ? 
+DN002_Answer_resp_a1 , frCH , 1 Janvier . 
+DN002_Answer_resp_a2 , frCH , Février 2 . 
+DN002_Answer_resp_a3 , frCH , 3 Mars . 
+DN002_Answer_resp_a4 , frCH , Avril 4 . 
+DN002_Answer_resp_a5 , frCH , Mai 5 . 
+DN002_Answer_resp_a6 , frCH , 6 Juin . 
+DN002_Answer_resp_a7 , frCH 6 Juillet . 
+DN002_Answer_resp_a8 , frCH , 8 Août . 
+DN002_Answer_resp_a9 , frCH , 9 Septembre . 
+DN002_Answer_resp_a10 , frCH , 10 Octobre . 
+DN002_Answer_resp_a11 , frCH , 11 Novembre . 
+DN002_Answer_resp_a12 , frCH , 12 Décembre . 
+DN002_QText , frBE Boyne , month and what are the library ANNEE : ? 
+DN002_Answer_resp_a1 , frBE , 1 Janvier . 
+DN002_Answer_resp_a2 , frBE , Février 2 . 
+DN002_Answer_resp_a3 , frBE , 3 Mars . 
+DN002_Answer_resp_a4 , frBE , Avril 4 . 
+DN002_Answer_resp_a5 , frBE , Mai 5 . 
+DN002_Answer_resp_a6 , frBE , 6 Juin . 
+DN002_Answer_resp_a7 , frBE 6 Juillet . 
+DN002_Answer_resp_a8 , frBE , 8 Août . 
+DN002_Answer_resp_a9 , frBE , 9 Septembre . 
+DN002_Answer_resp_a10 , frBE , 10 Octobre . 
+DN002_Answer_resp_a11 , frBE , 11 Novembre . 
+DN002_Answer_resp_a12 , frBE , 12 Décembre . 
+DN002_QText , frLU Boyne , month are library ? 
+DN002_Answer_resp_a1 , frLU , 1 Janvier . 
+DN002_Answer_resp_a2 , frLU , Février 2 . 
+DN002_Answer_resp_a3 , frLU , 3 Mars . 
+DN002_Answer_resp_a4 , frLU , Avril 4 . 
+DN002_Answer_resp_a5 , frLU , Mai 5 . 
+DN002_Answer_resp_a6 , frLU , 6 Juin . 
+DN002_Answer_resp_a7 , frLU 6 Juillet . 
+DN002_Answer_resp_a8 , frLU , 8 Août . 
+DN002_Answer_resp_a9 , frLU , 9 Septembre . 
+DN002_Answer_resp_a10 , frLU , 10 Octobre . 
+DN002_Answer_resp_a11 , frLU , 11 Novembre . 
+DN002_Answer_resp_a12 , frLU , 12 Décembre . 
+DN003_QText , frFR Boyne , month and what are the library ? 
+DN003_Answer_resp_a1 , frFR , (1900 .2017) . 
+DN003_QText , frCH Boyne , month and what are the library ? 
+DN003_Answer_resp_a1 , frCH , (1900 .2017) . 
+DN003_QText , frBE Boyne , month and what are the library ? 
+DN003_Answer_resp_a1 , frBE , (1900 .2017) . 
+DN003_QText , frLU Boyne , whatever year get library ? 
+DN003_Answer_resp_a1 , frLU , (1900 .2017) . 
+DN004_QText , frFR , do néeen France ? 
+DN004_Answer_resp_a1 , frFR , 1 Oui . 
+DN004_Answer_resp_a2 , frFR , Non 5 . 
+DN004_QText , frCH , do néeen located ? 
+DN004_Answer_resp_a1 , frCH , 1 Oui . 
+DN004_Answer_resp_a2 , frCH , Non 5 . 
+DN004_QText , frBE , do library in Belgium ? 
+DN004_Answer_resp_a1 , frBE , 1 Oui . 
+DN004_Answer_resp_a2 , frBE , Non 5 . 
+DN004_QText , frLU , Êtes-vous library , Grand-Duché of Luxembourg ? 
+DN004_Answer_resp_a1 , frLU , 1 Oui . 
+DN004_Answer_resp_a2 , frLU , Non 5 . 
+DN005_QText , frFR , In what countries get library ? Indiquez President of the ACP countries witnessing your including the arrest of your meet . 
+DN005_QText , frCH , In what countries get library ? Indiquez President of the ACP countries witnessing your including the arrest of your meet . 
+DN005_QText , frBE , In what countries get library ? Indiquez President of the ACP countries witnessing your including the arrest of your meet . 
+DN005_QText , frLU , In what countries get library ? Veuillez transform the countries of the recurring witnessing your including the arrest of your meet . 
+DN006_QText , frFR Boyne , whatever year are the performers in France ? 
+DN006_Answer_resp_a1 , frFR , (1875 .2014) . 
+DN006_QText , frCH Boyne , whatever year get Cyprus would cross-border ? 
+DN006_Answer_resp_a1 , frCH , (1875 .2014) . 
+DN006_QText , frBE Boyne , whatever year are the performers in Belgium ? 
+DN006_Answer_resp_a1 , frBE , (1875 .2014) . 
+DN006_QText , frLU Boyne , whatever year get curt performers in Luxembourg ? 
+DN006_Answer_resp_a1 , frLU , (1875 .2014) . 
+DN007_QText , frFR Avez-vous nationality , the French ? 
+DN007_Answer_resp_a1 , frFR , 1 Oui . 
+DN007_Answer_resp_a2 , frFR , Non 5 . 
+DN007_QText , frCH , Possédez-vous the nationality blocked ? 
+DN007_Answer_resp_a1 , frCH , 1 Oui . 
+DN007_Answer_resp_a2 , frCH , Non 5 . 
+DN007_QText , frBE Possédez-vous , the Belgian nationality ? 
+DN007_Answer_resp_a1 , frBE , 1 Oui . 
+DN007_Answer_resp_a2 , frBE , Non 5 . 
+DN007_QText , frLU Avez-vous nationality , the criminal ? 
+DN007_Answer_resp_a1 , frLU , 1 Oui . 
+DN007_Answer_resp_a2 , frLU , Non 5 . 
+DN503_QText , frFR Êtes-vous library , with the French nationality ? 
+DN503_Answer_resp_a1 , frFR , 1 Oui . 
+DN503_Answer_resp_a2 , frFR , Non 5 . 
+DN503_QText , frCH , Êtes-vous born dismayed suisse/née citizen-centred blocked ? 
+DN503_Answer_resp_a1 , frCH , 1 Oui . 
+DN503_Answer_resp_a2 , frCH , Non 5 . 
+DN503_QText , frBE , Êtes-vous library citizen-centred Belgium ? 
+DN503_Answer_resp_a1 , frBE , 1 Oui . 
+DN503_Answer_resp_a2 , frBE , Non 5 . 
+DN503_QText , frLU , library do with the nationality criminal ? 
+DN503_Answer_resp_a1 , frLU , 1 Oui . 
+DN503_Answer_resp_a2 , frLU , Non 5 . 
+DN502_QText , frFR Boyne , whatever year have led the French nationality ? 
+DN502_Answer_resp_a1 , frFR , (1900 .2017) . 
+DN502_QText , frCH Boyne , whatever year you become a globally suisse/devenue a citizen-centred blocked ? 
+DN502_Answer_resp_a1 , frCH , (1900 .2017) . 
+DN502_QText , frBE Boyne , whatever year are mad citizen-centred Belgium ? 
+DN502_Answer_resp_a1 , frBE , (1900 .2017) . 
+DN502_QText , frLU Boyne , whatever year have obtained the nationality criminal ? 
+DN502_Answer_resp_a1 , frLU , (1900 .2017) . 
+DN008_QText , frFR people , is your nationality ? 
+DN008_QText , frCH people , is your nationality ? 
+DN008_QText , frBE people , is your nationality ? 
+DN008_QText , frLU people , is your nationality ? 
+DN009_QText , frFR , integration and your department and the information ? 
+DN009_QText , frBE , Où viviez-vous on 1 November , since c'est-à-dire before that the countries of Berlin , because - as in the to , or elsewhere ? 
+DN009_Answer_resp_a1 , frBE , 1 RDA . 
+DN009_Answer_resp_a2 , frBE , 2 to . 
+DN009_Answer_resp_a3 , frBE , 3 Ailleurs . 
+DN009_QText , frLU , Question not applicable in Luxembourg . 
+DN504_QText , frFR , In what countries your mother library bureaucracy ? 
+DN504_QText , frCH In the library , what is your mother ? 
+DN504_QText , frBE , In what countries your mother library bureaucracy ? 
+DN504_QText , frLU , In what countries your mother library bureaucracy ? 
+DN505_QText , frFR , In what your country can is born ? 
+DN505_QText , frCH , In what countries is born your can ? 
+DN505_QText , frBE , In what your country can is born ? 
+DN505_QText , frLU , In what your country can is born ? 
+DN010_QText , frFR , Veuillez to determine the material is President of the high-level d'études primary or secondary that you have achieved ? 
+DN010_Iwer , frFR , am the only mentions a level d'étude or a Venezuela that , please ask s'il loan is possible to the debate in the categories lame . S'il n'en is not capable , please use the answer '97 . Autre' and seize the answer (écran suivant) . 
+DN010_Answer_resp_a1 , frFR , 1 N’a never been to l’école . 
+DN010_Answer_resp_a2 , frFR , material IIIA interrompu when before the end of l’enseignement ( 
+DN010_Answer_resp_a3 , frFR , provided Certificat d'études tracks (CEP) or scolarité suspended after the end of components and before the end of police 
+DN010_Answer_resp_a4 , frFR , 4 . BEPC , patent a patent , which is , DNB or scolarité jusqu’à the end of police or beyond , without that . 
+DN010_Answer_resp_a5 frFR , 5 , the CAP , BEP or that targets political (Diplôme d'aide-soignante auxiliaire , toys , médico-pédagogique aid , aid to domicile) 
+DN010_Answer_resp_a6 , frFR , 6 . Baccalauréat RTD (séries F , order H , SMS , specification , STL , STT , connected , ST2S STAV) , or of technicien , BEA , BEC , banks , BES , BEH BSEC , 
+DN010_Answer_resp_a7 , frFR , 59 . Baccalauréat investor (ou patent investor or the technicien or of maîtrise) , that of moniteur-éducateur 
+DN010_Answer_resp_a8 , frFR , 8 . Baccalauréat general (ou patent upper , that the professions of social and health targets Bac) 
+DN010_Answer_resp_a9 , frFR , 9 . Capacité probity , Diplôme d'accès to record the (DAEU) , Examen special d'entrée to l'université (ESEU) 
+DN010_Answer_resp_a10 , frFR , 53 Pas still diplômé(e)/encore to l'école . 
+DN010_Answer_resp_a11 , frFR , / Autre . 
+DN010_QText , frCH Veuillez , to determine the material is President of the group of scolarité components or G7 that you have forum ? 
+DN010_Iwer , frCH , am the only mentions , or that of Venezuela , ask s'il knows when category blocked demanded this crystal-clear &#93; S'il . that is clear , sélectionner Autre and outline the level of (écran suivant) . 
+DN010_Answer_resp_a1 , frCH , 1 . Aucune drugs / n'a not been to l'école deadline 
+DN010_Answer_resp_a2 , frCH , 2 Ecole inachevée components . 
+DN010_Answer_resp_a3 , frCH , provided Ecole (4 components to 6 years of scolarité) 
+DN010_Answer_resp_a4 , frCH , 4 . Cycle d'orientation health , education health (et components of 8-9 ans) 
+DN010_Answer_resp_a5 , frCH , 5 . 10ème year préapprentissage , health , hence , the coming year to year of transition , l'apprentissage 
+DN010_Answer_resp_a6 , frCH , 6 . Ecoles culture general (3 years , car d’ECG , demonstrate spécialisée) , Ecoles of crystal-clear that (EDD) , Ecole of trade 
+DN010_Answer_resp_a7 , frCH , 59 . Maturité gymnasiale , Gymnase system , 
+DN010_Answer_resp_a8 , frCH , 8 . Maturité gymnasiale for parents or providing after demonstrate gymnasiale 
+DN010_Answer_resp_a9 , frCH , 9 . Ecole normal , Etudes pédagogiques (niveau préscolaire and primaire) 
+DN010_Answer_resp_a10 , frCH , 10 Maturité advocated . 
+DN010_Answer_resp_a11 , frCH , 11 Maturité advocated for parents . 
+DN010_Answer_resp_a12 , frCH , 53 . Pas still of degré/Encore to l'école 
+DN010_Answer_resp_a13 , frCH , / Autre . 
+DN010_QText , frBE , Veuillez complaint form the material President is the imbalances that d'études primary or secondary that you have got ? 
+DN010_Iwer , frBE , am the only mentions a Venezuela that , please ask him to find a équivalence in the categories of data I this n'est not possible , use l'option / . Autre and that the that (page suivante) . 
+DN010_Answer_resp_a1 , frBE , 1 Aucune / well-educated drugs . 
+DN010_Answer_resp_a2 , frBE , material N'a not forum l'enseignement components . 
+DN010_Answer_resp_a3 , frBE , provided Ecole components , only car d'études of basis or (CEB) components 
+DN010_Answer_resp_a4 , frBE , 4 , the G7 Diplômé l'enseignement less general or the first is the G7 l'enseignement . 
+DN010_Answer_resp_a5 , frBE , 5 , the G7 Diplômé l'enseignement less against 
+DN010_Answer_resp_a6 , frBE , 6 , the G7 Diplômé l'enseignement less technical 
+DN010_Answer_resp_a7 , frBE , 59 . Diplômé of l'enseignement less vocational education 
+DN010_Answer_resp_a8 , frBE , 8 . Certificat d'enseignement G7 upper general or technical transition 
+DN010_Answer_resp_a9 , frBE , 9 . Certificat levels l'enseignement against 
+DN010_Answer_resp_a10 , frBE , 11 . Certificat levels l'enseignement technical 
+DN010_Answer_resp_a11 , frBE , like Certificat levels l'enseignement investor 
+DN010_Answer_resp_a12 , frBE , 13 . 7ème year of l'enseignement G7 vocational and technical qualification; Diplôme from travelled d'entreprise . 
+DN010_Answer_resp_a13 , frBE , 14 . 7ème year of the G7 l'enseignement investor d'obtenir the d'enseignement car production . 
+DN010_Answer_resp_a14 , frBE , 15 languages to l'enseignement upper either . 
+DN010_Answer_resp_a15 , frBE , 53 . Pas still of the studies that / always 
+DN010_Answer_resp_a16 , frBE , / Autre . 
+DN010_QText , frLU , Veuillez assessing the CARTE 2 . the is the imbalances that d'études primary or secondary that you have got ? 
+DN010_Iwer , frLU , am the only mentions a car or a that Venezuela , demandez-lui s'il can President briefly in the categories Small . S'il n'y luck not , please use « Autres » and align l'intitulé true (dans l'écran suivant) . 
+DN010_Answer_resp_a1 , frLU , 1 Pas of drugs of all . 
+DN010_Answer_resp_a2 , frLU , 2 N'a not Primaire the forum . 
+DN010_Answer_resp_a3 , frLU , 3 Ecole components . 
+DN010_Answer_resp_a4 , frLU , 4 Primaire upper . 
+DN010_Answer_resp_a5 , frLU , 5 Enseignement complementary . 
+DN010_Answer_resp_a6 , frLU , 6 Certificat d’enseignement less technical legislation . 
+DN010_Answer_resp_a7 , frLU 6 Certificat d’apprentissage investor . 
+DN010_Answer_resp_a8 , frLU , 8 of the CCM manuelle: Certificat . 
+DN010_Answer_resp_a9 , frLU , 9 . Certificat d’Initiation Technique and Professionnelle: CITP 
+DN010_Answer_resp_a10 , frLU , 10 . Certificat d’Aptitude Technique and Professionnelle: CATP 
+DN010_Answer_resp_a11 , frLU , 11 . Diplôme of technicien (jusque 13e of trademark technicien) 
+DN010_Answer_resp_a12 , frLU , like Bac technical (jusque 14e of trademark technicien) 
+DN010_Answer_resp_a13 , frLU , 13 Enseignement less general education . 
+DN010_Answer_resp_a14 , frLU , 14 Diplôme d'études authorises the end . 
+DN010_Answer_resp_a15 , frLU , 53 Pas still diplômé(e)/encore to l'école . 
+DN010_Answer_resp_a16 , frLU , / Autre . 
+DN011_QText , frFR , President of another d'études primary or secondary specifically targets or body that d'études primary or secondary have obtained ? 
+DN011_QText , frCH President , the level of scolarité components or G7 specifically forum ? 
+DN011_QText , frBE President , the level of drugs or body to that end the scolarité have obtained ? 
+DN011_QText , frLU , the other or that of d'études primary or secondary have obtained ? 
+DN012_QText , frFR , Veuillez assessing the noise provided On rectified , which of these and d'enseignement upper or vocational possédez-vous ? 
+DN012_Answer_resp_a1 , frFR , 1 . N'a not that of the l'enseignement . 
+DN012_Answer_resp_a2 , frFR , material Diplôme as the first younger (DEUG) Classes , fishermen possible . 
+DN012_Answer_resp_a3 , frFR , provided , BTS DUT , Deust or political 
+DN012_Answer_resp_a4 , frFR , 4 . Diplôme professions of social and health of the targets Bac+2 : Diplôme d'éducateur technical pleased and d'éducateur pleased , Diplôme d'assistante social , Diplôme paramédical (laborantin , infirmier jusqu'en 2009 , etc .) 
+DN012_Answer_resp_a5 , frFR , 5 . Autre that targets Bac+2 : Certificat d'aptitude the (instituteur) , etc . 
+DN012_Answer_resp_a6 , frFR , 6 Diplôme . as the 2ème younger (licence , Unit , advocated that d'infirmier since , whereby the master : 1 , CAPES , CRPE) , that other targets Bac+3 or Bac+4 (agrégation jusqu'en 2009) 
+DN012_Answer_resp_a7 , frFR , 59 . Diplôme d'ingénieur , of the health , d'école of trade 
+DN012_Answer_resp_a8 , frFR , 8 , as the Diplôme 3ème younger (master 2 , DEA , DES , DESS , Agrégation since 2010) , doctorat in , or substitutes (Médecine , Dentaire , Pharmacie) 
+DN012_Answer_resp_a9 , frFR , 9 . Autre that targets bloodstream Bac+2 : Diplômes professionals orders unease (notaire , architecte , Standard , journaliste…) 
+DN012_Answer_resp_a10 , frFR , 10 Doctorat (hors santé) of research . 
+DN012_Answer_resp_a11 , frFR , 53 . Encore in the new or professional d'études 
+DN012_Answer_resp_a12 , frFR , / Autre . 
+DN012_QText , frCH Veuillez , all the noise provided Lequel of these and d'enseignement upper or vocational possédez-vous ? 
+DN012_Answer_resp_a1 , frCH , 1 . Aucune training mg / no other 
+DN012_Answer_resp_a2 , frCH , material Formation advocated Fijian (Attestation Republic vocational , Apprentissage short-term (2 ans) , Ecole franchises (1 an) , Ecole of vocational training (1-2 ans) 
+DN012_Answer_resp_a3 , frCH , provided Apprentissage 3-4 years (CFC) in company also or in health status 
+DN012_Answer_resp_a4 , frCH , 4 , the education or training in both the second training 
+DN012_Answer_resp_a5 , frCH , 5 . Maîtrise advocated , the EU and other modules professionals orders 
+DN012_Answer_resp_a6 , frCH , 6 . Diplôme or postgrade d'une have advocated mg , p .ex . in the areas technical , administration , health , social work , and imposed 
+DN012_Answer_resp_a7 , frCH , 59 . Diplôme or postgrade d'une of milk in schools suivantes: d'ingénieurs ETS , new surge of unduly for l'économie and l'administration (ESCEA) , schools in d'arts imposed (ESAA) , schools , health , family d'économie (ESEF) hôtelière of Lausanne (EHL , Party owes it in 1998 , 1999 and 2000) . 
+DN012_Answer_resp_a8 , frCH , 8 HES / HEP: Bachelor . 
+DN012_Answer_resp_a9 , frCH , 9 . HES / HEP: Master , that , postgrade 
+DN012_Answer_resp_a10 , frCH , 10 . UNI / EPF: Demi-licence , car propédeutique 
+DN012_Answer_resp_a11 , frCH , 11 . UNI / EPF: Bachelor , licence in 3-4 years 
+DN012_Answer_resp_a12 , frCH , like UNI / EPF: Licence limits , that 4 years 
+DN012_Answer_resp_a13 , frCH , 13 . UNI / EPF: Master , that , postgrade 
+DN012_Answer_resp_a14 , frCH , 14 . UNI / EPF: Doctorat , PhD 
+DN012_Answer_resp_a15 , frCH , 53 Encore offshore . 
+DN012_Answer_resp_a16 , frCH , / Autre . 
+DN012_QText , frBE , Veuillez assessing the d provided and integration of l'enseignement upper or vocational possédez-vous ? 
+DN012_Answer_resp_a1 , frBE , 1 . N'a not that of the l'enseignement . 
+DN012_Answer_resp_a2 , frBE , material N'a not finished its studied l'enseignement . 
+DN012_Answer_resp_a3 , frBE , provided Baccalauréat professionnalisant , that of l'enseignement crisis-torn short-term realism (gradués , régents , instituteurs) . Diplômes appraisal of l'enseignement crisis-torn type court; Enseignement against crisis-torn short-term realism 
+DN012_Answer_resp_a4 , frBE , 4 . Diplôme of Turkey as or bachelier as 
+DN012_Answer_resp_a5 , frBE , 5 . Diplôme of l'enseignement crisis-torn type Iceland (non universitaire); Diplôme d'ingénieur industrial (niveau universitaire) 
+DN012_Answer_resp_a6 , frBE , 6 . Master complementary and complements that after a training d'ingénieur industrial (niveau universitaire) 
+DN012_Answer_resp_a7 , frBE 6 Licence . as the master as , out of China , in as , of in as Standard , pharmacien 
+DN012_Answer_resp_a8 , frBE , 8 . Maîtrise after a licence , DEA , DES , Master complémentaire; Agrégation 
+DN012_Answer_resp_a9 , frBE , 9 Doctorat with idea . 
+DN012_Answer_resp_a10 , frBE , 53 Encore the studies . 
+DN012_Answer_resp_a11 , frBE , / Autre . 
+DN012_QText , frLU , Veuillez assessing the noise provided Lesquels of these and the l’enseignement upper or vocational or technical problems specifically ? 
+DN012_Answer_resp_a1 , frLU , 1 . Pas to that of l'enseignement upper or of technical and political . 
+DN012_Answer_resp_a2 , frLU , material N'a not a forum self-enclosed d'études above 
+DN012_Answer_resp_a3 , frLU , provided the Brevet artisanale : 
+DN012_Answer_resp_a4 , frLU , 4 , DUT , BTS BAC+2 . 
+DN012_Answer_resp_a5 , frLU , 5 , Licence , Bachelor BAC+3 . 
+DN012_Answer_resp_a6 , frLU , 6 . BAC+4 , Maitrise , Master 1 
+DN012_Answer_resp_a7 , frLU , 59 . BAC+5 improvement without doctorat : DEA , DESS , Master 2 
+DN012_Answer_resp_a8 , frLU , 8 Doctorat or more . 
+DN012_Answer_resp_a9 , frLU , Directive on offshore . 
+DN012_Answer_resp_a10 , frLU , / Autres . 
+DN013_QText , frFR , the other that d'enseignement upper or vocational possédez-vous ? 
+DN013_QText , frCH , the other that d'enseignement upper or vocational possédez-vous ? 
+DN013_QText , frBE , the other that d'enseignement upper or vocational possédez-vous ? 
+DN013_QText , frLU , President , that of l'enseignement upper or vocational or technical problems specifically ? 
+DN041_QText , frFR , how to d'années have been scolarisée or offshore to full time ? 
+DN041_Iwer , frFR , L'éducation to full time * Roger : the weather and rain , to you or d'études encadrées or the crossing d'examens * out : the work in full time , the debate , where the other , the during the evening , the studies or new approaches to the full-time , etc . Compter the ratification in the years to (scolarité and studies supérieures) to 504 l'âge of the scolarité mandatory (6 habitats France) . Ex: 12 years for quelqu'un which is if they jusqu'au . 
+DN041_QText , frCH , how to d'années have been specifically to full time ? 
+DN041_Iwer , frCH reports , and to full time *suppose that l'on , three , that l'on mentioned the work practices , that the studies , and that the ILO supervisées l'on * modules are to exclure: the work in full time , l'enseignement home , l'enseignement to sea , the best practices in the company , during the evening , the best professional companies , full-time , the studies or new approaches to the full-time , etc . 
+DN041_QText , frBE , how to d'années have been in education or to travel to the full ? 
+DN041_Iwer , frBE , L'éducation to full time * Comprend: via a scolarité , regime to the work practices or reviewed supervisées or shifting of modules * &apos;s Roger pas: the work to the full , l'enseignement home , l'enseignement to sea , training , as the place of work , the during the evening , the other to private time full-time , the studies or new approaches to the full-time , etc . 
+DN041_QText , frLU , how to d'années have been scolarisé(e) or suivi(e) charges to full time ? 
+DN041_Iwer , frLU reports , and to full time : * Suppose that l'on , three , that l'on mentioned the work practices , that the studies , and that supervisées l'on passes the modules . * Sont to exclude : the work in full time , l'enseignement home , l'enseignement to sea , the best practices in the company , during the evening , the best professional companies , full-time , the studies or new approaches to the full-time , etc . 
+DN044_Answer_resp_a1 , frFR , 1 . Oui , the situation has changed matters 
+DN044_Answer_resp_a2 , frFR , 5 , the situation . Non matters n'a not changed 
+DN044_QText , frCH alcohol , our last meeting , is that your biomass China has changed ? 
+DN044_Answer_resp_a1 , frCH , 1 . Oui , my biomass China has changed 
+DN044_Answer_resp_a2 , frCH , 5 . Non , my fisheries sphere n'a not changed 
+DN044_QText , frBE alcohol , our last meeting , is that your biomass China has changed ? 
+DN044_Answer_resp_a1 , frBE , 1 . Oui , my biomass China has changed 
+DN044_Answer_resp_a2 , frBE , 5 . Non , my fisheries sphere n'a not changed 
+DN044_QText , frLU alcohol , our last meeting , your matters vis-à-vis the situation ? 
+DN044_Answer_resp_a1 , frLU , 1 . Oui , my situation has changed matters 
+DN044_Answer_resp_a2 , frLU , 5 . Non , my situation matters n'a not changed 
+DN014_QText , frFR , Veuillez complaint before 4 . people is your situation matters ? 
+DN014_Iwer , frFR , am the family corporate but that the competence of the conflict in the service in any doubt , for example because qu'il is lawful in the early , hospital solitary , etc . , while coder 3 . 
+DN014_Answer_resp_a1 , frFR , 1 . Marié(e) and suffer with a development 
+DN014_Answer_resp_a2 , frFR , Pacsé(e) 2 . 
+DN014_Answer_resp_a3 , frFR , provided , but the applicant séparé(e) Marié(e) 
+DN014_Answer_resp_a4 , frFR , 4 Célibataire . 
+DN014_Answer_resp_a5 , frFR , Divorcé(e) 5 . 
+DN014_Answer_resp_a6 , frFR , 6 Veuf(ve) . 
+DN014_QText , frCH Veuillez , all the noise 4 . the is your fisheries sphere ? 
+DN014_Iwer , frCH , I spoke is mariée but that the or the non-married lives , not in the service because qu'il or it is the EMS , to l'hôpital , in solitary or for any other reason , coder 3 . 
+DN014_Answer_resp_a1 , frCH , 1 . Marié(e) and suffer with son/sa conjoint(e) 
+DN014_Answer_resp_a2 , frCH , 2 good report . 
+DN014_Answer_resp_a3 , frCH , provided , but the Marié(e) séparé(e) son/sa conjoint(e) 
+DN014_Answer_resp_a4 , frCH , 4 Jamais marié(e) . 
+DN014_Answer_resp_a5 , frCH , Divorcé(e) 5 . 
+DN014_Answer_resp_a6 , frCH , 6 Veuf / Veuve . 
+DN014_QText , frBE , Veuillez assessing the form of 4 people is your situation matters ? 
+DN014_Iwer , frBE , S'ils are always unmarried but that le/la non-married lives , not in the service for some reason that this is the (maison installed , solitary , etc . , the answer . .) encodez 3 « Marié(e) , but séparé(e) of its competence » 
+DN014_Answer_resp_a1 , frBE , 1 . Marié(e) and suffer with its époux(se) 
+DN014_Answer_resp_a2 , frBE , justifying the Boyne 2 . 
+DN014_Answer_resp_a3 , frBE , provided , but Marié(e) séparé(e) of its époux(se) 
+DN014_Answer_resp_a4 , frBE , 4 Jamais marié(e) . 
+DN014_Answer_resp_a5 , frBE , Divorcé(e) 5 . 
+DN014_Answer_resp_a6 , frBE , 6 Veuf(ve) . 
+DN014_QText , frLU , Veuillez complaint before 4 . people is your situation matters ? 
+DN014_Iwer , frLU , am the criteria is always under but that the competence of the conflict in the service in any doubt , for example it is in a house of treatment to l'hôpital , in solitary , etc . , codez 3 . 
+DN014_Answer_resp_a1 , frLU , 1 Marié(e) and with l’époux/l'épouse creature . 
+DN014_Answer_resp_a2 , frLU , Pacsé(e) 2 . 
+DN014_Answer_resp_a3 , frLU , provided , but the l’époux/l'épouse séparé(e) Marié(e) 
+DN014_Answer_resp_a4 , frLU , 4 Jamais marié(e) . 
+DN014_Answer_resp_a5 , frLU , Divorcé(e) 5 . 
+DN014_Answer_resp_a6 , frLU , 6 Veuf(ve) . 
+DN015_QText , frFR Boyne , whatever year you get mariée ? 
+DN015_QText , frCH Boyne , whatever year you get mariée ? 
+DN015_QText , frBE Boyne , whatever year you get marié(e) ? 
+DN015_QText , frLU Boyne , whatever year you get marié(e) ? 
+DN016_QText , frFR Boyne , whatever year you get pacsé/pacsée ? 
+DN016_QText , frCH Boyne , whatever year do in your business ? 
+DN016_QText , frBE Croo , whatever year concluding your pertains to justifying Parliament ? 
+DN016_QText , frLU Boyne , whatever year you get pacsé(e) ? 
+DN017_QText , frFR Boyne , whatever year you get mariée ? 
+DN017_QText , frCH Boyne , whatever year you get mariée ? 
+DN017_QText , frBE Boyne , whatever year you get marié(e) ? 
+DN017_QText , frLU Boyne , whatever year you get marié(e) ? 
+DN018_QText , frFR Boyne , whatever year specifically divorcé ? 
+DN018_Iwer , frFR , am several divorces , transform l'année the Dineh 
+DN018_QText , frCH Boyne , whatever year specifically divorcé ? 
+DN018_Iwer , frCH , am several divorces , transform l'année expenditure or 
+DN018_QText , frBE Boyne , whatever year specifically divorcé ? 
+DN018_Iwer , frBE , all CAS infants PLUSIEURS DIVORCES , INDIQUER L'ANNEE DU DERNIER DIVORCE 
+DN018_QText , frLU Boyne , whatever year specifically divorcé ? 
+DN018_Iwer , frLU , am several divorces , l'année out or the Dineh 
+DN019_QText , frFR Boyne , whatever year are mad veuve/devenu veuf ? 
+DN019_Iwer , frFR , Indiquer l'année competence of the Arctic 
+DN019_QText , frCH Boyne , whatever year are mad veuve/devenu veuf ? 
+DN019_Iwer , frCH , Indiquer l'année the Arctic du/de the conjoint(e) 
+DN019_QText , frBE Boyne , whatever year are redundant e veuve/ veuf ? 
+DN019_Iwer , frBE , Indiquez l'année of Arctic du/de the conjoint(e) 
+DN019_QText , frLU Boyne , whatever year are mad veuve/devenu veuf ? 
+DN019_Iwer , frLU , Indiquez l'année the Arctic to l'époux/l'épouse . 
+DN020_QText , frFR , people was l'année information of your mari/femme/ex-mari/ex-femme/conjoint/femme ? 
+DN020_Iwer , frFR , Indiquer l'année to meet the Ministers last 
+DN020_QText , frCH , people was l'année information of your mari/femme/ex-mari/ex-femme/(défunt) mari/(défunte) Women ? 
+DN020_Iwer , frCH , Indiquer l'année to meet the dernier/de the last conjoint(e) 
+DN020_QText , frBE , people is l'année information of your /ex-/défunt/défunt(e) mari/femme/femme ? 
+DN020_Iwer , frBE , Indiquez l'année to meet the dernier/de the last conjoint(e) 
+DN020_QText , frLU Boyne , whatever year votre/votre /ex-/défunte/défunt époux/épouse/épouse est-il/elle library ? 
+DN020_Iwer , frLU , Indiquez l'année to meet the last époux/de the last time 
+DN021_QText , frFR , Veuillez to determine the material is President of the high-level d'études primary or secondary moved by your mari/femme/ex-mari/ex-femme/femme ? 
+DN021_Iwer , frFR , am the only mentions a level d'étude or a Venezuela that , please ask s'il loan is possible to the debate in the categories lame . S'il n'en is not capable , please use the answer / . Autre and seize the answer (écran suivant) . 
+DN021_Answer_resp_a1 , frFR , 1 N’a never been to l’école . 
+DN021_Answer_resp_a2 , frFR , material IIIA interrompu when before the end of l’enseignement ( 
+DN021_Answer_resp_a3 , frFR , provided Certificat d'études tracks (CEP) or scolarité suspended after the end of components and before the end of police 
+DN021_Answer_resp_a4 , frFR , 4 . BEPC , patent a patent , which is , DNB or scolarité jusqu’à the end of police or beyond , without that . 
+DN021_Answer_resp_a5 frFR , 5 , the CAP , BEP or that targets political (Diplôme d'aide-soignante auxiliaire , toys , médico-pédagogique aid , aid to domicile) 
+DN021_Answer_resp_a6 , frFR , 6 . Baccalauréat RTD (séries F , order H , SMS , specification , STL , STT , connected , ST2S STAV) , or of technicien , BEA , BEC , banks , BES , BEH BSEC , 
+DN021_Answer_resp_a7 , frFR , 59 . Baccalauréat investor (ou patent investor or the technicien or of maîtrise) , that of moniteur-éducateur 
+DN021_Answer_resp_a8 , frFR , 8 . Baccalauréat general (ou patent upper , that the professions of social and health targets Bac) 
+DN021_Answer_resp_a9 , frFR , 9 . Capacité probity , Diplôme d'accès to record the (DAEU) , Examen special d'entrée to l'université (ESEU) 
+DN021_Answer_resp_a10 , frFR , 53 Pas still diplômé(e)/encore to l'école . 
+DN021_Answer_resp_a11 , frFR , / Autre . 
+DN021_QText , frCH Veuillez , all the noise in the shortest arise of scolarité components or G7 that your /ex-/(défunt)/(défunte) mari/femme/femme that forum ? 
+DN021_Iwer , frCH , am the only mentions , or that of Venezuela , ask s'il knows when category blocked demanded this crystal-clear &#93; S'il . that is clear , sélectionner Autre and outline the level of (écran suivant) . 
+DN021_Answer_resp_a1 , frCH , 1 . Aucune drugs / n'a not been to l'école deadline 
+DN021_Answer_resp_a2 , frCH , 2 Ecole inachevée components . 
+DN021_Answer_resp_a3 , frCH , provided Ecole (4 components to 6 years of scolarité) 
+DN021_Answer_resp_a4 , frCH , 4 . Cycle d'orientation health , education health (et components of 8-9 ans) 
+DN021_Answer_resp_a5 , frCH , 5 . 10ème year préapprentissage , health , hence , the coming year to year of transition , l'apprentissage 
+DN021_Answer_resp_a6 , frCH , 6 . Ecoles culture general (3 years , car d’ECG , demonstrate spécialisée) , Ecoles of crystal-clear that (EDD) , Ecole of trade 
+DN021_Answer_resp_a7 , frCH , 59 . Maturité gymnasiale , Gymnase system , 
+DN021_Answer_resp_a8 , frCH , 8 . Maturité gymnasiale for parents or providing after demonstrate gymnasiale 
+DN021_Answer_resp_a9 , frCH , 9 . Ecole normal , Etudes pédagogiques (niveau préscolaire and primaire) 
+DN021_Answer_resp_a10 , frCH , 10 Maturité advocated . 
+DN021_Answer_resp_a11 , frCH , 11 Maturité advocated for parents . 
+DN021_Answer_resp_a12 , frCH , 53 . Pas still of degré/Encore to l'école 
+DN021_Answer_resp_a13 , frCH , / Autre . 
+DN021_QText , frBE , Veuillez complaint form the material President is the imbalances that d'études primary or secondary led by your /ex-/défunt/défunt(e) mari/femme/femme ? 
+DN021_Iwer , frBE , am the only mentions a Venezuela that , please ask him to find a équivalence in the categories of data I this n'est not possible , use l'option / . Autre and that the that (page suivante) . 
+DN021_Answer_resp_a1 , frBE , 1 Aucune / well-educated drugs . 
+DN021_Answer_resp_a2 , frBE , material N'a not forum l'enseignement components . 
+DN021_Answer_resp_a3 , frBE , provided Ecole components , only car d'études of basis or (CEB) components 
+DN021_Answer_resp_a4 , frBE , 4 , the G7 Diplômé l'enseignement less general or the first is the G7 l'enseignement . 
+DN021_Answer_resp_a5 , frBE , 5 , the G7 Diplômé l'enseignement less against 
+DN021_Answer_resp_a6 , frBE , 6 , the G7 Diplômé l'enseignement less technical 
+DN021_Answer_resp_a7 , frBE , 59 . Diplômé of l'enseignement less vocational education 
+DN021_Answer_resp_a8 , frBE , 8 . Certificat d'enseignement G7 upper general or technical transition 
+DN021_Answer_resp_a9 , frBE , 9 . Certificat levels l'enseignement against 
+DN021_Answer_resp_a10 , frBE , 11 . Certificat levels l'enseignement technical 
+DN021_Answer_resp_a11 , frBE , like Certificat levels l'enseignement investor 
+DN021_Answer_resp_a12 , frBE , 13 . 7ème year of l'enseignement G7 vocational and technical qualification; Diplôme from travelled d'entreprise . 
+DN021_Answer_resp_a13 , frBE , 14 . 7ème year of the G7 l'enseignement investor d'obtenir the d'enseignement car production . 
+DN021_Answer_resp_a14 , frBE , 15 languages to l'enseignement upper either . 
+DN021_Answer_resp_a15 , frBE , 53 . Pas still of the studies that / always 
+DN021_Answer_resp_a16 , frBE , / Autre . 
+DN021_QText , frLU , Veuillez assessing the CARTE 2 . the is the imbalances or that of d'études led by votre/votre /ex-/défunte/défunt époux/épouse/épouse ? 
+DN021_Iwer , frLU , am the only mentions , or that of d'étude Venezuela , demandez-lui s'il can President briefly among the categories Small . S'il n'y luck not , please use l'option « Autre » and align l'intitulé true (dans l'écran suivant) . 
+DN021_Answer_resp_a1 , frLU , 1 Pas of drugs of all . 
+DN021_Answer_resp_a2 , frLU , 2 N'a not Primaire the forum . 
+DN021_Answer_resp_a3 , frLU , 3 Ecole components . 
+DN021_Answer_resp_a4 , frLU , 4 Primaire upper . 
+DN021_Answer_resp_a5 , frLU , 5 Enseignement complementary . 
+DN021_Answer_resp_a6 , frLU , 6 Certificat d’enseignement less technical legislation . 
+DN021_Answer_resp_a7 , frLU 6 Certificat d’apprentissage investor . 
+DN021_Answer_resp_a8 , frLU , 8 of the CCM manuelle: Certificat . 
+DN021_Answer_resp_a9 , frLU , 9 . Certificat d’Initiation Technique and Professionnelle: CITP 
+DN021_Answer_resp_a10 , frLU , 10 . Certificat d’Aptitude Technique and Professionnelle: CATP 
+DN021_Answer_resp_a11 , frLU , 11 . Diplôme of technicien (jusque 13e of trademark technicien) 
+DN021_Answer_resp_a12 , frLU , like Bac technical (jusque 14e of trademark technicien) 
+DN021_Answer_resp_a13 , frLU , 13 Enseignement less general education . 
+DN021_Answer_resp_a14 , frLU , 14 Diplôme d'études authorises the end . 
+DN021_Answer_resp_a15 , frLU , 53 Pas still diplômé(e)/encore to l'école . 
+DN021_Answer_resp_a16 , frLU , / Autre . 
+DN022_QText , frFR , President of another d'études primary or secondary a/avait condone your conjoint/ancien competence ? 
+DN022_QText , frCH President , the level of scolarité components or G7 a/avait/avait forum your {}/ex-/(défunt)/(défunte) mari/femme/femme ? 
+DN022_QText , frBE President , the level of drugs or that the end of scolarité a/avait/avait condone your /ex-/défunt/défunt(e) mari/femme/femme ? 
+DN022_QText , frLU , the other or that of d'études primary or secondary votre/votre /ex-/défunte/défunt époux/épouse/épouse a-t-il/elle profits ? 
+DN023_QText , frFR , Veuillez assessing the noise provided are the integration and d'enseignement upper or vocational that possède/possédait/possédait your mari/femme/ex-mari/ex-femme/femme ? 
+DN023_Answer_resp_a1 , frFR , 1 . N'a not that of the l'enseignement . 
+DN023_Answer_resp_a2 , frFR , material Diplôme as the first younger (DEUG) Classes , fishermen possible . 
+DN023_Answer_resp_a3 , frFR , provided , BTS DUT , Deust or political 
+DN023_Answer_resp_a4 , frFR , 4 . Diplôme professions of social and health of the targets Bac+2 : Diplôme d'éducateur technical pleased and d'éducateur pleased , Diplôme d'assistante social , Diplôme paramédical (laborantin , infirmier jusqu'en 2009 , etc .) 
+DN023_Answer_resp_a5 , frFR , 5 . Autre that targets Bac+2 : Certificat d'aptitude the (instituteur) , etc . 
+DN023_Answer_resp_a6 , frFR , 6 Diplôme . as the 2ème younger (licence , Unit , advocated that d'infirmier since , whereby the master : 1 , CAPES , CRPE) , that other targets Bac+3 or Bac+4 (agrégation jusqu'en 2009) 
+DN023_Answer_resp_a7 , frFR , 59 . Diplôme d'ingénieur , of the health , d'école of trade 
+DN023_Answer_resp_a8 , frFR , 8 , as the Diplôme 3ème younger (master 2 , DEA , DES , DESS , Agrégation since 2010) , doctorat in , or substitutes (Médecine , Dentaire , Pharmacie) 
+DN023_Answer_resp_a9 , frFR , 9 . Autre that targets bloodstream Bac+2 : Diplômes professionals orders unease (notaire , architecte , Standard , journaliste…) 
+DN023_Answer_resp_a10 , frFR , 10 Doctorat (hors santé) of research . 
+DN023_Answer_resp_a11 , frFR , 53 . Encore in the new or professional d'études 
+DN023_Answer_resp_a12 , frFR , / Autre . 
+DN023_QText , frCH Veuillez , all the noise provided Lequel of these and d'enseignement upper or vocational possède/possédait/possédait your /ex-/(défunt)/(défunte) mari/femme/femme ? 
+DN023_Answer_resp_a1 , frCH , 1 . Aucune training mg / no other 
+DN023_Answer_resp_a2 , frCH , material Formation advocated Fijian (Attestation Republic vocational , Apprentissage short-term (2 ans) , Ecole franchises (1 an) , Ecole of vocational training (1-2 ans) 
+DN023_Answer_resp_a3 , frCH , provided Apprentissage 3-4 years (CFC) in company also or in health status 
+DN023_Answer_resp_a4 , frCH , 4 , the education or training in both the second training 
+DN023_Answer_resp_a5 , frCH , 5 . Maîtrise advocated , the EU and other modules professionals orders 
+DN023_Answer_resp_a6 , frCH , 6 . Diplôme or postgrade d'une have advocated mg , p .ex . in the areas technical , administration , health , social work , and imposed 
+DN023_Answer_resp_a7 , frCH , 59 . Diplôme or postgrade d'une of milk in schools suivantes: d'ingénieurs ETS , new surge of unduly for l'économie and l'administration (ESCEA) , schools in d'arts imposed (ESAA) , schools , health , family d'économie (ESEF) hôtelière of Lausanne (EHL , Party owes it in 1998 , 1999 and 2000) . 
+DN023_Answer_resp_a8 , frCH , 8 HES / HEP: Bachelor . 
+DN023_Answer_resp_a9 , frCH , 9 . HES / HEP: Master , that , postgrade 
+DN023_Answer_resp_a10 , frCH , 10 . UNI / EPF: Demi-licence , car propédeutique 
+DN023_Answer_resp_a11 , frCH , 11 . UNI / EPF: Bachelor , licence in 3-4 years 
+DN023_Answer_resp_a12 , frCH , like UNI / EPF: Licence limits , that 4 years 
+DN023_Answer_resp_a13 , frCH , 13 . UNI / EPF: Master , that , postgrade 
+DN023_Answer_resp_a14 , frCH , 14 . UNI / EPF: Doctorat , PhD 
+DN023_Answer_resp_a15 , frCH , 53 Encore offshore . 
+DN023_Answer_resp_a16 , frCH , / Autre . 
+DN023_QText , frBE , Veuillez assessing the d provided On rectified , plans and the d'enseignement upper or vocational that possède/possédait/possédait your /ex-/défunt/défunt(e) mari/femme/femme ? 
+DN023_Answer_resp_a1 , frBE , 1 . N'a not that of the l'enseignement . 
+DN023_Answer_resp_a2 , frBE , material N'a not finished its studied l'enseignement . 
+DN023_Answer_resp_a3 , frBE , provided Baccalauréat professionnalisant , that of l'enseignement crisis-torn short-term realism (gradués , régents , instituteurs) . Diplômes appraisal of l'enseignement crisis-torn type court; Enseignement against crisis-torn short-term realism 
+DN023_Answer_resp_a4 , frBE , 4 . Diplôme of Turkey as or bachelier as 
+DN023_Answer_resp_a5 , frBE , 5 . Diplôme of l'enseignement crisis-torn type Iceland (non universitaire); Diplôme d'ingénieur industrial (niveau universitaire) 
+DN023_Answer_resp_a6 , frBE , 6 . Master complementary and complements that after a training d'ingénieur industrial (niveau universitaire) 
+DN023_Answer_resp_a7 , frBE 6 Licence . as the master as , out of China , in as , of in as Standard , pharmacien 
+DN023_Answer_resp_a8 , frBE , 8 . Maîtrise after a licence , DEA , DES , Master complémentaire; Agrégation 
+DN023_Answer_resp_a9 , frBE , 9 Doctorat with idea . 
+DN023_Answer_resp_a10 , frBE , 53 Encore the studies . 
+DN023_Answer_resp_a11 , frBE , / Autre . 
+DN023_QText , frLU , Veuillez assessing the noise provided Lesquels of these and the l'enseignement upper or vocational or technical votre/votre /ex-/défunte/défunt époux/épouse/épouse a-t-il/elle profits ? 
+DN023_Answer_resp_a1 , frLU , 1 . Pas to that of l'enseignement upper or of technical and political . 
+DN023_Answer_resp_a2 , frLU , material N'a not a forum self-enclosed d'études above 
+DN023_Answer_resp_a3 , frLU , provided the Brevet artisanale : 
+DN023_Answer_resp_a4 , frLU , 4 , DUT , BTS BAC+2 . 
+DN023_Answer_resp_a5 , frLU , 5 , Licence , Bachelor BAC+3 . 
+DN023_Answer_resp_a6 , frLU , 6 . BAC+4 , Maitrise , Master 1 
+DN023_Answer_resp_a7 , frLU , 59 . BAC+5 improvement without doctorat : DEA , DESS , Master 2 
+DN023_Answer_resp_a8 , frLU , 8 Doctorat or more . 
+DN023_Answer_resp_a9 , frLU , Directive on offshore . 
+DN023_Answer_resp_a10 , frLU , / Autres . 
+DN024_QText , frFR , President , that of l'enseignement upper or vocational possède/possédait/possédait your mari/femme/ex-mari/ex-femme/femme ? 
+DN024_QText , frCH , the other that d'enseignement upper or vocational possède/possédait/possédait your {}/ex-/(défunt)/(défunte) mari/femme/femme ? 
+DN024_QText , frBE , President , that of l'enseignement upper or vocational possède/possédait/possédait your /ex-/défunt/défunt(e) mari/femme/femme ? 
+DN024_QText , frLU , President , that of l'enseignement upper or vocational or technical votre/votre /ex-/défunte/défunt époux/épouse/épouse a-t-il/elle profits ? 
+DN040_QText , frFR , Avez-vous a conjoint/partenaire faces shipped your Presidency ? 
+DN040_Answer_resp_a1 , frFR , 1 Oui . 
+DN040_Answer_resp_a2 , frFR , Non 5 . 
+DN040_QText , frCH , Avez-vous a partenaire/un non-married faces shipped your Presidency ? 
+DN040_Answer_resp_a1 , frCH , 1 Oui . 
+DN040_Answer_resp_a2 , frCH , Non 5 . 
+DN040_QText , frBE , Avez-vous un(e) non-married faces shipped your Presidency ? 
+DN040_Answer_resp_a1 , frBE , 1 Oui . 
+DN040_Answer_resp_a2 , frBE , Non 5 . 
+DN040_QText , frLU , Avez-vous a non-married faces shipped this service ? 
+DN040_Answer_resp_a1 , frLU , 1 Oui . 
+DN040_Answer_resp_a2 , frLU , Non 5 . 
+DN757_QText , frFR , Obviously s'agissait jusqu'à now of course the information you are Luxembourg , the term of your life . we now want to ask you on your way of life in the last of these days . 
+DN757_Answer_resp_a1 , frFR , 1 Continuer . 
+DN757_QText , frCH Milosevic , questions were in report to the alarming developments during your life . we should now like to ask how you vivez your life at . 
+DN757_Answer_resp_a1 , frCH , 1 Continuer . 
+DN757_QText , frBE Northern part rétrospective the Blak is finalised . that would now like to ask on the question you vivez to l'heure current . 
+DN757_Answer_resp_a1 , frBE , 1 Continuer . 
+DN757_QText , frLU C'étaient , of course the unjust feeble , and of your life . we want now you have questions on the efforts you have experienced these difficult . 
+DN757_Answer_resp_a1 , frLU , 1 Continuez . 
+DN026_QText , frFR , Votre mère/père est- elle/il always in life ? 
+DN026_Answer_resp_a1 , frFR , 1 Oui . 
+DN026_Answer_resp_a2 , frFR , Non 5 . 
+DN026_QText , frCH , Votre mère/père built-in est- elle/il always in life ? 
+DN026_Answer_resp_a1 , frCH , 1 Oui . 
+DN026_Answer_resp_a2 , frCH , Non 5 . 
+DN026_QText , frBE , Votre mère/père naturelle/naturel est- elle/il always in life ? 
+DN026_Answer_resp_a1 , frBE , 1 Oui . 
+DN026_Answer_resp_a2 , frBE , Non 5 . 
+DN026_QText , frLU , Est-ce that votre/votre mère/père biologique/biologique is always in life ? 
+DN026_Answer_resp_a1 , frLU , 1 Oui . 
+DN026_Answer_resp_a2 , frLU , Non 5 . 
+DN127_QText , frFR Vous , we have already d'un cohabitation attend that your mother n'était more in life ./Vous we have already d'un cohabitation attend that your n'était can , in addition . whatever year is décédée/décédé your mère/père ? 
+DN127_QText , frCH , At d'un cohabitation attend , as we have said that your mother n'était more in life ./Lors d'un cohabitation attend , as we have said that your n'était can , in addition to the Chechens year bureaucracy décédée/est-il died ? 
+DN127_QText , frBE , Vous you during the previous l'entretien the fact that your mother n'est more in life ./Vous you during the previous l'entretien the fact that your n'est can , in addition to the Chechens year your mère/père est- it décédée/il died ? 
+DN127_QText , frLU , Vous noticed said in reply to hear your mother n'était drain vie/Vous noticed said in reply to your response as n'était , in addition , whatever year is mort(e) votre/votre mère/père ? 
+DN027_QText , frFR , IIIA what age votre/votre mère/père est- it décédée/il died ? 
+DN027_QText , frCH , IIIA what age your mother prepared décédée/votre as all-round died ? 
+DN027_QText , frBE , IIIA what age your mère/père est- elle/il décédé(e) ? 
+DN027_QText , frLU , IIIA what age votre/votre mère/père est-t- elle/il décédé(e) ? 
+DN028_QText , frFR , President is l'âge proximity your mère/père ? 
+DN028_QText , frCH , President is l'âge proximity your mère/père ? 
+DN028_QText , frBE , President is l'âge proximity your mère/père ? 
+DN028_QText , frLU , President is l'âge proximity your mère/père ? 
+DN030_QText , frFR , Veuillez complaint before 6 . Où lives your mère/père ? 
+DN030_Answer_resp_a1 , frFR , 1 In the same shelter . 
+DN030_Answer_resp_a2 , frFR , 2 In the same building . 
+DN030_Answer_resp_a3 , frFR , 3 , d'1 kilomètre IIIA . 
+DN030_Answer_resp_a4 , frFR . Entre 1 , 4 and 5 miles of sea 
+DN030_Answer_resp_a5 , frFR , 5 . Entre 5 and 20 miles of sea 
+DN030_Answer_resp_a6 , frFR , 6 , 25 and Entre 100 miles of sea 
+DN030_Answer_resp_a7 , frFR , 59 . Entre 100 and 1 kg of copyright 
+DN030_Answer_resp_a8 , frFR , Article 118a , of 500 miles . 
+DN030_QText , frCH , Veuillez make before 6 . Où lives your mère/père ? 
+DN030_Answer_resp_a1 , frCH , 1 In the same service . 
+DN030_Answer_resp_a2 , frCH , 2 In the same building . 
+DN030_Answer_resp_a3 , frCH , 3 , d'1 kilomètre IIIA . 
+DN030_Answer_resp_a4 , frCH , 4 IIIA . a distance of 1 to 5 miles 
+DN030_Answer_resp_a5 , frCH , 5 IIIA . a sea of 5 to 24 miles 
+DN030_Answer_resp_a6 , frCH , 6 IIIA . even of 25 to 100 miles 
+DN030_Answer_resp_a7 , frCH 6 IIIA . a sea of 100 kg to 1 
+DN030_Answer_resp_a8 , frCH , Article 118a , of 500 miles . 
+DN030_QText , frBE , Veuillez complaint form the Articles . Où lives votre/votre mère/père ? 
+DN030_Answer_resp_a1 , frBE , 1 In the same shelter . 
+DN030_Answer_resp_a2 , frBE , 2 In the same building . 
+DN030_Answer_resp_a3 , frBE , 3 , d'1 kilomètre IIIA . 
+DN030_Answer_resp_a4 , frBE , 4 IIIA . a distance of 1 to 5 miles 
+DN030_Answer_resp_a5 , frBE , 5 IIIA . a sea of 5 to 24 miles 
+DN030_Answer_resp_a6 , frBE , 6 IIIA . even of 25 to 100 miles 
+DN030_Answer_resp_a7 , frBE 6 IIIA . a sea of 100 kg to 1 
+DN030_Answer_resp_a8 , frBE , Article 118a , of 500 miles . 
+DN030_QText , frLU , Veuillez complaint before 6 Où your mère/père vit-elle/vit-il ? 
+DN030_Answer_resp_a1 , frLU , 1 In the same service . 
+DN030_Answer_resp_a2 , frLU , 2 In the same building . 
+DN030_Answer_resp_a3 , frLU , 3 , d’1 kilomètre IIIA . 
+DN030_Answer_resp_a4 , frLU Entre 1 , 4 and 5 kg . 
+DN030_Answer_resp_a5 , frLU , 5 Entre 5 and 20 miles . 
+DN030_Answer_resp_a6 , frLU , 6 and 25 Entre 100 miles . 
+DN030_Answer_resp_a7 , frLU 6 Entre 100 and 1 kg . 
+DN030_Answer_resp_a8 , frLU , Article 118a , of 500 miles . 
+DN032_QText , frFR company , the last twelve months , when storms have been in contact with your mère/père , that this is in nobody , by Liberty , e-mail , Lincoln , or another of electronic communication ? 
+DN032_Answer_resp_a1 , frFR , 1 Tous the days . 
+DN032_Answer_resp_a2 , frFR , 2 , week by BSE . 
+DN032_Answer_resp_a3 , frFR , 3 ) , the hour week . 
+DN032_Answer_resp_a4 , frFR . ) , 4 , all the two weeks 1 
+DN032_Answer_resp_a5 , frFR , 5 reports written about . 
+DN032_Answer_resp_a6 , frFR , 6 Moins d'une written . 
+DN032_Answer_resp_a7 , frFR 6 Jamais . 
+DN032_QText , frCH company , the last twelve months , when storms have been in contact with your mère/père , that this is personally , I could , by e-mail , by a longer or another electronic ? 
+DN032_Answer_resp_a1 , frCH , 1 Tous the days . 
+DN032_Answer_resp_a2 , frCH , 2 , week by BSE . 
+DN032_Answer_resp_a3 , frCH , 3 ) , the hour week . 
+DN032_Answer_resp_a4 , frCH . ) , 4 , all the fifteen days 1 
+DN032_Answer_resp_a5 , frCH , 5 reports written about . 
+DN032_Answer_resp_a6 , frCH , 6 Moins d'une written . 
+DN032_Answer_resp_a7 , frCH 6 Jamais . 
+DN032_QText , frBE company , the last twelve months , when storms have had a contact with your mère/père , that this is directly or by Liberty , out , e-mail , Lincoln , or to another electronic ? 
+DN032_Answer_resp_a1 , frBE , 1 Tous the days . 
+DN032_Answer_resp_a2 , frBE , 2 , week by BSE . 
+DN032_Answer_resp_a3 , frBE , 3 ) , the hour week . 
+DN032_Answer_resp_a4 , frBE . ) , 4 , all the fifteen days 1 
+DN032_Answer_resp_a5 , frBE , 5 reports written about . 
+DN032_Answer_resp_a6 , frBE , 6 Moins d'une written . 
+DN032_Answer_resp_a7 , frBE 6 Jamais . 
+DN032_QText , frLU company , the last twelve months , how many have been in contact with votre/votre mère/père , that this is in nobody , by Liberty , by e-mail , by Lincoln or a another electronic ? 
+DN032_Answer_resp_a1 , frLU , 1 Tous the days . 
+DN032_Answer_resp_a2 , frLU , 2 , week by BSE . 
+DN032_Answer_resp_a3 , frLU , 3 ) , the hour week . 
+DN032_Answer_resp_a4 , frLU . ) , 4 , all the two weeks 1 
+DN032_Answer_resp_a5 , frLU , 5 reports written about . 
+DN032_Answer_resp_a6 , frLU , 6 Moins d'une written . 
+DN032_Answer_resp_a7 , frLU 6 Jamais . 
+DN033_QText , frFR qualifieriez-vous coherence , the health of your mère/père Diriez-vous qu'elle is ? 
+DN033_Answer_resp_a1 , frFR , 1 Excellente . 
+DN033_Answer_resp_a2 , frFR , 2 Très good . 
+DN033_Answer_resp_a3 , frFR Bonne , 3 . 
+DN033_Answer_resp_a4 , frFR , 4 Acceptable . 
+DN033_Answer_resp_a5 , frFR , Médiocre 5 . 
+DN033_QText , frCH qualifieriez-vous coherence , the health of your mère/père Diriez-vous qu'elle is ? 
+DN033_Answer_resp_a1 , frCH , 1 Excellente(s) . 
+DN033_Answer_resp_a2 , frCH , 2 Très bonne(s) . 
+DN033_Answer_resp_a3 , frCH , 3 Bonne(s) . 
+DN033_Answer_resp_a4 , frCH , 4 Acceptable(s) . 
+DN033_Answer_resp_a5 , frCH , Médiocre(s) 5 . 
+DN033_QText , frBE qualifieriez-vous coherence , the health of your mère/père Diriez-vous qu'elle is ? 
+DN033_Answer_resp_a1 , frBE , 1 Excellente . 
+DN033_Answer_resp_a2 , frBE , 2 Très good . 
+DN033_Answer_resp_a3 , frBE Bonne , 3 . 
+DN033_Answer_resp_a4 , frBE , 4 Acceptable . 
+DN033_Answer_resp_a5 , frBE , Mauvaise 5 . 
+DN033_QText , frLU qualifieriez-vous coherence , the health of votre/votre mère/père ? Diriez-vous qu'elle is . 
+DN033_Answer_resp_a1 , frLU , 1 Excellente . 
+DN033_Answer_resp_a2 , frLU , 2 Très good . 
+DN033_Answer_resp_a3 , frLU Bonne , 3 . 
+DN033_Answer_resp_a4 , frLU , 4 Acceptable . 
+DN033_Answer_resp_a5 , frLU , Mauvaise 5 . 
+DN034_QText , frFR Avez-vous , or have had the family and sœurs ? 
+DN034_Iwer , frFR , Inclure the family and sœurs not . 
+DN034_Answer_resp_a1 , frFR , 1 Oui . 
+DN034_Answer_resp_a2 , frFR , Non 5 . 
+DN034_QText , frCH Avez-vous , or have had the family and soeurs ? 
+DN034_Iwer , frCH Y , including the family and soeurs not . 
+DN034_Answer_resp_a1 , frCH , 1 Oui . 
+DN034_Answer_resp_a2 , frCH , Non 5 . 
+DN034_QText , frBE Avez-vous , or have had the family and sœurs ? 
+DN034_Iwer , frBE Y , including the family and sœurs not since . 
+DN034_Answer_resp_a1 , frBE , 1 Oui . 
+DN034_Answer_resp_a2 , frBE , Non 5 . 
+DN034_QText , frLU Avez-vous , or have had the family and soeurs ? 
+DN034_Iwer , frLU Y , including the family and soeurs not since . 
+DN034_Answer_resp_a1 , frLU , 1 Oui . 
+DN034_Answer_resp_a2 , frLU , Non 5 . 
+DN036_QText , frFR Combien siblings , to do , which are always in life ? 
+DN036_Iwer , frFR Y , including the family . 
+DN036_QText , frCH , Combien of siblings , who are always in life ? 
+DN036_Iwer , frCH Y , including the family . 
+DN036_QText , frBE , Combien of siblings , who are always in life ? 
+DN036_Iwer , frBE , Y COMPRIS DES FRERES NON BIOLOGIQUES 
+DN036_QText , frLU Combien specifically siblings , of which are always in life ? 
+DN036_Iwer , frLU Y , including the family . 
+DN037_QText , frFR , Combien of sœurs do , which are always in life ? 
+DN037_Iwer , frFR Y , including the sœurs not . 
+DN037_QText , frCH Combien soeurs do , of which are always in life ? 
+DN037_Iwer , frCH Y , including the soeurs not . 
+DN037_QText , frBE Combien soeurs do , of which are always in life ? 
+DN037_Iwer , frBE , Y COMPRIS DES SOEURS NON BIOLOGIQUES 
+DN037_QText , frLU Combien , specifically the sœurs which are always in life ? 
+DN037_Iwer , frLU Y , including the sœurs not . 
+CH001_QText , frBE , I shall now you have to your children . Combien specifically d’enfants reserved still alive ? Prenez in all of your children ) , recueillis in your family , community , and that those of votre/ mari/femme/partenaire/ . 
+CH001_QText , frLU , I shall now you have to bear children . Combien specifically d’enfants still alive to this item ? Prenez in all of your children ) , confiés , cannot and should in your family , and that those de/ your époux/votre épouse/votre partenaire/ {Name Nicholson partner/spouse} . ENQUETEUR * : on the = Following wording in the family and for which the single currency is the can for a legal act d'adoption . * = rapporteurs on their wording in the families d'accueil , with the signing d'un prioritising the agreement to the status of the family d'accueil . 
+CH201_QText , frFR simply agreement shall list of all your children , we have talked aujourd'hui/lors d'un attend Certains continuity of your children can be répertoriés two again in the expired , d'autres can import or we can have a two-stage TENs or incorrect for some children . I would start etc in constant with you and m'assurer that we have the information and be adapted to all your children can , should in your family , community and that those of your competence or non-married . that we take the children still alive to this item . 
+CH201_Answer_resp_a1 , frFR , 1 Continuer . 
+CH201_QText , frCH simply agreement shall list containing the children , we have talked aujourd'hui/soit aujourd'hui d'un during the British speaker . ) problem that some of your children are the two parliaments passing d'autres interest to the target or that the structures or spurious . J'aimerais so that you during the constant etc in order to see if our information are adapted and information for all the children , since these or those that you should have in your family , and that those of your non-married . that we take only children who are still alive . 
+CH201_Answer_resp_a1 , frCH , 1 Continuer . 
+CH201_QText , frBE , the reports of all the children , we have talked aujourd'hui/aujourd'hui or the d'un attend the conference , on my . then Certains of your children can be répertoriés two again in this target , d'autres can be manquants or we can have the information data for some d'entre matching . I would say this with you and m'assurer that we have the full information and adapted . 
+CH201_Answer_resp_a1 , frBE , 1 Continuer . 
+CH201_QText , frLU J'ai now then , on my list of children , we have talked aujourd'hui/aujourd'hui or during l'interview resigning Obviously problem that some of your children are the two parliaments passing d'autres interest to the target or that the structures or spurious . J'aimerais so that you during the constant etc with me , to examine if our information are adapted and information . am ENQUETEUR necessary expliquez : we are interested in the children who are always show . we voted for the target for qu'elle accurate all the children , since , recently , recently , and that the children of your époux/épouse/partenaire . 
+CH201_Answer_resp_a1 , frLU , 1 Continuez . 
+CH603_QText , frFR , we voted entitled , on this enfant/ces children . Commençons by the more man . Encore again , please , to all your children can , should in your family , community and that those of your mari/ainsi that those of your femme/ainsi that those of your compagnon/ainsi that those of your , . 
+CH603_Answer_resp_a1 , frFR , 1 Continuer . 
+CH603_QText , frCH , we voted entitled , on this enfant/ces children . Commençons not the man , a new proposal , therefore , in which all your children , since , recently and those that you should have in your family , including those of your mari/ , including those of your femme/ , including those of your non-married . 
+CH603_Answer_resp_a1 , frCH , 1 Continuer . 
+CH603_QText , frBE , we voted in the Commission this morning ./ces children . Commençons by the more man . Encore again , please , to all your children ) , recueillis , community or the beaux-enfants so that those of your mari/ainsi that those of your femme/ainsi that those of your non-married . 
+CH603_Answer_resp_a1 , frBE , 1 Continuer . 
+CH603_QText , frLU , We would entitled , on this enfant/ces children . we voted , by the more man . these Veuillez all the children , qu'ils habitats , and should be adopted , including those of your mari/y including those of your femme/y including those of your non-married . 
+CH603_Answer_resp_a1 , frLU , 1 Continuez . 
+CH302_QText , frFR , The child is a child built-in commun/Cet child rearing your child built-in /Ces children later all the children can communs/Ces children themselves all your children since to you and your current qu'à mari /à you thus qu'à your wife current /à you and your current qu'à Angora /à you and your qu'à , current ? 
+CH302_Answer_resp_a1 , frFR , 1 Oui . 
+CH302_Answer_resp_a2 , frFR , Non 5 . 
+CH302_QText , frCH , The child rearing your child built-in commun/Cet child rearing your child biologique/Ces children themselves all your children since communs/Ces children themselves all your children since to you and your mari actuel/à you and your wife actuelle/à you and your non-married actuel/à you and your current non-married ? 
+CH302_Answer_resp_a1 , frCH , 1 Oui . 
+CH302_Answer_resp_a2 , frCH , Non 5 . 
+CH302_QText , frBE , The child rearing your child naturel/Tous these children themselves your children naturels/Tous these children themselves your children ) , and to you and to your mari actuel/ , points to you and to your wife actuelle/ , points to you and to your non-married actuel/ , points to you and to your non-married current ? 
+CH302_Answer_resp_a1 , frBE , 1 Oui . 
+CH302_Answer_resp_a2 , frBE , Non 5 . 
+CH302_QText , frLU , The child is not very common avec/Cet child is a child or de/Ces children themselves of children and habitats avec/Ces children are the children of your husband actuel/épouse actuelle/partenaire actuel/partenaire current ? 
+CH302_Answer_resp_a1 , frLU , 1 Oui . 
+CH302_Answer_resp_a2 , frLU , Non 5 . 
+CH303_QText , frFR , Lesquels of these children , are not your son ) to you and your current qu'à mari /à you thus qu'à your wife current /à you and your current qu'à Angora /à you and your qu'à , current ? 
+CH303_Answer_resp_a1 , frFR , codecision . 
+CH303_QText , frCH , integration and are not killed for points to you and your mari actuel/à you and your wife actuelle/à you and your non-married actuel/à you and your current non-married ? 
+CH303_Answer_resp_a1 , frCH , {liste of enfants} 
+CH303_QText , frBE , Veuillez sélectionner the children , which are not your son ) , and to you and to your mari/ , points to you and to your femme/ , points to you and to your non-married . 
+CH303_Answer_resp_a1 , frBE Liste , with the children 
+CH303_QText , frLU , Cochez the children , which are not your own natural children and those of your husband actuel/et those of your time actuelle/et those of your non-married actuel/et those of your current non-married ? 
+CH303_Answer_resp_a1 , frLU , {liste of enfants} 
+CH507_QText , frFR , voted Conservative update the information on your enfant/vos children . 
+CH507_Answer_resp_a1 , frFR , 1 Continuer . 
+CH507_QText , frCH , voted Conservative update the information that we have on your enfant/vos children . 
+CH507_Answer_resp_a1 , frCH , 1 Continuer . 
+CH507_QText , frBE , We would update some of which that we have on your enfant/vos children . 
+CH507_Answer_resp_a1 , frBE , 1 Continuer . 
+CH507_QText , frLU , voted Conservative update the information that we have the vos/votre enfant/enfants . 
+CH507_Answer_resp_a1 , frLU , 1 Continuez . 
+CH524_Answer_resp_a1 , frFR , 1 Oui . 
+CH524_Answer_resp_a2 , frFR , Non 5 . 
+CH524_Answer_resp_a1 , frCH , 1 Oui . 
+CH524_Answer_resp_a2 , frCH , Non 5 . 
+CH524_Answer_resp_a1 , frBE , 1 Oui . 
+CH524_Answer_resp_a2 , frBE , Non 5 . 
+CH524_Answer_resp_a1 , frLU , 1 Oui . 
+CH524_Answer_resp_a2 , frLU , Non 5 . 
+CH525_QText , frFR , the child has déménagé ? 
+CH525_Answer_resp_a1 , frFR , {liste of enfants} 
+CH525_QText , frCH , Lequel of your children has déménagé ? 
+CH525_Answer_resp_a1 , frCH , {liste of enfants} 
+CH525_QText , frBE , the child has déménagé ? 
+CH525_Answer_resp_a1 , frBE Liste , with the children 
+CH525_QText , frLU , the child has from the Presidency ? 
+CH525_Iwer , frLU Saisissez , all the responses to future 
+CH525_Answer_resp_a1 , frLU , {liste of enfants} 
+CH508_Answer_resp_a1 , frFR , 1 Oui . 
+CH508_Answer_resp_a2 , frFR , Non 5 . 
+CH508_Answer_resp_a1 , frCH , 1 Oui . 
+CH508_Answer_resp_a2 , frCH , Non 5 . 
+CH508_Answer_resp_a1 , frBE , 1 Oui . 
+CH508_Answer_resp_a2 , frBE , Non 5 . 
+CH508_Answer_resp_a1 , frLU , 1 Oui . 
+CH508_Answer_resp_a2 , frLU , Non 5 . 
+CH509_QText , frFR , the child ? 
+CH509_Answer_resp_a1 , frFR , {liste of enfants} 
+CH509_QText , frCH , Croo what child s'agit-il ? 
+CH509_Answer_resp_a1 , frCH , {liste of enfants} 
+CH509_QText , frBE , the child ? 
+CH509_Answer_resp_a1 , frBE Liste , with the children 
+CH509_QText , frLU , the child ? 
+CH509_Iwer , frLU Saisissez , all the responses to future 
+CH509_Answer_resp_a1 , frLU , {liste of enfants} 
+CH511_Answer_resp_a1 , frFR , 1 Oui . 
+CH511_Answer_resp_a2 , frFR , Non 5 . 
+CH511_Answer_resp_a1 , frCH , 1 Oui . 
+CH511_Answer_resp_a2 , frCH , Non 5 . 
+CH511_Answer_resp_a1 , frBE , 1 Oui . 
+CH511_Answer_resp_a2 , frBE , Non 5 . 
+CH511_Answer_resp_a1 , frLU , 1 Oui . 
+CH511_Answer_resp_a2 , frLU , Non 5 . 
+CH512_QText , frFR , the child ? 
+CH512_Answer_resp_a1 , frFR , {liste of enfants} 
+CH512_QText , frCH , Croo what child s'agit-il ? 
+CH512_Answer_resp_a1 , frCH , {liste of enfants} 
+CH512_QText , frBE , the child ? 
+CH512_Answer_resp_a1 , frBE Liste , with the children 
+CH512_QText , frLU , the child ? 
+CH512_Iwer , frLU Saisissez , all the responses to future 
+CH512_Answer_resp_a1 , frLU , {liste of enfants} 
+CH514_Answer_resp_a1 , frFR , 1 Oui . 
+CH514_Answer_resp_a2 , frFR , Non 5 . 
+CH514_Answer_resp_a1 , frCH , 1 Oui . 
+CH514_Answer_resp_a2 , frCH , Non 5 . 
+CH514_Answer_resp_a1 , frBE , 1 Oui . 
+CH514_Answer_resp_a2 , frBE , Non 5 . 
+CH514_Answer_resp_a1 , frLU , 1 Oui . 
+CH514_Answer_resp_a2 , frLU , Non 5 . 
+CH515_QText , frFR , the child has changed the situation matters ? 
+CH515_Answer_resp_a1 , frFR , {liste of enfants} 
+CH515_QText , frCH , Lequel of your son had d'état sphere ? 
+CH515_Answer_resp_a1 , frCH , {liste of enfants} 
+CH515_QText , frBE , the child has changed the marital status ? 
+CH515_Answer_resp_a1 , frBE Liste , with the children 
+CH515_QText , frLU , the child has changed the status matrimonial ? 
+CH515_Iwer , frLU Saisissez , all the responses to future 
+CH515_Answer_resp_a1 , frLU , {liste of enfants} 
+CH517_Iwer , frFR Prendre , the proposal of the Community should , in cooperation so that those of its competence or non-married . 
+CH517_Answer_resp_a1 , frFR , 1 Oui . 
+CH517_Answer_resp_a2 , frFR , Non 5 . 
+CH517_Iwer , frCH , Inclure the children , since Amendments , community and the children d'un(e) conjoint(e) or non-married . 
+CH517_Answer_resp_a1 , frCH , 1 Oui . 
+CH517_Answer_resp_a2 , frCH , Non 5 . 
+CH517_Iwer , frBE , Veuillez include the children ) , adopted recently , and the beaux-enfants , including those d'un(e) conjoint(e) or non-married . 
+CH517_Answer_resp_a1 , frBE , 1 Oui . 
+CH517_Answer_resp_a2 , frBE , Non 5 . 
+CH517_Iwer , frLU , Veuillez include the children since , recently , temporary , y-compris those of your competence or non-married . 
+CH517_Answer_resp_a1 , frLU , 1 Oui . 
+CH517_Answer_resp_a2 , frLU , Non 5 . 
+CH518_QText , frFR , the child has had a new study ? 
+CH518_Iwer , frFR Cocher , all the stakeholders . 
+CH518_Answer_resp_a1 , frFR , {liste of enfants} 
+CH518_QText , frCH , Lequel of your children has had a new study ? 
+CH518_Iwer , frCH Cocher , all the stakeholders . 
+CH518_Answer_resp_a1 , frCH , {liste of enfants} 
+CH518_QText , frBE , the child is redundant parent ? 
+CH518_Iwer , frBE Vérifier , all the children - this s'applique 
+CH518_Answer_resp_a1 , frBE Liste , with the children 
+CH518_QText , frLU , the child is redundant d'un parent to child ? 
+CH518_Iwer , frLU Vérifiez , all the children - the situation s'applique 
+CH518_Answer_resp_a1 , frLU , {liste of enfants} 
+CH021_QText , frFR , (A discussed petits-enfants) , how to do lots in all , you and votre/ mari/femme/compagnon/compagne/ ? 
+CH021_Iwer , frFR , Inclure the hemp lots of existing relations 
+CH021_QText , frCH , Parlons programme lots and lots of Combien , you and votre/ mari , /femme , /partenaire / , specifically in all ? 
+CH021_Iwer , frCH , Inclure the lots of relations . 
+CH021_QText , frBE Initiative , subject to your lots , how to do , you and votre/ mari/femme/partenaire/ , in all ? 
+CH021_Iwer , frBE , Inclure the lots , pivotal d'une resigning . 
+CH021_QText , frLU , the the lots , how to do lots of , and you votre/ époux/épouse/partenaire/ in total ? 
+CH021_Iwer , frLU , Incluez the hemp lots of existing relations . 
+CH022_QText , frFR , Avez-vous , you or votre/ mari/femme/compagnon/compagne/ , the arrière-petits-enfants ? 
+CH022_Answer_resp_a1 , frFR , 1 Oui . 
+CH022_Answer_resp_a2 , frFR , Non 5 . 
+CH022_QText , frCH , Avez-vous , you and votre/ mari , /femme , /partenaire , / the arrière-petits-enfants ? 
+CH022_Answer_resp_a1 , frCH , 1 Oui . 
+CH022_Answer_resp_a2 , frCH , Non 5 . 
+CH022_QText , frBE , Avez-vous , you or votre/ mari , /femme , /partenaire , / the arrière-petits-enfants ? 
+CH022_Answer_resp_a1 , frBE , 1 Oui . 
+CH022_Answer_resp_a2 , frBE , Non 5 . 
+CH022_QText , frLU , Avez-vous , you or votre/ époux/épouse/partenaire/ , the arrière-petits-enfants ? 
+CH022_Answer_resp_a1 , frLU , 1 Oui . 
+CH022_Answer_resp_a2 , frLU , Non 5 . 
+CH023_Iwer , frFR , Qui has responded to the questions of this ? 
+CH023_Answer_resp_a1 , frFR , 1 L'enquêté(e) . 
+CH023_Answer_resp_a2 , frFR , 2 and a proxy L'enquêté(e) . 
+CH023_Answer_resp_a3 , frFR , 3 proxy only &quot; . 
+CH023_Iwer , frCH IIIA , please , l'enquêteur: Qui has responded to the questions of this ? 
+CH023_Answer_resp_a1 , frCH , 1 Seulement the criteria . 
+CH023_Answer_resp_a2 , frCH , 2 700 criteria and its proxy . 
+CH023_Answer_resp_a3 , frCH , 3 Seulement its proxy . 
+CH023_Iwer , frBE , CONTROLE infants L'ENQUETEUR : QUI IIIA REPONDU AUX QUESTIONS infants CETTE SECTION ? 
+CH023_Answer_resp_a1 , frBE , 1 Seulement the criteria . 
+CH023_Answer_resp_a2 , frBE , 2 700 criteria and its solution . 
+CH023_Answer_resp_a3 , frBE , provided through its Seulement 
+CH023_Iwer , frLU , QUI IIIA RÉPONDU AUX QUESTIONS infants CETTE SECTION ? 
+CH023_Answer_resp_a1 , frLU , 1 Seulement the criteria . 
+CH023_Answer_resp_a2 , frLU , 2 700 criteria and a proxy . 
+CH023_Answer_resp_a3 , frLU , provided a proxy Seulement 
+CH203_Iwer , frFR , Veuillez you ensure that the target of children is full am the target is communitisation , or to go back with the pressing <- 
+CH203_Answer_resp_a1 , frFR , 1 Continuer . 
+CH203_Iwer , frCH Vérifier , that the target of children , full am the 10-point n'est justifying , not just in week in tapant on the flèche <- 
+CH203_Answer_resp_a1 , frCH , 1 Continuer . 
+CH203_Iwer , frBE , Veuillez you ensure that the target of children is full am this n'est not the case , go back in the Blak vis-à-vis the flèche of irrigation &apos; (<-) 
+CH203_Answer_resp_a1 , frBE , 1 Continuer . 
+CH203_Iwer , frLU Assurez-vous , that the target of children is full am the target is communitisation , or to that position vis-à-vis the flèche <- 
+CH203_Answer_resp_a1 , frLU , 1 Continuez . 
+CH001a_Answer_resp_a1 , frFR , 1 Oui . 
+CH001a_Answer_resp_a1 , frCH , 1 Oui . 
+CH001a_Answer_resp_a1 , frBE , 1 Oui . 
+CH001a_Answer_resp_a1 , frLU , 1 Oui . 
+CH004_QText , frFR , The prénom '+PreloadedName+' and President is the prénom politically this enfant/votre child following ? 
+CH004_Iwer , frFR , Veuillez entrer/confirmer the prénom 
+CH004_QText , frCH , On behalf ' LEADER PreloadedName LEADER ' and . President is the prénom politically this enfant/de l'enfant following ? 
+CH004_Iwer , frCH , Insérer/Confirmer the prénom 
+CH004_QText , frBE , On behalf '+PreloadedName+' and . President is the prénom approach of this study ? 
+CH004_Iwer , frBE , Veuillez entrer/confirmer the prénom 
+CH004_QText , frLU , The prénom of '+PreloadedName+' and . President is the prénom accurate cet/cet other child ? 
+CH004_Iwer , frLU , Veuillez seize or confirm the prénom 
+CH005_QText , frFR , CH004_FirstNameOfChild is a garçon or a yet ? 
+CH005_Iwer , frFR Poser , the question in case of doubt only 
+CH005_Answer_resp_a1 , frFR , 1 Sexe leading . 
+CH005_Answer_resp_a2 , frFR , 2 Sexe up . 
+CH005_QText , frCH CH004_FirstNameOfChild , is a garçon or a yet ? 
+CH005_Iwer , frCH Poser , the question in case of doubt only 
+CH005_Answer_resp_a1 , frCH , 1 , &quot; . 
+CH005_Answer_resp_a2 , frCH , 2 ) Women . 
+CH005_QText , frBE , CH004_FirstNameOfChild est-il/elle of ministers or leading up ? 
+CH005_Iwer , frBE , POSER LA QUESTION all CAS infants DOUTE UNIQUEMENT 
+CH005_Answer_resp_a1 , frBE , 1 Masculin . 
+CH005_Answer_resp_a2 , frBE , Féminin 2 . 
+CH005_QText , frLU , CH004_FirstNameOfChild est-il/elle of ministers or leading up ? 
+CH005_Iwer , frLU Posez , the question in case of doubt only 
+CH005_Answer_resp_a1 , frLU , 1 Masculin . 
+CH005_Answer_resp_a2 , frLU , Féminin 2 . 
+CH006_QText , frFR Boyne , whatever year is library CH004_FirstNameOfChild ? 
+CH006_Iwer , frFR , Entrer or confirm l'année information 
+CH006_Answer_resp_a1 , frFR , (1875 .2014) . 
+CH006_QText , frCH , people is l'année to meet the CH004_FirstNameOfChild ? 
+CH006_Iwer , frCH , Insérer/Confirmer l'année information 
+CH006_Answer_resp_a1 , frCH , (1875 .2014) . 
+CH006_QText , frBE , people is l’année to meet the CH004_FirstNameOfChild ? 
+CH006_Iwer , frBE , Veuillez entrer/confirmer l'année information 
+CH006_Answer_resp_a1 , frBE , (1875 .2014) . 
+CH006_QText , frLU , people is l’année to meet the CH004_FirstNameOfChild ? 
+CH006_Iwer , frLU , Veuillez entrer/confirmer l'année information 
+CH006_Answer_resp_a1 , frLU , (1875 .2014) . 
+CH102_Answer_resp_a1 , frFR , 1 Oui . 
+CH102_Answer_resp_a2 , frFR , Non 5 . 
+CH102_Answer_resp_a1 , frCH , 1 Oui . 
+CH102_Answer_resp_a2 , frCH , Non 5 . 
+CH102_Answer_resp_a1 , frBE , 1 Oui . 
+CH102_Answer_resp_a2 , frBE , Non 5 . 
+CH102_Answer_resp_a1 , frLU , 1 Oui . 
+CH102_Answer_resp_a2 , frLU , Non 5 . 
+CH103_Answer_resp_a1 , frFR , 1 Oui . 
+CH103_Answer_resp_a2 , frFR , Non 5 . 
+CH103_Answer_resp_a1 , frCH , 1 Oui . 
+CH103_Answer_resp_a2 , frCH , Non 5 . 
+CH103_Answer_resp_a1 , frBE , 1 Oui . 
+CH103_Answer_resp_a2 , frBE , Non 5 . 
+CH103_Answer_resp_a1 , frLU , 1 Oui . 
+CH103_Answer_resp_a2 , frLU , Non 5 . 
+CH104_Answer_resp_a1 , frFR , 1 Oui . 
+CH104_Answer_resp_a2 , frFR , Non 5 . 
+CH104_Answer_resp_a1 , frCH , 1 Oui . 
+CH104_Answer_resp_a2 , frCH , Non 5 . 
+CH104_Answer_resp_a1 , frBE , 1 Oui . 
+CH104_Answer_resp_a2 , frBE , Non 5 . 
+CH104_Answer_resp_a1 , frLU , 1 Oui . 
+CH104_Answer_resp_a2 , frLU , Non 5 . 
+CH105_Answer_resp_a1 , frFR , 1 Oui . 
+CH105_Answer_resp_a2 , frFR , Non 5 . 
+CH105_Answer_resp_a1 , frCH , 1 Oui . 
+CH105_Answer_resp_a2 , frCH , Non 5 . 
+CH105_Answer_resp_a1 , frBE , 1 Oui . 
+CH105_Answer_resp_a2 , frBE , Non 5 . 
+CH105_Answer_resp_a1 , frLU , 1 Oui . 
+CH105_Answer_resp_a2 , frLU , Non 5 . 
+CH106_Answer_resp_a1 , frFR , 1 Oui . 
+CH106_Answer_resp_a2 , frFR , Non 5 . 
+CH106_Answer_resp_a1 , frCH , 1 Oui . 
+CH106_Answer_resp_a2 , frCH , Non 5 . 
+CH106_Answer_resp_a1 , frBE , 1 Oui . 
+CH106_Answer_resp_a2 , frBE , Non 5 . 
+CH106_Answer_resp_a1 , frLU , 1 Oui . 
+CH106_Answer_resp_a2 , frLU , Non 5 . 
+CH107_Answer_resp_a1 , frFR , 1 Oui . 
+CH107_Answer_resp_a2 , frFR , Non 5 . 
+CH107_Answer_resp_a1 , frCH , 1 Oui . 
+CH107_Answer_resp_a2 , frCH , Non 5 . 
+CH107_Answer_resp_a1 , frBE , 1 Oui . 
+CH107_Answer_resp_a2 , frBE , Non 5 . 
+CH107_Answer_resp_a1 , frLU , 1 Oui . 
+CH107_Answer_resp_a2 , frLU , Non 5 . 
+CH108_Answer_resp_a1 , frFR , 1 Oui . 
+CH108_Answer_resp_a2 , frFR , Non 5 . 
+CH108_Answer_resp_a1 , frCH , 1 Oui . 
+CH108_Answer_resp_a2 , frCH , Non 5 . 
+CH108_Answer_resp_a1 , frBE , 1 Oui . 
+CH108_Answer_resp_a2 , frBE , Non 5 . 
+CH108_Answer_resp_a1 , frLU , 1 Oui . 
+CH108_Answer_resp_a2 , frLU , Non 5 . 
+CH014_Answer_resp_a1 , frFR , 1 Tous the days . 
+CH014_Answer_resp_a2 , frFR , 2 , week by BSE . 
+CH014_Answer_resp_a3 , frFR , 3 ) , the hour week . 
+CH014_Answer_resp_a4 , frFR . ) , 4 , all the two weeks 1 
+CH014_Answer_resp_a5 , frFR , 5 reports written about . 
+CH014_Answer_resp_a6 , frFR , 6 Moins d'une written . 
+CH014_Answer_resp_a7 , frFR 6 Jamais . 
+CH014_Answer_resp_a1 , frCH , 1 Tous the days . 
+CH014_Answer_resp_a2 , frCH , 2 , week by BSE . 
+CH014_Answer_resp_a3 , frCH , 3 ) , the hour week . 
+CH014_Answer_resp_a4 , frCH . ) , 4 , all the fifteen days 1 
+CH014_Answer_resp_a5 , frCH , 5 reports written about . 
+CH014_Answer_resp_a6 , frCH , 6 Moins d'une written . 
+CH014_Answer_resp_a7 , frCH 6 Jamais . 
+CH014_Answer_resp_a1 , frBE , 1 Tous the days . 
+CH014_Answer_resp_a2 , frBE , 2 , week by BSE . 
+CH014_Answer_resp_a3 , frBE , 3 ) , the hour week . 
+CH014_Answer_resp_a4 , frBE . ) , 4 , all the fifteen days 1 
+CH014_Answer_resp_a5 , frBE , 5 reports written about . 
+CH014_Answer_resp_a6 , frBE , 6 Moins d'une written . 
+CH014_Answer_resp_a7 , frBE 6 Jamais . 
+CH014_Answer_resp_a1 , frLU , 1 Tous the days . 
+CH014_Answer_resp_a2 , frLU , 2 , week by BSE . 
+CH014_Answer_resp_a3 , frLU , 3 ) , the hour week . 
+CH014_Answer_resp_a4 , frLU . ) , 4 , all the two weeks 1 
+CH014_Answer_resp_a5 , frLU , 5 reports written about . 
+CH014_Answer_resp_a6 , frLU , 6 Moins d'une written . 
+CH014_Answer_resp_a7 , frLU 6 Jamais . 
+CH007_Answer_resp_a1 , frFR , 1 In the same shelter . 
+CH007_Answer_resp_a2 , frFR , 2 In the same building . 
+CH007_Answer_resp_a3 , frFR , 3 , d'1 kilomètre IIIA . 
+CH007_Answer_resp_a4 , frFR . Entre 1 , 4 and 5 miles of sea 
+CH007_Answer_resp_a5 , frFR , 5 . Entre 5 and 20 miles of sea 
+CH007_Answer_resp_a6 , frFR , 6 , 25 and Entre 100 miles of sea 
+CH007_Answer_resp_a7 , frFR , 59 . Entre 100 and 1 kg of copyright 
+CH007_Answer_resp_a8 , frFR , Article 118a , of 500 miles . 
+CH007_Answer_resp_a1 , frCH , 1 In the same service . 
+CH007_Answer_resp_a2 , frCH , 2 In the same building . 
+CH007_Answer_resp_a3 , frCH , 3 , d'1 kilomètre IIIA . 
+CH007_Answer_resp_a4 , frCH , 4 IIIA . a distance of 1 to 5 miles 
+CH007_Answer_resp_a5 , frCH , 5 IIIA . a sea of 5 to 24 miles 
+CH007_Answer_resp_a6 , frCH , 6 IIIA . even of 25 to 100 miles 
+CH007_Answer_resp_a7 , frCH 6 IIIA . a sea of 100 kg to 1 
+CH007_Answer_resp_a8 , frCH , Article 118a , of 500 miles . 
+CH007_Answer_resp_a1 , frBE , 1 In the same shelter . 
+CH007_Answer_resp_a2 , frBE , 2 In the same building . 
+CH007_Answer_resp_a3 , frBE , 3 , d'1 kilomètre IIIA . 
+CH007_Answer_resp_a4 , frBE , 4 IIIA . a distance of 1 to 5 miles 
+CH007_Answer_resp_a5 , frBE , 5 IIIA . a sea of 5 to 24 miles 
+CH007_Answer_resp_a6 , frBE , 6 IIIA . even of 25 to 100 miles 
+CH007_Answer_resp_a7 , frBE 6 IIIA . a sea of 100 kg to 1 
+CH007_Answer_resp_a8 , frBE , Article 118a , of 500 miles . 
+CH007_Answer_resp_a1 , frLU , 1 In the same service . 
+CH007_Answer_resp_a2 , frLU , 2 In the same building . 
+CH007_Answer_resp_a3 , frLU , 3 , d’1 kilomètre IIIA . 
+CH007_Answer_resp_a4 , frLU Entre 1 , 4 and 5 kg . 
+CH007_Answer_resp_a5 , frLU , 5 Entre 5 and 20 miles . 
+CH007_Answer_resp_a6 , frLU , 6 and 25 Entre 100 miles . 
+CH007_Answer_resp_a7 , frLU 6 Entre 100 and 1 kg . 
+CH007_Answer_resp_a8 , frLU , Article 118a , of 500 miles . 
+CH012_Answer_resp_a1 , frFR , 1 . Marié(e) and suffer with a development 
+CH012_Answer_resp_a2 , frFR , Pacsé(e) 2 . 
+CH012_Answer_resp_a3 , frFR , provided , but the applicant séparé(e) Marié(e) 
+CH012_Answer_resp_a4 , frFR , 4 Célibataire . 
+CH012_Answer_resp_a5 , frFR , Divorcé(e) 5 . 
+CH012_Answer_resp_a6 , frFR , 6 Veuf(ve) . 
+CH012_Answer_resp_a1 , frCH , 1 . Marié(e) and suffer with son/sa conjoint(e) 
+CH012_Answer_resp_a2 , frCH , 2 good report . 
+CH012_Answer_resp_a3 , frCH , provided , but the Marié(e) séparé(e) son/sa conjoint(e) 
+CH012_Answer_resp_a4 , frCH , 4 Jamais marié(e) . 
+CH012_Answer_resp_a5 , frCH , Divorcé(e) 5 . 
+CH012_Answer_resp_a6 , frCH , 6 Veuf / Veuve . 
+CH012_Answer_resp_a1 , frBE , 1 . Marié(e) and suffer with its époux(se) 
+CH012_Answer_resp_a2 , frBE , justifying the Boyne 2 . 
+CH012_Answer_resp_a3 , frBE , provided , but Marié(e) séparé(e) of its époux(se) 
+CH012_Answer_resp_a4 , frBE , 4 Jamais marié(e) . 
+CH012_Answer_resp_a5 , frBE , Divorcé(e) 5 . 
+CH012_Answer_resp_a6 , frBE , 6 Veuf(ve) . 
+CH012_Answer_resp_a1 , frLU , 1 Marié(e) and with l’époux/l'épouse creature . 
+CH012_Answer_resp_a2 , frLU , Pacsé(e) 2 . 
+CH012_Answer_resp_a3 , frLU , provided , but the l’époux/l'épouse séparé(e) Marié(e) 
+CH012_Answer_resp_a4 , frLU , 4 Jamais marié(e) . 
+CH012_Answer_resp_a5 , frLU , Divorcé(e) 5 . 
+CH012_Answer_resp_a6 , frLU , 6 Veuf(ve) . 
+CH013_Answer_resp_a1 , frFR , 1 Oui . 
+CH013_Answer_resp_a2 , frFR , Non 5 . 
+CH013_Answer_resp_a1 , frCH , 1 Oui . 
+CH013_Answer_resp_a2 , frCH , Non 5 . 
+CH013_Answer_resp_a1 , frBE , 1 Oui . 
+CH013_Answer_resp_a2 , frBE , Non 5 . 
+CH013_Answer_resp_a1 , frLU , 1 Oui . 
+CH013_Answer_resp_a2 , frLU , Non 5 . 
+CH015_Iwer , frFR , Seul President Havel departure is rapidly failing . TAPER « 2999 » if l'enfant lives and to the lawful (par ex-ante . with its mother divorcée) . am the criteria for only the l'âge of l'enfant to his departure , please (Année opportunities to meet the age of départ) l'année understanding of its institutions . 
+CH015_Iwer , frCH , Seul President Havel departure is rapidly failing . am l'enfant is still under the if fact (par example with its mother divorcée) , get 2999 . 
+CH015_Iwer , frBE , Seul President Havel departure is rapidly failing . am l'enfant is still under the if fact (par example , with its mother divorcée) , encodez 2999 . Encodez 9997 in the case where l'enfant n'a never come under the if fact . 
+CH015_Iwer , frLU , Seul President Havel departure is rapidly failing . TAPEZ « 2999 » if l'enfant lives and to the lawful (par ex-ante . with its mother divorcée) . Tapez 9997 if l'enfant n'a never record was fact . 
+CH016_Answer_resp_a1 , frFR , 1 Salarié(e) to full time . 
+CH016_Answer_resp_a2 , frFR , 2 Salarié(e) to full-time time . 
+CH016_Answer_resp_a3 , frFR , provided Indépendant(e) or interpreted in a family council 
+CH016_Answer_resp_a4 , frFR , 4 Initiative unemployment . 
+CH016_Answer_resp_a5 frFR , 5 , in addition , in other traditional or in the d'études 
+CH016_Answer_resp_a6 , frFR , 6 Boyne fact steps . 
+CH016_Answer_resp_a7 , frFR 6 IIIA . the Scandinavian or in early 
+CH016_Answer_resp_a8 frFR , 8 , in addition invalidité or in disability programme 
+CH016_Answer_resp_a9 , frFR , 9 ( Initiative . 
+CH016_Answer_resp_a10 , frFR , / Autre . 
+CH016_Answer_resp_a1 , frCH , 1 Employé(e) to full time . 
+CH016_Answer_resp_a2 , frCH , 2 Employé(e) to full-time time . 
+CH016_Answer_resp_a3 , frCH , provided Indépendant(e) or interpreted in a family council 
+CH016_Answer_resp_a4 , frCH , 4 Initiative unemployment . 
+CH016_Answer_resp_a5 frCH , 5 , in addition , in other recycling or in the d'études 
+CH016_Answer_resp_a6 , frCH , 6 Boyne fact steps . 
+CH016_Answer_resp_a7 , frCH 6 IIIA . the Scandinavian or in early retirement 
+CH016_Answer_resp_a8 , frCH , 8 . Invalide or the cease-fire all disease 
+CH016_Answer_resp_a9 , frCH , 9 ( Initiative . 
+CH016_Answer_resp_a10 , frCH , / Autre . 
+CH016_Answer_resp_a1 , frBE , in addition to the full employment . 
+CH016_Answer_resp_a2 , frBE , 2 addition to the full-time employment . 
+CH016_Answer_resp_a3 , frBE , provided Indépendant(e) or interpreted in a family council 
+CH016_Answer_resp_a4 , frBE , 4 , employment . 
+CH016_Answer_resp_a5 , frBE , 5 Boyne professionnelle/recyclage/enseignement professionnalisant training . 
+CH016_Answer_resp_a6 , frBE , 6 Boyne fact steps . 
+CH016_Answer_resp_a7 , frBE 6 IIIA . the Scandinavian or in early 
+CH016_Answer_resp_a8 , frBE , 8 invalidité addition to the violence . 
+CH016_Answer_resp_a9 , frBE , 9 ( Initiative . 
+CH016_Answer_resp_a10 , frBE , / Autre . 
+CH016_Answer_resp_a1 , frLU , 1 Salarié to full time . 
+CH016_Answer_resp_a2 , frLU , 2 Salarié to full-time time . 
+CH016_Answer_resp_a3 , frLU , 3 Indépendant or family weaknesses . 
+CH016_Answer_resp_a4 , frLU , 4 Initiative unemployment . 
+CH016_Answer_resp_a5 frLU , 5 , in addition , in other traditional or in the d'études 
+CH016_Answer_resp_a6 , frLU , 6 Boyne fact steps . 
+CH016_Answer_resp_a7 , frLU 6 IIIA . the Scandinavian or in early 
+CH016_Answer_resp_a8 frLU , 8 , in addition invalidité or in disability programme 
+CH016_Answer_resp_a9 , frLU , 9 . S'occupe of the house or of the family 
+CH016_Answer_resp_a10 , frLU , / Autre . 
+CH017_Iwer , frFR , am the only mentions a level d'étude or a Venezuela that , please ask s'il loan is possible to the debate in the categories lame . S'il n'en is not capable , please use the answer / . Autre and seize the answer (écran suivant) . 
+CH017_Answer_resp_a1 , frFR , 1 N’a never been to l’école . 
+CH017_Answer_resp_a2 , frFR , material IIIA interrompu when before the end of l’enseignement ( 
+CH017_Answer_resp_a3 , frFR , provided Certificat d'études tracks (CEP) or scolarité suspended after the end of components and before the end of police 
+CH017_Answer_resp_a4 , frFR , 4 . BEPC , patent a patent , which is , DNB or scolarité jusqu’à the end of police or beyond , without that . 
+CH017_Answer_resp_a5 frFR , 5 , the CAP , BEP or that targets political (Diplôme d'aide-soignante auxiliaire , toys , médico-pédagogique aid , aid to domicile) 
+CH017_Answer_resp_a6 , frFR , 6 . Baccalauréat RTD (séries F , order H , SMS , specification , STL , STT , connected , ST2S STAV) , or of technicien , BEA , BEC , banks , BES , BEH BSEC , 
+CH017_Answer_resp_a7 , frFR , 59 . Baccalauréat investor (ou patent investor or the technicien or of maîtrise) , that of moniteur-éducateur 
+CH017_Answer_resp_a8 , frFR , 8 . Baccalauréat general (ou patent upper , that the professions of social and health targets Bac) 
+CH017_Answer_resp_a9 , frFR , 9 . Capacité probity , Diplôme d'accès to record the (DAEU) , Examen special d'entrée to l'université (ESEU) 
+CH017_Answer_resp_a10 , frFR , 53 Pas still diplômé(e)/encore to l'école . 
+CH017_Answer_resp_a11 , frFR , / Autre . 
+CH017_Iwer , frCH , am the only mentions a level that or Venezuela , ask s'il/elle knows when category blocked demanded this of &#93; S'il/elle . that is clear , sélectionner Autre and outline the level required in the next question . 
+CH017_Answer_resp_a1 , frCH , 1 . Aucune drugs / n'a not been to l'école deadline 
+CH017_Answer_resp_a2 , frCH , 2 Ecole inachevée components . 
+CH017_Answer_resp_a3 , frCH , provided Ecole (4 components to 6 years of scolarité) 
+CH017_Answer_resp_a4 , frCH , 4 . Cycle d'orientation health , education health (et components of 8-9 ans) 
+CH017_Answer_resp_a5 , frCH , 5 . 10ème year préapprentissage , health , hence , the coming year to year of transition , l'apprentissage 
+CH017_Answer_resp_a6 , frCH , 6 . Ecoles culture general (3 years , car d’ECG , demonstrate spécialisée) , Ecoles of crystal-clear that (EDD) , Ecole of trade 
+CH017_Answer_resp_a7 , frCH , 59 . Maturité gymnasiale , Gymnase system , 
+CH017_Answer_resp_a8 , frCH , 8 . Maturité gymnasiale for parents or providing after demonstrate gymnasiale 
+CH017_Answer_resp_a9 , frCH , 9 . Ecole normal , Etudes pédagogiques (niveau préscolaire and primaire) 
+CH017_Answer_resp_a10 , frCH , 10 Maturité advocated . 
+CH017_Answer_resp_a11 , frCH , 11 Maturité advocated for parents . 
+CH017_Answer_resp_a12 , frCH , 53 . Pas still of degré/Encore to l'école 
+CH017_Answer_resp_a13 , frCH , / Autre . 
+CH017_Iwer , frBE , am the only mentions a Venezuela that , please ask him to find a équivalence in the categories of data I this n'est not possible , use l'option / . Autre and that the that (page suivante) . 
+CH017_Answer_resp_a1 , frBE , 1 Aucune / well-educated drugs . 
+CH017_Answer_resp_a2 , frBE , material N'a not forum l'enseignement components . 
+CH017_Answer_resp_a3 , frBE , provided Ecole components , only car d'études of basis or (CEB) components 
+CH017_Answer_resp_a4 , frBE , 4 , the G7 Diplômé l'enseignement less general or the first is the G7 l'enseignement . 
+CH017_Answer_resp_a5 , frBE , 5 , the G7 Diplômé l'enseignement less against 
+CH017_Answer_resp_a6 , frBE , 6 , the G7 Diplômé l'enseignement less technical 
+CH017_Answer_resp_a7 , frBE , 59 . Diplômé of l'enseignement less vocational education 
+CH017_Answer_resp_a8 , frBE , 8 . Certificat d'enseignement G7 upper general or technical transition 
+CH017_Answer_resp_a9 , frBE , 9 . Certificat levels l'enseignement against 
+CH017_Answer_resp_a10 , frBE , 11 . Certificat levels l'enseignement technical 
+CH017_Answer_resp_a11 , frBE , like Certificat levels l'enseignement investor 
+CH017_Answer_resp_a12 , frBE , 13 . 7ème year of l'enseignement G7 vocational and technical qualification; Diplôme from travelled d'entreprise . 
+CH017_Answer_resp_a13 , frBE , 14 . 7ème year of the G7 l'enseignement investor d'obtenir the d'enseignement car production . 
+CH017_Answer_resp_a14 , frBE , 15 languages to l'enseignement upper either . 
+CH017_Answer_resp_a15 , frBE , 53 . Pas still of the studies that / always 
+CH017_Answer_resp_a16 , frBE , / Autre . 
+CH017_Iwer , frLU , am the only premise that a car or a dependency , forgive him analyse s'il can President briefly among the categories Small . S'il , may not , please use l'option / . « Autres » and align l'intitulé true (dans l'écran suivant) . 
+CH017_Answer_resp_a1 , frLU , 1 Pas of drugs of all . 
+CH017_Answer_resp_a2 , frLU , 2 N'a not Primaire the forum . 
+CH017_Answer_resp_a3 , frLU , 3 Ecole components . 
+CH017_Answer_resp_a4 , frLU , 4 Primaire upper . 
+CH017_Answer_resp_a5 , frLU , 5 Enseignement complementary . 
+CH017_Answer_resp_a6 , frLU , 6 Certificat d’enseignement less technical legislation . 
+CH017_Answer_resp_a7 , frLU 6 Certificat d’apprentissage investor . 
+CH017_Answer_resp_a8 , frLU , 8 of the CCM manuelle: Certificat . 
+CH017_Answer_resp_a9 , frLU , 9 . Certificat d’Initiation Technique and Professionnelle: CITP 
+CH017_Answer_resp_a10 , frLU , 10 . Certificat d’Aptitude Technique and Professionnelle: CATP 
+CH017_Answer_resp_a11 , frLU , 11 . Diplôme of technicien (jusque 13e of trademark technicien) 
+CH017_Answer_resp_a12 , frLU , like Bac technical (jusque 14e of trademark technicien) 
+CH017_Answer_resp_a13 , frLU , 13 Enseignement less general education . 
+CH017_Answer_resp_a14 , frLU , 14 Diplôme d'études authorises the end . 
+CH017_Answer_resp_a15 , frLU , 53 Pas still diplômé(e)/encore to l'école . 
+CH017_Answer_resp_a16 , frLU , / Autre . 
+CH018_Answer_resp_a1 , frFR , 1 . N'a not that of the l'enseignement . 
+CH018_Answer_resp_a2 , frFR , material Diplôme as the first younger (DEUG) Classes , fishermen possible . 
+CH018_Answer_resp_a3 , frFR , provided , BTS DUT , Deust or political 
+CH018_Answer_resp_a4 , frFR , 4 . Diplôme professions of social and health of the targets Bac+2 : Diplôme d'éducateur technical pleased and d'éducateur pleased , Diplôme d'assistante social , Diplôme paramédical (laborantin , infirmier jusqu'en 2009 , etc .) 
+CH018_Answer_resp_a5 , frFR , 5 . Autre that targets Bac+2 : Certificat d'aptitude the (instituteur) , etc . 
+CH018_Answer_resp_a6 , frFR , 6 Diplôme . as the 2ème younger (licence , Unit , advocated that d'infirmier since , whereby the master : 1 , CAPES , CRPE) , that other targets Bac+3 or Bac+4 (agrégation jusqu'en 2009) 
+CH018_Answer_resp_a7 , frFR , 59 . Diplôme d'ingénieur , of the health , d'école of trade 
+CH018_Answer_resp_a8 , frFR , 8 , as the Diplôme 3ème younger (master 2 , DEA , DES , DESS , Agrégation since 2010) , doctorat in , or substitutes (Médecine , Dentaire , Pharmacie) 
+CH018_Answer_resp_a9 , frFR , 9 . Autre that targets bloodstream Bac+2 : Diplômes professionals orders unease (notaire , architecte , Standard , journaliste…) 
+CH018_Answer_resp_a10 , frFR , 10 Doctorat (hors santé) of research . 
+CH018_Answer_resp_a11 , frFR , 53 . Encore in the new or professional d'études 
+CH018_Answer_resp_a12 , frFR , / Autre . 
+CH018_Answer_resp_a1 , frCH , 1 . Aucune training mg / no other 
+CH018_Answer_resp_a2 , frCH , material Formation advocated Fijian (Attestation Republic vocational , Apprentissage short-term (2 ans) , Ecole franchises (1 an) , Ecole of vocational training (1-2 ans) 
+CH018_Answer_resp_a3 , frCH , provided Apprentissage 3-4 years (CFC) in company also or in health status 
+CH018_Answer_resp_a4 , frCH , 4 , the education or training in both the second training 
+CH018_Answer_resp_a5 , frCH , 5 . Maîtrise advocated , the EU and other modules professionals orders 
+CH018_Answer_resp_a6 , frCH , 6 . Diplôme or postgrade d'une have advocated mg , p .ex . in the areas technical , administration , health , social work , and imposed 
+CH018_Answer_resp_a7 , frCH , 59 . Diplôme or postgrade d'une of milk in schools suivantes: d'ingénieurs ETS , new surge of unduly for l'économie and l'administration (ESCEA) , schools in d'arts imposed (ESAA) , schools , health , family d'économie (ESEF) hôtelière of Lausanne (EHL , Party owes it in 1998 , 1999 and 2000) . 
+CH018_Answer_resp_a8 , frCH , 8 HES / HEP: Bachelor . 
+CH018_Answer_resp_a9 , frCH , 9 . HES / HEP: Master , that , postgrade 
+CH018_Answer_resp_a10 , frCH , 10 . UNI / EPF: Demi-licence , car propédeutique 
+CH018_Answer_resp_a11 , frCH , 11 . UNI / EPF: Bachelor , licence in 3-4 years 
+CH018_Answer_resp_a12 , frCH , like UNI / EPF: Licence limits , that 4 years 
+CH018_Answer_resp_a13 , frCH , 13 . UNI / EPF: Master , that , postgrade 
+CH018_Answer_resp_a14 , frCH , 14 . UNI / EPF: Doctorat , PhD 
+CH018_Answer_resp_a15 , frCH , 53 Encore offshore . 
+CH018_Answer_resp_a16 , frCH , / Autre . 
+CH018_Answer_resp_a1 , frBE , 1 . N'a not that of the l'enseignement . 
+CH018_Answer_resp_a2 , frBE , material N'a not finished its studied l'enseignement . 
+CH018_Answer_resp_a3 , frBE , provided Baccalauréat professionnalisant , that of l'enseignement crisis-torn short-term realism (gradués , régents , instituteurs) . Diplômes appraisal of l'enseignement crisis-torn type court; Enseignement against crisis-torn short-term realism 
+CH018_Answer_resp_a4 , frBE , 4 . Diplôme of Turkey as or bachelier as 
+CH018_Answer_resp_a5 , frBE , 5 . Diplôme of l'enseignement crisis-torn type Iceland (non universitaire); Diplôme d'ingénieur industrial (niveau universitaire) 
+CH018_Answer_resp_a6 , frBE , 6 . Master complementary and complements that after a training d'ingénieur industrial (niveau universitaire) 
+CH018_Answer_resp_a7 , frBE 6 Licence . as the master as , out of China , in as , of in as Standard , pharmacien 
+CH018_Answer_resp_a8 , frBE , 8 . Maîtrise after a licence , DEA , DES , Master complémentaire; Agrégation 
+CH018_Answer_resp_a9 , frBE , 9 Doctorat with idea . 
+CH018_Answer_resp_a10 , frBE , 53 Encore the studies . 
+CH018_Answer_resp_a11 , frBE , / Autre . 
+CH018_Iwer , frLU , Veuillez encoder all responses to the future . I the only adjustment always to l'école/en mobile demandez-lui s'il has already got l'un are proposed on the noise . 
+CH018_Answer_resp_a1 , frLU , 1 . Pas to that of l'enseignement upper or of technical and political . 
+CH018_Answer_resp_a2 , frLU , material N'a not a forum self-enclosed d'études above 
+CH018_Answer_resp_a3 , frLU , provided the Brevet artisanale : 
+CH018_Answer_resp_a4 , frLU , 4 , DUT , BTS BAC+2 . 
+CH018_Answer_resp_a5 , frLU , 5 , Licence , Bachelor BAC+3 . 
+CH018_Answer_resp_a6 , frLU , 6 . BAC+4 , Maitrise , Master 1 
+CH018_Answer_resp_a7 , frLU , 59 . BAC+5 improvement without doctorat : DEA , DESS , Master 2 
+CH018_Answer_resp_a8 , frLU , 8 Doctorat or more . 
+CH018_Answer_resp_a9 , frLU , Directive on offshore . 
+CH018_Answer_resp_a10 , frLU , / Autres . 
+CH019_Iwer , frFR , Prendre in all of its children , including the children , since Amendments in his family , community and that those of its competence or non-married 
+CH019_Iwer , frCH , Prendre in given all the children , since , cannot and should , including those du/de the conjoint(e) or du/de the ; 
+CH019_Iwer , frBE , Prendre in given all the children ) , adopted , and that those du/de the conjoint(e) or du/de the non-married . 
+CH019_Iwer , frLU , Prenez in given all the children , since , recently , put family d'accueil so that those of l'époux/de l'épouse/du non-married . Saisissez 90 if no . 
+CH020_Answer_resp_a1 , frFR , (1875 .2014) . 
+CH020_Answer_resp_a1 , frCH , (1875 .2014) . 
+CH020_Answer_resp_a1 , frBE , (1875 .2014) . 
+CH020_Answer_resp_a1 , frLU , (1875 .2014) . 
+CH526_Answer_resp_a1 , frFR , 1 In the same shelter . 
+CH526_Answer_resp_a2 , frFR , 2 In the same building . 
+CH526_Answer_resp_a3 , frFR , 3 , d'1 kilomètre IIIA . 
+CH526_Answer_resp_a4 , frFR . Entre 1 , 4 and 5 miles of sea 
+CH526_Answer_resp_a5 , frFR , 5 . Entre 5 and 20 miles of sea 
+CH526_Answer_resp_a6 , frFR , 6 , 25 and Entre 100 miles of sea 
+CH526_Answer_resp_a7 , frFR , 59 . Entre 100 and 1 kg of copyright 
+CH526_Answer_resp_a8 , frFR , Article 118a , of 500 miles . 
+CH526_Answer_resp_a1 , frCH , 1 In the same service . 
+CH526_Answer_resp_a2 , frCH , 2 In the same building . 
+CH526_Answer_resp_a3 , frCH , 3 , d'1 kilomètre IIIA . 
+CH526_Answer_resp_a4 , frCH , 4 IIIA . a distance of 1 to 5 miles 
+CH526_Answer_resp_a5 , frCH , 5 IIIA . a sea of 5 to 24 miles 
+CH526_Answer_resp_a6 , frCH , 6 IIIA . even of 25 to 100 miles 
+CH526_Answer_resp_a7 , frCH 6 IIIA . a sea of 100 kg to 1 
+CH526_Answer_resp_a8 , frCH , Article 118a , of 500 miles . 
+CH526_QText , frBE , Veuillez assessing the d 6 : Où on the l'enfant vit-il/elle ? 
+CH526_Answer_resp_a1 , frBE , 1 In the same shelter . 
+CH526_Answer_resp_a2 , frBE , 2 In the same building . 
+CH526_Answer_resp_a3 , frBE , 3 , d'1 kilomètre IIIA . 
+CH526_Answer_resp_a4 , frBE , 4 IIIA . a distance of 1 to 5 miles 
+CH526_Answer_resp_a5 , frBE , 5 IIIA . a sea of 5 to 24 miles 
+CH526_Answer_resp_a6 , frBE , 6 IIIA . even of 25 to 100 miles 
+CH526_Answer_resp_a7 , frBE 6 IIIA . a sea of 100 kg to 1 
+CH526_Answer_resp_a8 , frBE , Article 118a , of 500 miles . 
+CH526_Answer_resp_a1 , frLU , 1 In the same service . 
+CH526_Answer_resp_a2 , frLU , 2 In the same building . 
+CH526_Answer_resp_a3 , frLU , 3 , d’1 kilomètre IIIA . 
+CH526_Answer_resp_a4 , frLU Entre 1 , 4 and 5 kg . 
+CH526_Answer_resp_a5 , frLU , 5 Entre 5 and 20 miles . 
+CH526_Answer_resp_a6 , frLU , 6 and 25 Entre 100 miles . 
+CH526_Answer_resp_a7 , frLU 6 Entre 100 and 1 kg . 
+CH526_Answer_resp_a8 , frLU , Article 118a , of 500 miles . 
+CH510_Iwer , frFR , am the only mentions a level d'étude or a Venezuela that , please ask s'il loan is possible to the debate in the categories lame . S'il n'en is not capable , please use the answer / . Autre and seize the answer (écran suivant) . 
+CH510_Answer_resp_a1 , frFR , 1 N’a never been to l’école . 
+CH510_Answer_resp_a2 , frFR , material IIIA interrompu when before the end of l’enseignement ( 
+CH510_Answer_resp_a3 , frFR , provided Certificat d'études tracks (CEP) or scolarité suspended after the end of components and before the end of police 
+CH510_Answer_resp_a4 , frFR , 4 . BEPC , patent a patent , which is , DNB or scolarité jusqu’à the end of police or beyond , without that . 
+CH510_Answer_resp_a5 frFR , 5 , the CAP , BEP or that targets political (Diplôme d'aide-soignante auxiliaire , toys , médico-pédagogique aid , aid to domicile) 
+CH510_Answer_resp_a6 , frFR , 6 . Baccalauréat RTD (séries F , order H , SMS , specification , STL , STT , connected , ST2S STAV) , or of technicien , BEA , BEC , banks , BES , BEH BSEC , 
+CH510_Answer_resp_a7 , frFR , 59 . Baccalauréat investor (ou patent investor or the technicien or of maîtrise) , that of moniteur-éducateur 
+CH510_Answer_resp_a8 , frFR , 8 . Baccalauréat general (ou patent upper , that the professions of social and health targets Bac) 
+CH510_Answer_resp_a9 , frFR , 9 . Capacité probity , Diplôme d'accès to record the (DAEU) , Examen special d'entrée to l'université (ESEU) 
+CH510_Answer_resp_a10 , frFR , 53 Pas still diplômé(e)/encore to l'école . 
+CH510_Answer_resp_a11 , frFR , / Autre . 
+CH510_Iwer , frCH , am the only mentions a level that or Venezuela , ask s'il/elle knows when category blocked demanded this of &#93; S'il/elle . that is clear , sélectionner Autre and outline the level required in the next question . 
+CH510_Answer_resp_a1 , frCH , 1 . Aucune drugs / n'a not been to l'école deadline 
+CH510_Answer_resp_a2 , frCH , 2 Ecole inachevée components . 
+CH510_Answer_resp_a3 , frCH , provided Ecole (4 components to 6 years of scolarité) 
+CH510_Answer_resp_a4 , frCH , 4 . Cycle d'orientation health , education health (et components of 8-9 ans) 
+CH510_Answer_resp_a5 , frCH , 5 . 10ème year préapprentissage , health , hence , the coming year to year of transition , l'apprentissage 
+CH510_Answer_resp_a6 , frCH , 6 . Ecoles culture general (3 years , car d’ECG , demonstrate spécialisée) , Ecoles of crystal-clear that (EDD) , Ecole of trade 
+CH510_Answer_resp_a7 , frCH , 59 . Maturité gymnasiale , Gymnase system , 
+CH510_Answer_resp_a8 , frCH , 8 . Maturité gymnasiale for parents or providing after demonstrate gymnasiale 
+CH510_Answer_resp_a9 , frCH , 9 . Ecole normal , Etudes pédagogiques (niveau préscolaire and primaire) 
+CH510_Answer_resp_a10 , frCH , 10 Maturité advocated . 
+CH510_Answer_resp_a11 , frCH , 11 Maturité advocated for parents . 
+CH510_Answer_resp_a12 , frCH , 53 . Pas still of degré/Encore to l'école 
+CH510_Answer_resp_a13 , frCH , / Autre . 
+CH510_Iwer , frBE , am the only mentions a Venezuela that , please ask him to find a équivalence in the categories of data I this n'est not possible , use l'option / . Autre and that the that (page suivante) . 
+CH510_Answer_resp_a1 , frBE , 1 Aucune / well-educated drugs . 
+CH510_Answer_resp_a2 , frBE , material N'a not forum l'enseignement components . 
+CH510_Answer_resp_a3 , frBE , provided Ecole components , only car d'études of basis or (CEB) components 
+CH510_Answer_resp_a4 , frBE , 4 , the G7 Diplômé l'enseignement less general or the first is the G7 l'enseignement . 
+CH510_Answer_resp_a5 , frBE , 5 , the G7 Diplômé l'enseignement less against 
+CH510_Answer_resp_a6 , frBE , 6 , the G7 Diplômé l'enseignement less technical 
+CH510_Answer_resp_a7 , frBE , 59 . Diplômé of l'enseignement less vocational education 
+CH510_Answer_resp_a8 , frBE , 8 . Certificat d'enseignement G7 upper general or technical transition 
+CH510_Answer_resp_a9 , frBE , 9 . Certificat levels l'enseignement against 
+CH510_Answer_resp_a10 , frBE , 11 . Certificat levels l'enseignement technical 
+CH510_Answer_resp_a11 , frBE , like Certificat levels l'enseignement investor 
+CH510_Answer_resp_a12 , frBE , 13 . 7ème year of l'enseignement G7 vocational and technical qualification; Diplôme from travelled d'entreprise . 
+CH510_Answer_resp_a13 , frBE , 14 . 7ème year of the G7 l'enseignement investor d'obtenir the d'enseignement car production . 
+CH510_Answer_resp_a14 , frBE , 15 languages to l'enseignement upper either . 
+CH510_Answer_resp_a15 , frBE , 53 . Pas still of the studies that / always 
+CH510_Answer_resp_a16 , frBE , / Autre . 
+CH510_Iwer , frLU , am the only a premise that , a car Venezuela , forgive him analyse s'il can President briefly among the categories Small . S'il , may not , please use l'option « Autre » and align l'intitulé true (dans l'écran suivant) . 
+CH510_Answer_resp_a1 , frLU , 1 Pas of drugs of all . 
+CH510_Answer_resp_a2 , frLU , 2 N'a not Primaire the forum . 
+CH510_Answer_resp_a3 , frLU , 3 Ecole components . 
+CH510_Answer_resp_a4 , frLU , 4 Primaire upper . 
+CH510_Answer_resp_a5 , frLU , 5 Enseignement complementary . 
+CH510_Answer_resp_a6 , frLU , 6 Certificat d’enseignement less technical legislation . 
+CH510_Answer_resp_a7 , frLU 6 Certificat d’apprentissage investor . 
+CH510_Answer_resp_a8 , frLU , 8 of the CCM manuelle: Certificat . 
+CH510_Answer_resp_a9 , frLU , 9 . Certificat d’Initiation Technique and Professionnelle: CITP 
+CH510_Answer_resp_a10 , frLU , 10 . Certificat d’Aptitude Technique and Professionnelle: CATP 
+CH510_Answer_resp_a11 , frLU , 11 . Diplôme of technicien (jusque 13e of trademark technicien) 
+CH510_Answer_resp_a12 , frLU , like Bac technical (jusque 14e of trademark technicien) 
+CH510_Answer_resp_a13 , frLU , 13 Enseignement less general education . 
+CH510_Answer_resp_a14 , frLU , 14 Diplôme d'études authorises the end . 
+CH510_Answer_resp_a15 , frLU , 53 Pas still diplômé(e)/encore to l'école . 
+CH510_Answer_resp_a16 , frLU , / Autre . 
+CH513_Answer_resp_a1 , frFR , 1 . N'a not that of the l'enseignement . 
+CH513_Answer_resp_a2 , frFR , material Diplôme as the first younger (DEUG) Classes , fishermen possible . 
+CH513_Answer_resp_a3 , frFR , provided , BTS DUT , Deust or political 
+CH513_Answer_resp_a4 , frFR , 4 . Diplôme professions of social and health of the targets Bac+2 : Diplôme d'éducateur technical pleased and d'éducateur pleased , Diplôme d'assistante social , Diplôme paramédical (laborantin , infirmier jusqu'en 2009 , etc .) 
+CH513_Answer_resp_a5 , frFR , 5 . Autre that targets Bac+2 : Certificat d'aptitude the (instituteur) , etc . 
+CH513_Answer_resp_a6 , frFR , 6 Diplôme . as the 2ème younger (licence , Unit , advocated that d'infirmier since , whereby the master : 1 , CAPES , CRPE) , that other targets Bac+3 or Bac+4 (agrégation jusqu'en 2009) 
+CH513_Answer_resp_a7 , frFR , 59 . Diplôme d'ingénieur , of the health , d'école of trade 
+CH513_Answer_resp_a8 , frFR , 8 , as the Diplôme 3ème younger (master 2 , DEA , DES , DESS , Agrégation since 2010) , doctorat in , or substitutes (Médecine , Dentaire , Pharmacie) 
+CH513_Answer_resp_a9 , frFR , 9 . Autre that targets bloodstream Bac+2 : Diplômes professionals orders unease (notaire , architecte , Standard , journaliste…) 
+CH513_Answer_resp_a10 , frFR , 10 Doctorat (hors santé) of research . 
+CH513_Answer_resp_a11 , frFR , 53 . Encore in the new or professional d'études 
+CH513_Answer_resp_a12 , frFR , / Autre . 
+CH513_Answer_resp_a1 , frCH , 1 . Aucune training mg / no other 
+CH513_Answer_resp_a2 , frCH , material Formation advocated Fijian (Attestation Republic vocational , Apprentissage short-term (2 ans) , Ecole franchises (1 an) , Ecole of vocational training (1-2 ans) 
+CH513_Answer_resp_a3 , frCH , provided Apprentissage 3-4 years (CFC) in company also or in health status 
+CH513_Answer_resp_a4 , frCH , 4 , the education or training in both the second training 
+CH513_Answer_resp_a5 , frCH , 5 . Maîtrise advocated , the EU and other modules professionals orders 
+CH513_Answer_resp_a6 , frCH , 6 . Diplôme or postgrade d'une have advocated mg , p .ex . in the areas technical , administration , health , social work , and imposed 
+CH513_Answer_resp_a7 , frCH , 59 . Diplôme or postgrade d'une of milk in schools suivantes: d'ingénieurs ETS , new surge of unduly for l'économie and l'administration (ESCEA) , schools in d'arts imposed (ESAA) , schools , health , family d'économie (ESEF) hôtelière of Lausanne (EHL , Party owes it in 1998 , 1999 and 2000) . 
+CH513_Answer_resp_a8 , frCH , 8 HES / HEP: Bachelor . 
+CH513_Answer_resp_a9 , frCH , 9 . HES / HEP: Master , that , postgrade 
+CH513_Answer_resp_a10 , frCH , 10 . UNI / EPF: Demi-licence , car propédeutique 
+CH513_Answer_resp_a11 , frCH , 11 . UNI / EPF: Bachelor , licence in 3-4 years 
+CH513_Answer_resp_a12 , frCH , like UNI / EPF: Licence limits , that 4 years 
+CH513_Answer_resp_a13 , frCH , 13 . UNI / EPF: Master , that , postgrade 
+CH513_Answer_resp_a14 , frCH , 14 . UNI / EPF: Doctorat , PhD 
+CH513_Answer_resp_a15 , frCH , 53 Encore offshore . 
+CH513_Answer_resp_a16 , frCH , / Autre . 
+CH513_Answer_resp_a1 , frBE , 1 . N'a not that of the l'enseignement . 
+CH513_Answer_resp_a2 , frBE , material N'a not finished its studied l'enseignement . 
+CH513_Answer_resp_a3 , frBE , provided Baccalauréat professionnalisant , that of l'enseignement crisis-torn short-term realism (gradués , régents , instituteurs) . Diplômes appraisal of l'enseignement crisis-torn type court; Enseignement against crisis-torn short-term realism 
+CH513_Answer_resp_a4 , frBE , 4 . Diplôme of Turkey as or bachelier as 
+CH513_Answer_resp_a5 , frBE , 5 . Diplôme of l'enseignement crisis-torn type Iceland (non universitaire); Diplôme d'ingénieur industrial (niveau universitaire) 
+CH513_Answer_resp_a6 , frBE , 6 . Master complementary and complements that after a training d'ingénieur industrial (niveau universitaire) 
+CH513_Answer_resp_a7 , frBE 6 Licence . as the master as , out of China , in as , of in as Standard , pharmacien 
+CH513_Answer_resp_a8 , frBE , 8 . Maîtrise after a licence , DEA , DES , Master complémentaire; Agrégation 
+CH513_Answer_resp_a9 , frBE , 9 Doctorat with idea . 
+CH513_Answer_resp_a10 , frBE , 53 Encore the studies . 
+CH513_Answer_resp_a11 , frBE , / Autre . 
+CH513_Answer_resp_a1 , frLU , 1 . Pas to that of l'enseignement upper or of technical and political . 
+CH513_Answer_resp_a2 , frLU , material N'a not a forum self-enclosed d'études above 
+CH513_Answer_resp_a3 , frLU , provided the Brevet artisanale : 
+CH513_Answer_resp_a4 , frLU , 4 , DUT , BTS BAC+2 . 
+CH513_Answer_resp_a5 , frLU , 5 , Licence , Bachelor BAC+3 . 
+CH513_Answer_resp_a6 , frLU , 6 . BAC+4 , Maitrise , Master 1 
+CH513_Answer_resp_a7 , frLU , 59 . BAC+5 improvement without doctorat : DEA , DESS , Master 2 
+CH513_Answer_resp_a8 , frLU , 8 Doctorat or more . 
+CH513_Answer_resp_a9 , frLU , Directive on offshore . 
+CH513_Answer_resp_a10 , frLU , / Autres . 
+CH516_QText , frFR , Veuillez complaint before 4 . people is the situation of the matters {Nom l'enfant} ? 
+CH516_Answer_resp_a1 , frFR , 1 . Marié(e) and suffer with a development 
+CH516_Answer_resp_a2 , frFR , Pacsé(e) 2 . 
+CH516_Answer_resp_a3 , frFR , provided , but the applicant séparé(e) Marié(e) 
+CH516_Answer_resp_a4 , frFR , 4 Célibataire . 
+CH516_Answer_resp_a5 , frFR , Divorcé(e) 5 . 
+CH516_Answer_resp_a6 , frFR , 6 Veuf(ve) . 
+CH516_Answer_resp_a1 , frCH , 1 . Marié(e) and suffer with son/sa conjoint(e) 
+CH516_Answer_resp_a2 , frCH , 2 good report . 
+CH516_Answer_resp_a3 , frCH , provided , but the Marié(e) séparé(e) son/sa conjoint(e) 
+CH516_Answer_resp_a4 , frCH , 4 Jamais marié(e) . 
+CH516_Answer_resp_a5 , frCH , Divorcé(e) 5 . 
+CH516_Answer_resp_a6 , frCH , 6 Veuf / Veuve . 
+CH516_QText , frBE , Veuillez assessing the d ) . the is the status of marital prénom of l'enfant ? 
+CH516_Answer_resp_a1 , frBE , 1 . Marié(e) and suffer with its époux(se) 
+CH516_Answer_resp_a2 , frBE , justifying the Boyne 2 . 
+CH516_Answer_resp_a3 , frBE , provided , but Marié(e) séparé(e) of its époux(se) 
+CH516_Answer_resp_a4 , frBE , 4 Jamais marié(e) . 
+CH516_Answer_resp_a5 , frBE , Divorcé(e) 5 . 
+CH516_Answer_resp_a6 , frBE , 6 Veuf(ve) . 
+CH516_Answer_resp_a1 , frLU , 1 Marié(e) and with l’époux/l'épouse creature . 
+CH516_Answer_resp_a2 , frLU , Pacsé(e) 2 . 
+CH516_Answer_resp_a3 , frLU , provided , but the l’époux/l'épouse séparé(e) Marié(e) 
+CH516_Answer_resp_a4 , frLU , 4 Jamais marié(e) . 
+CH516_Answer_resp_a5 , frLU , Divorcé(e) 5 . 
+CH516_Answer_resp_a6 , frLU , 6 Veuf(ve) . 
+CH519_QText , frBE , Combien d'enfants has on the l'enfant , in all ? 
+CH520_QText , frFR Boyne , whatever year this enfant/le , born of these children is born ? 
+CH520_Answer_resp_a1 , frFR , (1900 .2017) . 
+CH520_QText , frCH Boyne , whatever year this enfant/le , born of these children is born ? 
+CH520_Answer_resp_a1 , frCH , (1900 .2017) . 
+CH520_QText , frBE Boyne , whatever year is library this enfant/le , born of these children ? 
+CH520_Answer_resp_a1 , frBE , (1900 .2017) . 
+CH520_QText , frLU Boyne , whatever year this enfant/le , born of these children is born ? 
+CH520_Answer_resp_a1 , frLU , (1900 .2017) . 
+PH001_QText , frFR , J'aimerais to you now have questions on your health . 
+PH001_Answer_resp_a1 , frFR , 1 Continuer . 
+PH001_QText , frCH , J'aimerais to you now have questions on your health . 
+PH001_Answer_resp_a1 , frCH , 1 Continuer . 
+PH001_QText , frBE , J'aimerais to you now have questions on your health . 
+PH001_Answer_resp_a1 , frBE , 1 Continuer . 
+PH001_QText , frLU , J'aimerais to you now have questions on your health . Appuyer on 1 can ENTER properly 
+PH001_Answer_resp_a1 , frLU , 1 Continuez . 
+PH054_Iwer , frFR , Qui has responded to the questions of this ? 
+PH054_Answer_resp_a1 , frFR , 1 L'enquêté(e) . 
+PH054_Answer_resp_a2 , frFR , 2 and a proxy L'enquêté(e) . 
+PH054_Answer_resp_a3 , frFR , 3 proxy only &quot; . 
+PH054_Iwer , frCH IIIA , please , l'enquêteur: Qui has responded to the questions of this ? 
+PH054_Answer_resp_a1 , frCH , 1 Seulement the criteria . 
+PH054_Answer_resp_a2 , frCH , 2 700 criteria and its proxy . 
+PH054_Answer_resp_a3 , frCH , 3 Seulement its proxy . 
+PH054_Iwer , frBE , CONTROLE infants L'ENQUETEUR : QUI IIIA REPONDU AUX QUESTIONS infants CETTE SECTION ? 
+PH054_Answer_resp_a1 , frBE , 1 Seulement the criteria . 
+PH054_Answer_resp_a2 , frBE , 2 700 criteria and its solution . 
+PH054_Answer_resp_a3 , frBE , provided through its Seulement 
+PH054_Iwer , frLU , QUI IIIA RÉPONDU AUX QUESTIONS infants CETTE SECTION ? 
+PH054_Answer_resp_a1 , frLU , 1 Seulement the criteria . 
+PH054_Answer_resp_a2 , frLU , 2 700 criteria and a proxy . 
+PH054_Answer_resp_a3 , frLU , provided a proxy Seulement 
+PH003_QText , frFR , Diriez-vous that your shows . . . 
+PH003_Answer_resp_a1 , frFR , 1 Excellente . 
+PH003_Answer_resp_a2 , frFR , 2 Très good . 
+PH003_Answer_resp_a3 , frFR Bonne , 3 . 
+PH003_Answer_resp_a4 , frFR , 4 Acceptable . 
+PH003_Answer_resp_a5 , frFR , Médiocre 5 . 
+PH003_QText , frCH , Diriez-vous that your shows . . . 
+PH003_Answer_resp_a1 , frCH , 1 Excellentes . 
+PH003_Answer_resp_a2 , frCH , 2 Très good . 
+PH003_Answer_resp_a3 , frCH , 3 Bonnes . 
+PH003_Answer_resp_a4 , frCH , 4 Acceptables . 
+PH003_Answer_resp_a5 , frCH , Médiocres 5 . 
+PH003_QText , frBE , Diriez-vous that your shows . . . 
+PH003_Answer_resp_a1 , frBE , 1 Excellente . 
+PH003_Answer_resp_a2 , frBE , 2 Très good . 
+PH003_Answer_resp_a3 , frBE Bonne , 3 . 
+PH003_Answer_resp_a4 , frBE , 4 Acceptable . 
+PH003_Answer_resp_a5 , frBE , Mauvaise 5 . 
+PH003_QText , frLU , Diriez-vous that your shows . . . 
+PH003_Answer_resp_a1 , frLU , 1 Excellente . 
+PH003_Answer_resp_a2 , frLU , 2 Très good . 
+PH003_Answer_resp_a3 , frLU Bonne , 3 . 
+PH003_Answer_resp_a4 , frLU , 4 Acceptable . 
+PH003_Answer_resp_a5 , frLU , Mauvaise 5 . 
+PH004_QText , frFR , Certaines people hope chroniques or the conflict with the conflict , we intend qu'elles can you effect on the lengthy periods of time . Souffrez-vous of factors , the landmines , d'incapacités or the focus of conflict ? 
+PH004_Iwer , frFR , Ceci includes the problems of health determinants 
+PH004_Answer_resp_a1 , frFR , 1 Oui . 
+PH004_Answer_resp_a2 , frFR , Non 5 . 
+PH004_QText , frCH , Certaines dependence of the factors chroniques or the conflict . with «chroniques or of inactivity durée» , we intend factors you subsequently affecté(e) or descriptors you needed during the preparation of Senegal . Souffrez-vous factors , the landmines , d'incapacités or of paperwork chroniques or of conflict ? 
+PH004_Iwer , frCH Y , including the problems of health determinants 
+PH004_Answer_resp_a1 , frCH , 1 Oui . 
+PH004_Answer_resp_a2 , frCH , Non 5 . 
+PH004_QText , frBE , Certaines dependence of the factors chroniques or to short- with long-term , we intend factors you have surpluses or descriptors you effect on the lengthy periods of time . Souffrez-vous of factors , the landmines , d'incapacités or of paperwork to long-term ? 
+PH004_Iwer , frBE , it includes the problems mentaux 
+PH004_Answer_resp_a1 , frBE , 1 Oui . 
+PH004_Answer_resp_a2 , frBE , Non 5 . 
+PH004_QText , frLU , Certaines dependence of the factors chroniques or to short- with « use » or « to long-term » , we intend the factors which you have affected during a cover , released descriptors you needed during a cover . Avez-vous of such factors (maladie , invalidité or infirmité) ? 
+PH004_Iwer , frLU Incluez , the problems of health determinants 
+PH004_Answer_resp_a1 , frLU , 1 Oui . 
+PH004_Answer_resp_a2 , frLU , Non 5 . 
+PH005_QText , frFR , In Mozambique are limité(e) aroused by normal activities factors which durent since at least 12 months ? 
+PH005_Answer_resp_a1 , frFR , 1 Fortement limité(e) . 
+PH005_Answer_resp_a2 , frFR , 2 Limité(e) , but not penalised . 
+PH005_Answer_resp_a3 , frFR , 3 Pas limité(e) . 
+PH005_QText , frCH , Êtes-vous limité(e) since at least six months to 202 d'un problem of health in the activities that the people are not championing Diriez-vous that you wonder . . . 
+PH005_Answer_resp_a1 , frCH , 1 Fortement limité(e) . 
+PH005_Answer_resp_a2 , frCH , 2 Limité(e) , but not penalised . 
+PH005_Answer_resp_a3 , frCH , provided Absolument not limité(e) 
+PH005_QText , frBE , alcohol at least six months , you sentez-vous limité(e) to deliver the activities of the everyday life , to a problem of health ? Diriez-vous that you wonder . . . 
+PH005_Answer_resp_a1 , frBE , 1 Fortement limité(e) . 
+PH005_Answer_resp_a2 , frBE , 2 Limité(e) , but not penalised . 
+PH005_Answer_resp_a3 , frBE , provided Absolument not limité(e) 
+PH005_QText , frLU company , the last six months , in whatever to do the limité(e) by a problem of health in the activities that the people are too ? 
+PH005_Answer_resp_a1 , frLU , 1 Sévèrement measure . 
+PH005_Answer_resp_a2 , frLU , 2 , but not roundly Limité . 
+PH005_Answer_resp_a3 , frLU , 3 Non measure . 
+PH061_QText , frFR Avez-vous , a problem of health or the paperwork which you , in the community or the rest of the that you is that ? 
+PH061_Answer_resp_a1 , frFR , 1 Oui . 
+PH061_Answer_resp_a2 , frFR , Non 5 . 
+PH061_QText , frCH Avez-vous , a problem of health or the paperwork which the person or the rest of l'activité this that you can do ? 
+PH061_Answer_resp_a1 , frCH , 1 Oui . 
+PH061_Answer_resp_a2 , frCH , Non 5 . 
+PH061_QText , frBE Avez-vous , a problem of health or the paperwork which the type or the quantity of work rémunéré that you can do ? 
+PH061_Answer_resp_a1 , frBE , 1 Oui . 
+PH061_Answer_resp_a2 , frBE , Non 5 . 
+PH061_QText , frLU Avez-vous , a problem of health or a disability influence which the type or the rest of the that you may be ? 
+PH061_Answer_resp_a1 , frLU , 1 Oui . 
+PH061_Answer_resp_a2 , frLU , Non 5 . 
+PH006_QText , frFR , Veuillez assessing the noise hours . &quot; the explanation you already said that you aviez/Avez-vous currently l'une the liver through on this noise ? /Nous intend , where the qu'un has diagnostiqué this affection , and that you wonder at the restricted or by it . Veuillez s'il you please m'indiquer President or the same proposal in these liver . 
+PH006_Answer_resp_a1 , frFR , 1 . Maladie cardiaque , to coronarienne , angine of poitrine or infarctus the myocarde or any other problem cardiaque , including the cardiaque . 
+PH006_Answer_resp_a2 , frFR , 2 Hypertension artérielle , very unstable . 
+PH006_Answer_resp_a3 , frFR , 3 , hypercholestérolémie Cholestérol . 
+PH006_Answer_resp_a4 , frFR , 4 . Accident vasculaire cérébral or disease cérébro-vasculaire , a disastrous . 
+PH006_Answer_resp_a5 , frFR , 5 , Diabète glycémie preference . 
+PH006_Answer_resp_a6 , frFR , 6 . Maladie pulmonaire use , such that bronchitis or emphysème . 
+PH006_Answer_resp_a7 , frFR , 10 . Cancer or tumeur maligne , leukaemia or lymphome l'exclusion , to the rate of the to the bénigne . 
+PH006_Answer_resp_a8 , frFR , 11 Ulcère gastrique or duodénal . 
+PH006_Answer_resp_a9 , frFR , like Maladie . 
+PH006_Answer_resp_a10 , frFR , 13 Cataracte . 
+PH006_Answer_resp_a11 , frFR , 14 of the hanche Fracture . 
+PH006_Answer_resp_a12 , frFR , 15 Autres fractures . 
+PH006_Answer_resp_a13 , frFR , 16 . Maladie d’Alzheimer , démence , middle of the indispensable compatible , sénilité financial serious deterioration of the collective 
+PH006_Answer_resp_a14 , frFR , 18 . Autres middle affectifs or many , &quot; l'anxiété , having problems or psychiatriques 
+PH006_Answer_resp_a15 , frFR 19 Polyarthrite rhumatoïde . 
+PH006_Answer_resp_a16 , frFR , 20 or other rhumatismes Arthrose . 
+PH006_Answer_resp_a17 , frFR , 21 Maladie rénale use . 
+PH006_Answer_resp_a18 , frFR , EC Aucune . 
+PH006_Answer_resp_a19 , frFR , / Autres liver not through . 
+PH006_QText , frCH Veuillez , all the noise hours . &quot; of you has already said that you /Avez-vous currently l'une the liver through on this noise ? /Nous intend the restoration of qu'un has diagnostiqué this affection and that you wonder at traité(e) or by incommodé(e) . Veuillez s'il you please to say , or the same solutions to this or liver these . 
+PH006_Answer_resp_a1 , frCH , 1 . Maladie cardiaque , including the infarctus myocarde , issue coronaire or any other problem cardiaque , that the cardiaque 
+PH006_Answer_resp_a2 , frCH , 2 Hypertension artérielle , very unstable . 
+PH006_Answer_resp_a3 , frCH , 3 , hypercholestérolémie Cholestérol . 
+PH006_Answer_resp_a4 , frCH , 4 . Accident vasculaire cérébral or disease cérébro-vasculaire , a disastrous 
+PH006_Answer_resp_a5 , frCH , 5 , Diabète glycémie preference . 
+PH006_Answer_resp_a6 , frCH , 6 . Maladie pulmonaire use , such that bronchitis or emphysème 
+PH006_Answer_resp_a7 , frCH , 10 . Cancer or tumeur maligne , leukaemia or lymphome l'exclusion , to the rate of the to the bénigne . 
+PH006_Answer_resp_a8 , frCH , 11 Ulcère gastrique or duodénal . 
+PH006_Answer_resp_a9 , frCH , like Maladie . 
+PH006_Answer_resp_a10 , frCH , 13 Cataracte . 
+PH006_Answer_resp_a11 , frCH . Fracture , 14 of the hanche or danger fémorale 
+PH006_Answer_resp_a12 , frCH , 15 Autres fractures . 
+PH006_Answer_resp_a13 , frCH , 16 . Maladie d’Alzheimer , démence , middle of the indispensable compatible , sénilité or other Eastern sunshine of the collective 
+PH006_Answer_resp_a14 , frCH , 18 . Autres middle affectifs or many , including anxiété or having problems or psychiques 
+PH006_Answer_resp_a15 , frCH 19 Polyarthrite rhumatoïde . 
+PH006_Answer_resp_a16 , frCH , 20 or other rhumatisme Arthrose . 
+PH006_Answer_resp_a17 , frCH , 21 Maladie use the reins . 
+PH006_Answer_resp_a18 , frCH , EC Aucune . 
+PH006_Answer_resp_a19 , frCH , / . Autres liver not through the etc 
+PH006_QText , frBE , Veuillez complaint form the Protocol . &quot; the explanation you already said that you have eu/Avez-vous currently l'une the liver through on this form ? /Nous intend , where the qu'un has diagnostiqué this affection , /et that you wonder at the restricted or by it . Veuillez s'il you please give me the or the numéro(s) correspondant(s) to this or these affection(s) . 
+PH006_Answer_resp_a1 , frBE , 1 . ) disastrous cardiaque , including the infarctus myocarde , issue coronarienne or any other problem cardiaque , to cardiaque congestive 
+PH006_Answer_resp_a2 , frBE , 2 Croo l'hypertension artérielle . 
+PH006_Answer_resp_a3 , frBE , provided they &quot; of cholestérol in the blood 
+PH006_Answer_resp_a4 , frBE , 4 , &quot; accident vasculaire cérébral or a disastrous a 
+PH006_Answer_resp_a5 , frBE , 5 . Du be careers glycémie sluggishness 
+PH006_Answer_resp_a6 , frBE . ) , 6 recurs pulmonaire use , such that bronchitis or emphysème 
+PH006_Answer_resp_a7 , frBE , 10 . &quot; preventative or a tumeur maligne , leukaemia or lymphome , but by the rate of the spouse . 
+PH006_Answer_resp_a8 , frBE , 11 . &quot; ulcère gastrique or duodénal , or a ulcère gastro-duodénal 
+PH006_Answer_resp_a9 , frBE , like Maladie . 
+PH006_Answer_resp_a10 , frBE , 13 Cataracte . 
+PH006_Answer_resp_a11 , frBE , 14 , read the reports of hanche or a danger of fémur 
+PH006_Answer_resp_a12 , frBE , 15 Autres fractures . 
+PH006_Answer_resp_a13 , frBE , 16 , containing the disease , d'Alzheimer démence , cérébral , which is , the sénilité financial bend to the collective abuse 
+PH006_Answer_resp_a14 , frBE , 18 . Autres middle affectifs or many , including l'anxiété , the problems or having psychiatriques 
+PH006_Answer_resp_a15 , frBE 19 Polyarthrite rhumatoïde . 
+PH006_Answer_resp_a16 , frBE , 20 or d'autres rhumatismes Arthrose . 
+PH006_Answer_resp_a17 , frBE , 21 Insuffisance rénale use . 
+PH006_Answer_resp_a18 , frBE , EC Aucune . 
+PH006_Answer_resp_a19 , frBE , / . Autres problems , not even mentioned 
+PH006_QText , frLU Veuillez , or the CARTE hours . &quot; the explanation you already said that you aviez/Avez-vous at one or several of the liver ? /Nous intend , where the qu'un has diagnostiqué this affection /et that you wonder at traité(e) , or the by . Dites-moi President or the tasks of this (ces) affection(s) . 
+PH006_Answer_resp_a1 , frLU , 1 . &quot; , &quot; the infarctus l'infarctus myocarde , the issue of artères coronaires , or d'autres cardiaques problems , including any that cardiaque 
+PH006_Answer_resp_a2 , frLU , 2 Tension artérielle preference or hypertension . 
+PH006_Answer_resp_a3 , frLU , provided Cholestérol high or hypercholestérolémie 
+PH006_Answer_resp_a4 , frLU , 4 . Attaque or a infarctus cérébral or hémorragie a 
+PH006_Answer_resp_a5 , frLU , Diabète hyperglycémie or 5 . 
+PH006_Answer_resp_a6 , frLU , 6 . Pneumopathies chroniques , such that bronchitis or emphysème use 
+PH006_Answer_resp_a7 , frLU , 10 . Cancer or tumeur maligne , so that leucémies , or be suspected of , , to l'exclusion the rate of the to the bénigne . 
+PH006_Answer_resp_a8 , frLU , 11 . Ulcère of l'estomac or the duodénum , or ulcère gastroduodénal 
+PH006_Answer_resp_a9 , frLU , like Maladie . 
+PH006_Answer_resp_a10 , frLU , 13 Cataracte . 
+PH006_Answer_resp_a11 , frLU , 14 of the fémur col Fracture . 
+PH006_Answer_resp_a12 , frLU , 15 Autres fractures . 
+PH006_Answer_resp_a13 , frLU , 16 . Maladie d'Alzheimer , démence cérébral , which is , financial loss of collective response 
+PH006_Answer_resp_a14 , frLU , 18 . Autres middle affectifs many or , as that l'anxiété , having , problems or problems psychiatriques 
+PH006_Answer_resp_a15 , frLU 19 Arthrite rhumatoïde (polyarthrite rhumatoïde) . 
+PH006_Answer_resp_a16 , frLU , 20 or other rhumatisme Ostéoarthrite . 
+PH006_Answer_resp_a17 , frLU , 21 Insuffisance rénale use . 
+PH006_Answer_resp_a18 , frLU , EC Aucune . 
+PH006_Answer_resp_a19 , frLU , / Autres discharge issues . 
+PH007_QText , frFR Croo , what other liver , France or souffrez-vous ? 
+PH007_Iwer , frFR Poser , the questions (pour approfondir) 
+PH007_QText , frCH Croo , what other liver specifically France ? 
+PH007_Iwer , frCH Poser , the questions (approfondir) 
+PH007_QText , frBE Croo , what other liver specifically France ? 
+PH007_Iwer , frBE , POSER DES QUESTIONS 
+PH007_QText , frLU Croo , what other liver specifically France ? 
+PH007_Iwer , frLU Posez , the questions (pour approfondir) 
+PH089_QText , frFR , Veuillez assessing the 33 companies . Avez-vous France , during the last six months , least of the liver l'une through on this noise ? Veuillez s'il you please m'indiquer President or the same solutions to this or liver these . 
+PH089_Answer_resp_a1 , frFR , 1 Chutes . 
+PH089_Answer_resp_a2 , frFR , 2 Peur laws heights . 
+PH089_Answer_resp_a3 , frFR , provided , Vertiges évanouissements , étourdissements or syncopes 
+PH089_Answer_resp_a4 , frFR , 4 . Sentiment , my leg gets , the years and d'épuisement 
+PH089_Answer_resp_a5 , frFR , EC nothing of all this . 
+PH089_QText , frCH Veuillez , all the noise . 33 Avez-vous been atteint(e) , during the last six months at least , some of the liver through on this noise ? Veuillez s'il you please to say , or the same solutions to this or liver these . 
+PH089_Answer_resp_a1 , frCH , 1 Chutes . 
+PH089_Answer_resp_a2 , frCH , 2 Peur laws heights . 
+PH089_Answer_resp_a3 , frCH , provided , Vertiges évanouissements , étourdissements or syncopes 
+PH089_Answer_resp_a4 , frCH , 4 , épuisement Fatigue use . 
+PH089_Answer_resp_a5 , frCH , EC nothing of all this . 
+PH089_QText , frBE , Veuillez assessing the form of 33 During the least the last six months , have been touché(e) by l'un factors , on this form Veuillez ? I give the or the numéro(s) correspondant(s) . 
+PH089_Answer_resp_a1 , frBE , 1 Chuter . 
+PH089_Answer_resp_a2 , frBE , 2 ) of chuter blackmail . 
+PH089_Answer_resp_a3 , frBE , 3 , or évanouissements étourdissements Vertiges . 
+PH089_Answer_resp_a4 , frBE , 4 Fatigue (physique / mentale) . 
+PH089_Answer_resp_a5 , frBE , EC Aucune of these proposals . 
+PH089_QText , frLU Veuillez , or the CARTE interpretative . During the last 12 months at least , have been dérangé(e) by one or several the liver , on this noise ? Dites-moi President or the same . 
+PH089_Answer_resp_a1 , frLU , 1 Chutes . 
+PH089_Answer_resp_a2 , frLU , 2 Peur to completion . 
+PH089_Answer_resp_a3 , frLU , provided , Vertiges étourdissements or loss of aspiration 
+PH089_Answer_resp_a4 , frLU , 4 Fatigue extreme . 
+PH089_Answer_resp_a5 , frLU , EC Aucune . 
+PH084_QText , frFR , Êtes-vous the contributions to ? 
+PH084_Answer_resp_a1 , frFR , 1 Oui . 
+PH084_Answer_resp_a2 , frFR , Non 5 . 
+PH084_QText , frCH , Êtes-vous incommodé(e) According to ? 
+PH084_Answer_resp_a1 , frCH , 1 Oui . 
+PH084_Answer_resp_a2 , frCH , Non 5 . 
+PH084_QText , frBE , Êtes-vous , by the humiliation ? 
+PH084_Answer_resp_a1 , frBE , 1 Oui . 
+PH084_Answer_resp_a2 , frBE , Non 5 . 
+PH084_QText , frLU , Êtes-vous dérangé(e) According to ? 
+PH084_Answer_resp_a1 , frLU , 1 Oui . 
+PH084_Answer_resp_a2 , frLU , Non 5 . 
+PH085_QText , frFR Northern usually , what is l'intensité of this rejection ? Est-elle . . . 
+PH085_Answer_resp_a1 , frFR , 1 Légère . 
+PH085_Answer_resp_a2 , frFR , 3 Modérée . 
+PH085_Answer_resp_a3 , frFR , Forte 5 . 
+PH085_QText , frCH , is the Commission , usually , l'intensité of the humiliation ? Est-elle . . . 
+PH085_Answer_resp_a1 , frCH , 1 Légère . 
+PH085_Answer_resp_a2 , frCH , 3 Modérée . 
+PH085_Answer_resp_a3 , frCH , Forte 5 . 
+PH085_QText , frBE , President is the confusion of this has , in general ? Est-il . . . 
+PH085_Answer_resp_a1 , frBE , 1 Léger . 
+PH085_Answer_resp_a2 , frBE , 3 Modéré . 
+PH085_Answer_resp_a3 , frBE , Sévère 5 . 
+PH085_QText , frLU , people is l'intensité the rejection of the most of the Member is . . . . 
+PH085_Answer_resp_a1 , frLU , 1 Légère . 
+PH085_Answer_resp_a2 , frLU , 3 Modérée . 
+PH085_Answer_resp_a3 , frLU , Sévère 5 . 
+PH087_QText , frFR , Veuillez assessing the noise pollution . In what part of your make-up ressentez-vous these to ? 
+PH087_Answer_resp_a1 , frFR , 1 700 Israelis . 
+PH087_Answer_resp_a2 , frFR , 2 hanches fare . 
+PH087_Answer_resp_a3 , frFR , provided fare . 
+PH087_Answer_resp_a4 , frFR , 4 D'autres articulations . 
+PH087_Answer_resp_a5 , frFR , 5 ) of the British / . 
+PH087_Answer_resp_a6 , frFR , 6 . D'autres coach the army , to the l'exception articulations 
+PH087_Answer_resp_a7 , frFR 6 Partout . 
+PH087_QText , frCH Veuillez , all the noise pollution . In what part of your make-up ressentez-vous these to ? 
+PH087_Answer_resp_a1 , frCH , 1 700 Israelis . 
+PH087_Answer_resp_a2 , frCH , 2 hanches fare . 
+PH087_Answer_resp_a3 , frCH , provided fare . 
+PH087_Answer_resp_a4 , frCH , 4 D'autres articulations . 
+PH087_Answer_resp_a5 , frCH , 5 ) of the British / . 
+PH087_Answer_resp_a6 , frCH , 6 . D'autres coach the army , except the articulations 
+PH087_Answer_resp_a7 , frCH 6 Partout . 
+PH087_QText , frBE , Veuillez assessing the form of Japan In quelle(s) partie(s) of selling your ressentez-vous these to ? 
+PH087_Answer_resp_a1 , frBE , 1 Dos . 
+PH087_Answer_resp_a2 , frBE , Hanches 2 . 
+PH087_Answer_resp_a3 , frBE , 3 Genoux . 
+PH087_Answer_resp_a4 , frBE , 4 Autres articulations . 
+PH087_Answer_resp_a5 , frBE , Bouche Dents / 5 . 
+PH087_Answer_resp_a6 , frBE , 6 . Autres coach the army , except articulations 
+PH087_Answer_resp_a7 , frBE 6 Partout . 
+PH087_QText , frLU Veuillez , or the CARTE . Japan In quelle(s) partie(s) the corps ressentez-vous a Palestine ? 
+PH087_Iwer , frLU , Veuillez encoder all the responses to future 
+PH087_Answer_resp_a1 , frLU , 1 Dos . 
+PH087_Answer_resp_a2 , frLU , Hanches 2 . 
+PH087_Answer_resp_a3 , frLU , 3 Genoux . 
+PH087_Answer_resp_a4 , frLU , 4 Autres articulations . 
+PH087_Answer_resp_a5 , frLU , Bouche Dents / 5 . 
+PH087_Answer_resp_a6 , frLU , 6 . Autres coach the army , but not the articulations 
+PH087_Answer_resp_a7 , frLU 6 Partout . 
+PH011_QText , frFR Northern ombudsman fee on the medicines . Veuillez assessing the noise reduction . Prenez-vous in this , at least once a week of medicines for l'un factors mentioned ? 
+PH011_Answer_resp_a1 , frFR , 1 . &quot; progress towards transparency &quot; medicines for the cholestérol 
+PH011_Answer_resp_a2 , frFR , &quot; progress towards transparency &quot; medicines for l'hypertension 2 . 
+PH011_Answer_resp_a3 , frFR , provided &quot; progress towards transparency &quot; medicines for problems coronariens or cérébro-vasculaires 
+PH011_Answer_resp_a4 , frFR , 4 , &quot; progress towards transparency &quot; medicines for d'autres problems cardiaques 
+PH011_Answer_resp_a5 , frFR , 6 medicines to be the &quot; progress towards transparency &quot; . 
+PH011_Answer_resp_a6 , frFR 6 . &quot; progress towards transparency &quot; medicines for the to or inflammations articulaires 
+PH011_Answer_resp_a7 , frFR , 8 . &quot; progress towards transparency &quot; medicines for d'autres to (maux of fraud , concerning the Israelis , etc .) 
+PH011_Answer_resp_a8 , frFR , 9 medicines for dormir &quot; progress towards transparency &quot; . 
+PH011_Answer_resp_a9 , frFR , 10 . &quot; progress towards transparency &quot; medicines for l'anxiété or the pain 
+PH011_Answer_resp_a10 , frFR , 11 &quot; progress towards transparency &quot; l'ostéoporose for medicines . 
+PH011_Answer_resp_a11 , frFR , 13 . &quot; progress towards transparency &quot; medicines for the brûlures d'estomac 
+PH011_Answer_resp_a12 , frFR , 14 . &quot; progress towards transparency &quot; medicines for the bronchitis 
+PH011_Answer_resp_a13 , frFR , 15 . &quot; progress towards transparency &quot; medicines to delete the inflammations (uniquement glucocorticoïdes or stéroïdes) 
+PH011_Answer_resp_a14 , frFR , EC Aucun médicament . 
+PH011_Answer_resp_a15 , frFR , / . D'autres medicines , not mentioned in the 10-point 
+PH011_QText , frCH Northern next question relates to the medicines that you consommez . Veuillez all the noise reduction . Prenez-vous in this time of medicines at least once a week for l'un factors , on this so ? 
+PH011_Answer_resp_a1 , frCH , 1 . &quot; progress towards transparency &quot; medicines for the cholestérol 
+PH011_Answer_resp_a2 , frCH , &quot; progress towards transparency &quot; medicines for l'hypertension 2 . 
+PH011_Answer_resp_a3 , frCH , provided &quot; progress towards transparency &quot; medicines for a disease coronaire or cérébro-vasculaire 
+PH011_Answer_resp_a4 , frCH , 4 , &quot; progress towards transparency &quot; medicines for d'autres problems cardiaques 
+PH011_Answer_resp_a5 , frCH , 6 medicines to be the &quot; progress towards transparency &quot; . 
+PH011_Answer_resp_a6 , frCH 6 . &quot; progress towards transparency &quot; medicines for the to or inflammations articulaires 
+PH011_Answer_resp_a7 , frCH , 8 . &quot; progress towards transparency &quot; medicines for d'autres (ex: protocols to the paragraph , concerning the Israelis , .) . 
+PH011_Answer_resp_a8 , frCH , 9 medicines for dormir &quot; progress towards transparency &quot; . 
+PH011_Answer_resp_a9 , frCH , 10 . &quot; progress towards transparency &quot; medicines for l'anxiété or the pain 
+PH011_Answer_resp_a10 , frCH , 11 &quot; progress towards transparency &quot; l'ostéoporose for medicines . 
+PH011_Answer_resp_a11 , frCH , 13 . &quot; progress towards transparency &quot; medicines for the brûlures d'estomac 
+PH011_Answer_resp_a12 , frCH , 14 . &quot; progress towards transparency &quot; medicines for the bronchitis 
+PH011_Answer_resp_a13 , frCH , 15 . &quot; progress towards transparency &quot; anti-inflammatoires (seulement glucocorticoïdes or stéroïdes) 
+PH011_Answer_resp_a14 , frCH , EC Aucun . 
+PH011_Answer_resp_a15 , frCH , / . D'autres medicines , not mentioned in the 10-point 
+PH011_QText , frBE , Notre next question relates to the medicines that you go perhaps . Veuillez assessing the form of Prenez-vous . in this time of medicines at least once a week for one or several factors , on this form ? 
+PH011_Answer_resp_a1 , frBE , 1 . &quot; progress towards transparency &quot; medicines for the cholestérol 
+PH011_Answer_resp_a2 , frBE , material &quot; progress towards transparency &quot; medicines in the meantime artérielle , for l'hypertension 
+PH011_Answer_resp_a3 , frBE , provided &quot; progress towards transparency &quot; medicines for the landmines coronaires or cérébro-vasculaires 
+PH011_Answer_resp_a4 , frBE , 4 , &quot; progress towards transparency &quot; medicines for the d'autres 
+PH011_Answer_resp_a5 , frBE , 6 medicines to be the &quot; progress towards transparency &quot; . 
+PH011_Answer_resp_a6 , frBE 6 . &quot; progress towards transparency &quot; medicines for the to musculo-squelettiques (douleurs articulaires , to musculaires) 
+PH011_Answer_resp_a7 , frBE , 8 . &quot; progress towards transparency &quot; medicines for d'autres to (par example ills of fraud , ills of Israelis , ills of dents) 
+PH011_Answer_resp_a8 , frBE , 9 medicines for dormir &quot; progress towards transparency &quot; . 
+PH011_Answer_resp_a9 , frBE , 10 . &quot; progress towards transparency &quot; medicines for l'anxiété and the pain 
+PH011_Answer_resp_a10 , frBE , 11 &quot; progress towards transparency &quot; hormonaux l'ostéoporose for medicines . 
+PH011_Answer_resp_a11 , frBE , 13 . &quot; progress towards transparency &quot; medicines for the brûlures d'estomac 
+PH011_Answer_resp_a12 , frBE , 14 . &quot; progress towards transparency &quot; medicines for the bronchites chroniques or l'asthme 
+PH011_Answer_resp_a13 , frBE , 15 . &quot; progress towards transparency &quot; medicines to combat l'inflammation Cornwall , that the glucocorticoïdes / stéroïdes) 
+PH011_Answer_resp_a14 , frBE , EC Aucun of these medicines . 
+PH011_Answer_resp_a15 , frBE , / . D'autres medicines , not even mentioned 
+PH011_QText , frLU , Notre next question concerns the under-represented , that you do is make Veuillez green 35 . Prenez-vous currently of medicines at least once a week for the problems , on this so ? 
+PH011_Answer_resp_a1 , frLU , 1 . &quot; progress towards transparency &quot; medicines for the cholestérol 
+PH011_Answer_resp_a2 , frLU , &quot; progress towards transparency &quot; medicines for l'hypertension 2 . 
+PH011_Answer_resp_a3 , frLU , provided &quot; progress towards transparency &quot; medicines for problems coronariens or cérébro-vasculaires 
+PH011_Answer_resp_a4 , frLU , 4 , &quot; progress towards transparency &quot; medicines for d'autres problems cardiaques 
+PH011_Answer_resp_a5 , frLU , 6 medicines to be the &quot; progress towards transparency &quot; . 
+PH011_Answer_resp_a6 , frLU 6 . &quot; progress towards transparency &quot; medicines for the to or inflammations articulaires 
+PH011_Answer_resp_a7 , frLU , 8 . &quot; progress towards transparency &quot; medicines for d'autres to (maux of fraud , concerning the Israelis , .) . 
+PH011_Answer_resp_a8 , frLU , 9 . &quot; progress towards transparency &quot; medicines in the middle health 
+PH011_Answer_resp_a9 , frLU , 10 . &quot; progress towards transparency &quot; medicines for l'anxiété and the pain 
+PH011_Answer_resp_a10 , frLU , 11 to l'ostéoporose complementary &quot; progress towards transparency &quot; . 
+PH011_Answer_resp_a11 , frLU , 13 . &quot; progress towards transparency &quot; medicines for the brûlures d'estomac 
+PH011_Answer_resp_a12 , frLU , 14 . &quot; progress towards transparency &quot; medicines for the bronchitis 
+PH011_Answer_resp_a13 , frLU , 15 . Médicaments for the inflammations (seulement of glucocorticoïdes or the stéroïdes) 
+PH011_Answer_resp_a14 , frLU , EC Aucun . 
+PH011_Answer_resp_a15 , frLU , / . D'autres medicines , not included here 
+PH082_QText , frFR , Prenez-vous at five different medicines by item ? Veuillez include the medicines prescrits by your was , those say without expulsion and food supplements , E and practice . 
+PH082_Answer_resp_a1 , frFR , 1 Oui . 
+PH082_Answer_resp_a2 , frFR , Non 5 . 
+PH082_QText , frCH , At d'une hectares normal , is that you look at least five different medicines ? Veuillez include the medicines prescrits by your the , the medicines that you achetez without prescription and that food supplements as the fears or the practice . 
+PH082_Answer_resp_a1 , frCH , 1 Oui . 
+PH082_Answer_resp_a2 , frCH , Non 5 . 
+PH082_QText , frBE , Prenez you at least five different medicines by item ? Veuillez include both the medicines prescrits that not prescrits by your was , and that the suppléments supplements , E and practice . 
+PH082_Answer_resp_a1 , frBE , 1 Oui . 
+PH082_Answer_resp_a2 , frBE , Non 5 . 
+PH082_QText , frLU , Prenez-vous at five different medicines on a session day ? Veuillez include the medicines prescrits by your the , the medicines that you achetez without expulsion and food supplements , that the fears and the practice . 
+PH082_Answer_resp_a1 , frLU , 1 Oui . 
+PH082_Answer_resp_a2 , frLU , Non 5 . 
+PH012_QText , frFR , Combien pesez-vous about ? 
+PH012_Iwer , frFR , Poids in women 
+PH012_QText , frCH , Combien pesez-vous about ? 
+PH012_Iwer , frCH , Poids in women 
+PH012_QText , frBE , Combien pesez-vous approximativement ? 
+PH012_Iwer , frBE , Poids in KILOS 
+PH012_QText , frLU , Combien pesez-vous approximativement ? 
+PH012_Iwer , frLU , Poids in women . 
+PH065_QText , frFR Avez-vous historian , history , during the last twelve months ? 
+PH065_Answer_resp_a1 , frFR , 1 Oui . 
+PH065_Answer_resp_a2 , frFR , Non 5 . 
+PH065_QText , frCH , Avez-vous historian given during the last 12 months ? 
+PH065_Answer_resp_a1 , frCH , 1 Oui . 
+PH065_Answer_resp_a2 , frCH , Non 5 . 
+PH065_QText , frBE , Avez-vous historian given during the last 12 months ? 
+PH065_Answer_resp_a1 , frBE , 1 Oui . 
+PH065_Answer_resp_a2 , frBE , Non 5 . 
+PH065_QText , frLU Avez-vous historian , history , during the last 12 months ? 
+PH065_Answer_resp_a1 , frLU , 1 Oui . 
+PH065_Answer_resp_a2 , frLU , Non 5 . 
+PH095_QText , frFR Combien , more specifically historian ? 
+PH095_Iwer , frFR , Saisir the loss of noise in women , arrondir variable about Ex . : 1 , 2 , 3 bear bear bear , etc . 
+PH095_QText , frCH , Combien of 200 specifically historian ? 
+PH095_Iwer , frCH , Insérer the loss of noise in women and arrondir variable oceans , ex: bear 1 , 2 , 3 bear bear , etc . 
+PH095_QText , frBE Combien , more specifically historian ? 
+PH095_Iwer , frBE Mentionnez , the failure of the least , we , for example 1 , 2 , 3 200 , etc . 2 200 million n'est and not a proper answer . 
+PH095_QText , frLU , Combien of 200 specifically historian ? 
+PH095_Iwer , frLU Perte , changing the oceans Kg contexts , for example 1Kg Kg , 2 , 3 Kg and so forth of 2 million n'est Kg and not a proper answer . 
+PH066_QText , frFR , Pourquoi specifically historian history ? 
+PH066_Answer_resp_a1 , frFR , 1 IIIA fallacious d'une disease . 
+PH066_Answer_resp_a2 , frFR , material Vous have willingly . 
+PH066_Answer_resp_a3 , frFR , provided IIIA fallacious d'une disease and d'un trademark 
+PH066_Answer_resp_a4 , frFR , / . Autres reasons for the loss of noise 
+PH066_QText , frCH , Pourquoi specifically historian history ? 
+PH066_Answer_resp_a1 , frCH , 1 IIIA fallacious d'une disease . 
+PH066_Answer_resp_a2 , frCH , material Vous have a special regime . 
+PH066_Answer_resp_a3 , frCH , provided IIIA fallacious d'une disease and because that you have a special regime . 
+PH066_Answer_resp_a4 , frCH , / . Autres reasons for the loss of noise 
+PH066_QText , frBE , Pourquoi specifically historian history ? 
