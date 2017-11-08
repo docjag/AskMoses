@@ -8,13 +8,15 @@
 
 from bs4 import BeautifulSoup
 import codecs
+import sys
 
 #################################################
 ############ Main body of the program: ##########
 #################################################
 
-file_name = raw_input("Enter the name of the file: ")
-lang = raw_input("Enter language code: ")
+file_name = sys.argv[1]
+output_file = file_name[0:-4]
+
 
 with codecs.open(file_name,'r', encoding = 'utf-8') as fhand:
 	for line in fhand:
@@ -23,6 +25,7 @@ with codecs.open(file_name,'r', encoding = 'utf-8') as fhand:
 		pageText = soup.findAll(text=True)
 		new_line = ' '.join(pageText).strip()
 		if new_line is not "":
-			print new_line
-			with open('/home/sohel/sgm3txt.' + lang,'ab') as fh_write:
+			with open(output_file,'ab') as fh_write:
 				fh_write.write(new_line.encode('utf-8') + '\n')
+
+	print 'Succefully parsed to a single line text file!'
