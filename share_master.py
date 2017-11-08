@@ -79,7 +79,7 @@ def blank_check(text):
 
 
 # Duplicate check -- Sanity Check2
-#Read the responses from the csv file of SHARE-EU and Split multiple answers
+# Read the responses from the csv file of SHARE-EU and Split multiple answers
 
 def duplicate_check():
 	resp_dict = OrderedDict()
